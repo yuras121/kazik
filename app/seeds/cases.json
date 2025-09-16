@@ -1,0 +1,720 @@
+[
+  {
+    "code": "classic",
+    "name": "Classic Meme Case",
+    "price": 40,
+    "pity_step": 1.05,
+    "pity_threshold": 10,
+    "cp_requirement": null,
+    "items": [
+      {
+        "item_key": "pepe_classic_001",
+        "weight": 6
+      },
+      {
+        "item_key": "pepe_classic_002",
+        "weight": 6
+      },
+      {
+        "item_key": "pepe_classic_003",
+        "weight": 6
+      },
+      {
+        "item_key": "pepe_classic_004",
+        "weight": 6
+      },
+      {
+        "item_key": "wojak_npc_001",
+        "weight": 5
+      },
+      {
+        "item_key": "wojak_npc_002",
+        "weight": 5
+      },
+      {
+        "item_key": "wojak_npc_003",
+        "weight": 5
+      },
+      {
+        "item_key": "wojak_npc_004",
+        "weight": 5
+      },
+      {
+        "item_key": "trend_skibidi_001",
+        "weight": 4
+      },
+      {
+        "item_key": "trend_skibidi_002",
+        "weight": 4
+      },
+      {
+        "item_key": "trend_skibidi_003",
+        "weight": 4
+      },
+      {
+        "item_key": "anime_uwu_001",
+        "weight": 4
+      },
+      {
+        "item_key": "anime_uwu_002",
+        "weight": 4
+      },
+      {
+        "item_key": "anime_uwu_003",
+        "weight": 4
+      }
+    ]
+  },
+  {
+    "code": "pepe",
+    "name": "Pepe Case",
+    "price": 100,
+    "pity_step": 1.1,
+    "pity_threshold": 9,
+    "cp_requirement": null,
+    "items": [
+      {
+        "item_key": "pepe_classic_001",
+        "weight": 8
+      },
+      {
+        "item_key": "pepe_classic_002",
+        "weight": 8
+      },
+      {
+        "item_key": "pepe_classic_003",
+        "weight": 8
+      },
+      {
+        "item_key": "pepe_smile_001",
+        "weight": 7
+      },
+      {
+        "item_key": "pepe_smile_002",
+        "weight": 7
+      },
+      {
+        "item_key": "pepe_smile_003",
+        "weight": 7
+      },
+      {
+        "item_key": "pepe_sad_001",
+        "weight": 5
+      },
+      {
+        "item_key": "pepe_sad_002",
+        "weight": 5
+      },
+      {
+        "item_key": "pepe_sad_003",
+        "weight": 5
+      },
+      {
+        "item_key": "pepe_samurai_001",
+        "weight": 3
+      },
+      {
+        "item_key": "pepe_samurai_002",
+        "weight": 3
+      },
+      {
+        "item_key": "pepe_samurai_003",
+        "weight": 3
+      },
+      {
+        "item_key": "pepe_pharaoh_001",
+        "weight": 1.5
+      },
+      {
+        "item_key": "pepe_pharaoh_002",
+        "weight": 1.5
+      },
+      {
+        "item_key": "pepe_god_001",
+        "weight": 0.5
+      },
+      {
+        "item_key": "pepe_god_002",
+        "weight": 0.5
+      }
+    ]
+  },
+  {
+    "code": "doge",
+    "name": "Doge Case",
+    "price": 75,
+    "pity_step": 1.08,
+    "pity_threshold": 9,
+    "cp_requirement": null,
+    "items": [
+      {
+        "item_key": "doge_classic_001",
+        "weight": 7
+      },
+      {
+        "item_key": "doge_classic_002",
+        "weight": 7
+      },
+      {
+        "item_key": "doge_classic_003",
+        "weight": 7
+      },
+      {
+        "item_key": "doge_cheems_001",
+        "weight": 5
+      },
+      {
+        "item_key": "doge_cheems_002",
+        "weight": 5
+      },
+      {
+        "item_key": "doge_cheems_003",
+        "weight": 5
+      },
+      {
+        "item_key": "doge_buff_001",
+        "weight": 3
+      },
+      {
+        "item_key": "doge_buff_002",
+        "weight": 3
+      },
+      {
+        "item_key": "doge_buff_003",
+        "weight": 3
+      },
+      {
+        "item_key": "doge_gold_001",
+        "weight": 1.5
+      },
+      {
+        "item_key": "doge_gold_002",
+        "weight": 1.5
+      },
+      {
+        "item_key": "doge_cosmic_001",
+        "weight": 0.4
+      },
+      {
+        "item_key": "doge_cosmic_002",
+        "weight": 0.4
+      }
+    ]
+  },
+  {
+    "code": "wojak",
+    "name": "Wojak Case",
+    "price": 120,
+    "pity_step": 1.12,
+    "pity_threshold": 8,
+    "cp_requirement": null,
+    "items": [
+      {
+        "item_key": "wojak_npc_001",
+        "weight": 7
+      },
+      {
+        "item_key": "wojak_npc_002",
+        "weight": 7
+      },
+      {
+        "item_key": "wojak_npc_003",
+        "weight": 7
+      },
+      {
+        "item_key": "wojak_doomer_001",
+        "weight": 5
+      },
+      {
+        "item_key": "wojak_doomer_002",
+        "weight": 5
+      },
+      {
+        "item_key": "wojak_doomer_003",
+        "weight": 5
+      },
+      {
+        "item_key": "wojak_bloomer_001",
+        "weight": 4
+      },
+      {
+        "item_key": "wojak_bloomer_002",
+        "weight": 4
+      },
+      {
+        "item_key": "wojak_bloomer_003",
+        "weight": 4
+      },
+      {
+        "item_key": "wojak_trader_001",
+        "weight": 2
+      },
+      {
+        "item_key": "wojak_trader_002",
+        "weight": 2
+      },
+      {
+        "item_key": "wojak_trader_003",
+        "weight": 2
+      },
+      {
+        "item_key": "wojak_gigachad_001",
+        "weight": 0.8
+      },
+      {
+        "item_key": "wojak_gigachad_002",
+        "weight": 0.8
+      },
+      {
+        "item_key": "wojak_ascended_001",
+        "weight": 0.3
+      },
+      {
+        "item_key": "wojak_ascended_002",
+        "weight": 0.3
+      }
+    ]
+  },
+  {
+    "code": "shitpost",
+    "name": "Shitpost Case",
+    "price": 500,
+    "pity_step": 1.2,
+    "pity_threshold": 7,
+    "cp_requirement": null,
+    "items": [
+      {
+        "item_key": "trend_grimace_001",
+        "weight": 3
+      },
+      {
+        "item_key": "trend_grimace_002",
+        "weight": 3
+      },
+      {
+        "item_key": "trend_grimace_003",
+        "weight": 3
+      },
+      {
+        "item_key": "trend_rizz_001",
+        "weight": 2
+      },
+      {
+        "item_key": "trend_rizz_002",
+        "weight": 2
+      },
+      {
+        "item_key": "trend_rizz_003",
+        "weight": 2
+      },
+      {
+        "item_key": "trend_ohio_001",
+        "weight": 1.5
+      },
+      {
+        "item_key": "trend_ohio_002",
+        "weight": 1.5
+      },
+      {
+        "item_key": "legends_trollface_001",
+        "weight": 1.2
+      },
+      {
+        "item_key": "legends_trollface_002",
+        "weight": 1.2
+      },
+      {
+        "item_key": "legends_problem_001",
+        "weight": 0.6
+      },
+      {
+        "item_key": "legends_problem_002",
+        "weight": 0.6
+      }
+    ]
+  },
+  {
+    "code": "anime",
+    "name": "Anime Meme Case",
+    "price": 300,
+    "pity_step": 1.18,
+    "pity_threshold": 8,
+    "cp_requirement": null,
+    "items": [
+      {
+        "item_key": "anime_uwu_001",
+        "weight": 5
+      },
+      {
+        "item_key": "anime_uwu_002",
+        "weight": 5
+      },
+      {
+        "item_key": "anime_uwu_003",
+        "weight": 5
+      },
+      {
+        "item_key": "anime_kawaii_001",
+        "weight": 4
+      },
+      {
+        "item_key": "anime_kawaii_002",
+        "weight": 4
+      },
+      {
+        "item_key": "anime_kawaii_003",
+        "weight": 4
+      },
+      {
+        "item_key": "anime_mecha_001",
+        "weight": 3
+      },
+      {
+        "item_key": "anime_mecha_002",
+        "weight": 3
+      },
+      {
+        "item_key": "anime_mecha_003",
+        "weight": 3
+      },
+      {
+        "item_key": "anime_senpai_001",
+        "weight": 1.5
+      },
+      {
+        "item_key": "anime_senpai_002",
+        "weight": 1.5
+      },
+      {
+        "item_key": "anime_senpai_003",
+        "weight": 1.5
+      },
+      {
+        "item_key": "anime_otaku_001",
+        "weight": 0.8
+      },
+      {
+        "item_key": "anime_otaku_002",
+        "weight": 0.8
+      },
+      {
+        "item_key": "anime_neon_001",
+        "weight": 0.4
+      },
+      {
+        "item_key": "anime_neon_002",
+        "weight": 0.4
+      }
+    ]
+  },
+  {
+    "code": "chad",
+    "name": "Chad Case",
+    "price": 200,
+    "pity_step": 1.15,
+    "pity_threshold": 8,
+    "cp_requirement": null,
+    "items": [
+      {
+        "item_key": "wojak_trader_001",
+        "weight": 5
+      },
+      {
+        "item_key": "wojak_trader_002",
+        "weight": 5
+      },
+      {
+        "item_key": "wojak_gigachad_001",
+        "weight": 4
+      },
+      {
+        "item_key": "wojak_gigachad_002",
+        "weight": 4
+      },
+      {
+        "item_key": "doge_buff_001",
+        "weight": 3
+      },
+      {
+        "item_key": "doge_buff_002",
+        "weight": 3
+      },
+      {
+        "item_key": "doge_gold_001",
+        "weight": 2
+      },
+      {
+        "item_key": "doge_gold_002",
+        "weight": 2
+      },
+      {
+        "item_key": "pepe_samurai_001",
+        "weight": 1.2
+      },
+      {
+        "item_key": "pepe_samurai_002",
+        "weight": 1.2
+      },
+      {
+        "item_key": "artifact_crown_001",
+        "weight": 0.5
+      }
+    ]
+  },
+  {
+    "code": "legendary",
+    "name": "Legendary Meme Case",
+    "price": 1000,
+    "pity_step": 1.25,
+    "pity_threshold": 6,
+    "cp_requirement": null,
+    "items": [
+      {
+        "item_key": "pepe_pharaoh_001",
+        "weight": 3
+      },
+      {
+        "item_key": "pepe_pharaoh_002",
+        "weight": 3
+      },
+      {
+        "item_key": "pepe_pharaoh_003",
+        "weight": 3
+      },
+      {
+        "item_key": "doge_gold_001",
+        "weight": 2.5
+      },
+      {
+        "item_key": "doge_gold_002",
+        "weight": 2.5
+      },
+      {
+        "item_key": "doge_gold_003",
+        "weight": 2.5
+      },
+      {
+        "item_key": "wojak_gigachad_001",
+        "weight": 2
+      },
+      {
+        "item_key": "wojak_gigachad_002",
+        "weight": 2
+      },
+      {
+        "item_key": "wojak_gigachad_003",
+        "weight": 2
+      },
+      {
+        "item_key": "artifact_crystal_001",
+        "weight": 1.5
+      },
+      {
+        "item_key": "artifact_crystal_002",
+        "weight": 1.5
+      },
+      {
+        "item_key": "artifact_chalice_001",
+        "weight": 0.6
+      },
+      {
+        "item_key": "artifact_chalice_002",
+        "weight": 0.6
+      }
+    ]
+  },
+  {
+    "code": "ultra",
+    "name": "Ultra Trend Case",
+    "price": 750,
+    "pity_step": 1.22,
+    "pity_threshold": 7,
+    "cp_requirement": null,
+    "items": [
+      {
+        "item_key": "trend_rizz_001",
+        "weight": 4
+      },
+      {
+        "item_key": "trend_rizz_002",
+        "weight": 4
+      },
+      {
+        "item_key": "trend_rizz_003",
+        "weight": 4
+      },
+      {
+        "item_key": "trend_sigma_001",
+        "weight": 3
+      },
+      {
+        "item_key": "trend_sigma_002",
+        "weight": 3
+      },
+      {
+        "item_key": "trend_sigma_003",
+        "weight": 3
+      },
+      {
+        "item_key": "trend_ohio_001",
+        "weight": 2.5
+      },
+      {
+        "item_key": "trend_ohio_002",
+        "weight": 2.5
+      },
+      {
+        "item_key": "trend_ohio_003",
+        "weight": 2.5
+      },
+      {
+        "item_key": "anime_senpai_001",
+        "weight": 2
+      },
+      {
+        "item_key": "anime_senpai_002",
+        "weight": 2
+      },
+      {
+        "item_key": "anime_otaku_001",
+        "weight": 1
+      },
+      {
+        "item_key": "anime_otaku_002",
+        "weight": 1
+      },
+      {
+        "item_key": "artifact_memecoin_001",
+        "weight": 0.5
+      },
+      {
+        "item_key": "artifact_memecoin_002",
+        "weight": 0.5
+      }
+    ]
+  },
+  {
+    "code": "mythic",
+    "name": "Mythic Case",
+    "price": 2000,
+    "pity_step": 1.35,
+    "pity_threshold": 5,
+    "cp_requirement": null,
+    "items": [
+      {
+        "item_key": "pepe_god_001",
+        "weight": 1.2
+      },
+      {
+        "item_key": "pepe_god_002",
+        "weight": 1.2
+      },
+      {
+        "item_key": "pepe_god_003",
+        "weight": 1.2
+      },
+      {
+        "item_key": "doge_cosmic_001",
+        "weight": 1.1
+      },
+      {
+        "item_key": "doge_cosmic_002",
+        "weight": 1.1
+      },
+      {
+        "item_key": "doge_cosmic_003",
+        "weight": 1.1
+      },
+      {
+        "item_key": "wojak_ascended_001",
+        "weight": 1.0
+      },
+      {
+        "item_key": "wojak_ascended_002",
+        "weight": 1.0
+      },
+      {
+        "item_key": "anime_neon_001",
+        "weight": 0.9
+      },
+      {
+        "item_key": "anime_neon_002",
+        "weight": 0.9
+      },
+      {
+        "item_key": "artifact_portal_001",
+        "weight": 0.6
+      },
+      {
+        "item_key": "artifact_portal_002",
+        "weight": 0.6
+      },
+      {
+        "item_key": "artifact_ember_001",
+        "weight": 0.4
+      },
+      {
+        "item_key": "artifact_ember_002",
+        "weight": 0.4
+      }
+    ]
+  },
+  {
+    "code": "collector",
+    "name": "Collector Case",
+    "price": 0,
+    "pity_step": 1.4,
+    "pity_threshold": 5,
+    "cp_requirement": 5000,
+    "items": [
+      {
+        "item_key": "artifact_portal_001",
+        "weight": 1.1
+      },
+      {
+        "item_key": "artifact_portal_002",
+        "weight": 1.1
+      },
+      {
+        "item_key": "artifact_crown_001",
+        "weight": 1.0
+      },
+      {
+        "item_key": "artifact_crown_002",
+        "weight": 1.0
+      },
+      {
+        "item_key": "artifact_chalice_001",
+        "weight": 0.9
+      },
+      {
+        "item_key": "artifact_chalice_002",
+        "weight": 0.9
+      },
+      {
+        "item_key": "artifact_ember_001",
+        "weight": 0.8
+      },
+      {
+        "item_key": "artifact_ember_002",
+        "weight": 0.8
+      },
+      {
+        "item_key": "pepe_god_001",
+        "weight": 0.7
+      },
+      {
+        "item_key": "pepe_god_002",
+        "weight": 0.7
+      },
+      {
+        "item_key": "doge_cosmic_001",
+        "weight": 0.6
+      },
+      {
+        "item_key": "doge_cosmic_002",
+        "weight": 0.6
+      }
+    ]
+  }
+]

@@ -1,0 +1,15 @@
+services:
+  - type: worker
+    name: meme-economy-bot
+    env: python
+    buildCommand: pip install -r requirements.txt
+    startCommand: python -m app.main
+    envVars:
+      - key: BOT_TOKEN
+        sync: false
+      - key: DATABASE_URL
+        sync: false
+databases:
+  - name: meme-economy-db
+    databaseName: meme_economy
+    user: meme_user
