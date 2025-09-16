@@ -1,0 +1,1952 @@
+[
+  {
+    "key": "pepe_classic_001",
+    "name": "Pepe Classic #0001",
+    "rarity": "common",
+    "type": "card",
+    "color": "standard",
+    "cp_value": 10,
+    "base_buy_price": 1,
+    "image_url": "https://img.example.com/memes/pepe_classic_001.png"
+  },
+  {
+    "key": "pepe_classic_002",
+    "name": "Pepe Classic #0002",
+    "rarity": "common",
+    "type": "card",
+    "color": "standard",
+    "cp_value": 10,
+    "base_buy_price": 1,
+    "image_url": "https://img.example.com/memes/pepe_classic_002.png"
+  },
+  {
+    "key": "pepe_classic_003",
+    "name": "Pepe Classic #0003",
+    "rarity": "common",
+    "type": "card",
+    "color": "standard",
+    "cp_value": 10,
+    "base_buy_price": 1,
+    "image_url": "https://img.example.com/memes/pepe_classic_003.png"
+  },
+  {
+    "key": "pepe_classic_004",
+    "name": "Pepe Classic #0004",
+    "rarity": "common",
+    "type": "card",
+    "color": "standard",
+    "cp_value": 10,
+    "base_buy_price": 1,
+    "image_url": "https://img.example.com/memes/pepe_classic_004.png"
+  },
+  {
+    "key": "pepe_classic_005",
+    "name": "Pepe Classic #0005",
+    "rarity": "common",
+    "type": "card",
+    "color": "standard",
+    "cp_value": 10,
+    "base_buy_price": 1,
+    "image_url": "https://img.example.com/memes/pepe_classic_005.png"
+  },
+  {
+    "key": "pepe_classic_006",
+    "name": "Pepe Classic #0006",
+    "rarity": "common",
+    "type": "card",
+    "color": "standard",
+    "cp_value": 10,
+    "base_buy_price": 1,
+    "image_url": "https://img.example.com/memes/pepe_classic_006.png"
+  },
+  {
+    "key": "pepe_classic_007",
+    "name": "Pepe Classic #0007",
+    "rarity": "common",
+    "type": "card",
+    "color": "standard",
+    "cp_value": 10,
+    "base_buy_price": 1,
+    "image_url": "https://img.example.com/memes/pepe_classic_007.png"
+  },
+  {
+    "key": "pepe_classic_008",
+    "name": "Pepe Classic #0008",
+    "rarity": "common",
+    "type": "card",
+    "color": "standard",
+    "cp_value": 10,
+    "base_buy_price": 1,
+    "image_url": "https://img.example.com/memes/pepe_classic_008.png"
+  },
+  {
+    "key": "pepe_classic_009",
+    "name": "Pepe Classic #0009",
+    "rarity": "common",
+    "type": "card",
+    "color": "standard",
+    "cp_value": 10,
+    "base_buy_price": 1,
+    "image_url": "https://img.example.com/memes/pepe_classic_009.png"
+  },
+  {
+    "key": "pepe_smile_001",
+    "name": "Pepe Happy #0001",
+    "rarity": "common",
+    "type": "card",
+    "color": "silver",
+    "cp_value": 10,
+    "base_buy_price": 1,
+    "image_url": "https://img.example.com/memes/pepe_smile_001.png"
+  },
+  {
+    "key": "pepe_smile_002",
+    "name": "Pepe Happy #0002",
+    "rarity": "common",
+    "type": "card",
+    "color": "silver",
+    "cp_value": 10,
+    "base_buy_price": 1,
+    "image_url": "https://img.example.com/memes/pepe_smile_002.png"
+  },
+  {
+    "key": "pepe_smile_003",
+    "name": "Pepe Happy #0003",
+    "rarity": "common",
+    "type": "card",
+    "color": "silver",
+    "cp_value": 10,
+    "base_buy_price": 1,
+    "image_url": "https://img.example.com/memes/pepe_smile_003.png"
+  },
+  {
+    "key": "pepe_smile_004",
+    "name": "Pepe Happy #0004",
+    "rarity": "common",
+    "type": "card",
+    "color": "silver",
+    "cp_value": 10,
+    "base_buy_price": 1,
+    "image_url": "https://img.example.com/memes/pepe_smile_004.png"
+  },
+  {
+    "key": "pepe_smile_005",
+    "name": "Pepe Happy #0005",
+    "rarity": "common",
+    "type": "card",
+    "color": "silver",
+    "cp_value": 10,
+    "base_buy_price": 1,
+    "image_url": "https://img.example.com/memes/pepe_smile_005.png"
+  },
+  {
+    "key": "pepe_smile_006",
+    "name": "Pepe Happy #0006",
+    "rarity": "common",
+    "type": "card",
+    "color": "silver",
+    "cp_value": 10,
+    "base_buy_price": 1,
+    "image_url": "https://img.example.com/memes/pepe_smile_006.png"
+  },
+  {
+    "key": "pepe_smile_007",
+    "name": "Pepe Happy #0007",
+    "rarity": "common",
+    "type": "card",
+    "color": "silver",
+    "cp_value": 10,
+    "base_buy_price": 1,
+    "image_url": "https://img.example.com/memes/pepe_smile_007.png"
+  },
+  {
+    "key": "pepe_smile_008",
+    "name": "Pepe Happy #0008",
+    "rarity": "common",
+    "type": "card",
+    "color": "silver",
+    "cp_value": 10,
+    "base_buy_price": 1,
+    "image_url": "https://img.example.com/memes/pepe_smile_008.png"
+  },
+  {
+    "key": "pepe_sad_001",
+    "name": "Pepe Sad #0001",
+    "rarity": "rare",
+    "type": "card",
+    "color": "standard",
+    "cp_value": 30,
+    "base_buy_price": 5,
+    "image_url": "https://img.example.com/memes/pepe_sad_001.png"
+  },
+  {
+    "key": "pepe_sad_002",
+    "name": "Pepe Sad #0002",
+    "rarity": "rare",
+    "type": "card",
+    "color": "standard",
+    "cp_value": 30,
+    "base_buy_price": 5,
+    "image_url": "https://img.example.com/memes/pepe_sad_002.png"
+  },
+  {
+    "key": "pepe_sad_003",
+    "name": "Pepe Sad #0003",
+    "rarity": "rare",
+    "type": "card",
+    "color": "standard",
+    "cp_value": 30,
+    "base_buy_price": 5,
+    "image_url": "https://img.example.com/memes/pepe_sad_003.png"
+  },
+  {
+    "key": "pepe_sad_004",
+    "name": "Pepe Sad #0004",
+    "rarity": "rare",
+    "type": "card",
+    "color": "standard",
+    "cp_value": 30,
+    "base_buy_price": 5,
+    "image_url": "https://img.example.com/memes/pepe_sad_004.png"
+  },
+  {
+    "key": "pepe_sad_005",
+    "name": "Pepe Sad #0005",
+    "rarity": "rare",
+    "type": "card",
+    "color": "standard",
+    "cp_value": 30,
+    "base_buy_price": 5,
+    "image_url": "https://img.example.com/memes/pepe_sad_005.png"
+  },
+  {
+    "key": "pepe_sad_006",
+    "name": "Pepe Sad #0006",
+    "rarity": "rare",
+    "type": "card",
+    "color": "standard",
+    "cp_value": 30,
+    "base_buy_price": 5,
+    "image_url": "https://img.example.com/memes/pepe_sad_006.png"
+  },
+  {
+    "key": "pepe_samurai_001",
+    "name": "Pepe Samurai #0001",
+    "rarity": "epic",
+    "type": "card",
+    "color": "gold",
+    "cp_value": 120,
+    "base_buy_price": 30,
+    "image_url": "https://img.example.com/memes/pepe_samurai_001.png"
+  },
+  {
+    "key": "pepe_samurai_002",
+    "name": "Pepe Samurai #0002",
+    "rarity": "epic",
+    "type": "card",
+    "color": "gold",
+    "cp_value": 120,
+    "base_buy_price": 30,
+    "image_url": "https://img.example.com/memes/pepe_samurai_002.png"
+  },
+  {
+    "key": "pepe_samurai_003",
+    "name": "Pepe Samurai #0003",
+    "rarity": "epic",
+    "type": "card",
+    "color": "gold",
+    "cp_value": 120,
+    "base_buy_price": 30,
+    "image_url": "https://img.example.com/memes/pepe_samurai_003.png"
+  },
+  {
+    "key": "pepe_samurai_004",
+    "name": "Pepe Samurai #0004",
+    "rarity": "epic",
+    "type": "card",
+    "color": "gold",
+    "cp_value": 120,
+    "base_buy_price": 30,
+    "image_url": "https://img.example.com/memes/pepe_samurai_004.png"
+  },
+  {
+    "key": "pepe_samurai_005",
+    "name": "Pepe Samurai #0005",
+    "rarity": "epic",
+    "type": "card",
+    "color": "gold",
+    "cp_value": 120,
+    "base_buy_price": 30,
+    "image_url": "https://img.example.com/memes/pepe_samurai_005.png"
+  },
+  {
+    "key": "pepe_pharaoh_001",
+    "name": "Pepe Pharaoh #0001",
+    "rarity": "legendary",
+    "type": "card",
+    "color": "gold",
+    "cp_value": 600,
+    "base_buy_price": 150,
+    "image_url": "https://img.example.com/memes/pepe_pharaoh_001.png"
+  },
+  {
+    "key": "pepe_pharaoh_002",
+    "name": "Pepe Pharaoh #0002",
+    "rarity": "legendary",
+    "type": "card",
+    "color": "gold",
+    "cp_value": 600,
+    "base_buy_price": 150,
+    "image_url": "https://img.example.com/memes/pepe_pharaoh_002.png"
+  },
+  {
+    "key": "pepe_pharaoh_003",
+    "name": "Pepe Pharaoh #0003",
+    "rarity": "legendary",
+    "type": "card",
+    "color": "gold",
+    "cp_value": 600,
+    "base_buy_price": 150,
+    "image_url": "https://img.example.com/memes/pepe_pharaoh_003.png"
+  },
+  {
+    "key": "pepe_pharaoh_004",
+    "name": "Pepe Pharaoh #0004",
+    "rarity": "legendary",
+    "type": "card",
+    "color": "gold",
+    "cp_value": 600,
+    "base_buy_price": 150,
+    "image_url": "https://img.example.com/memes/pepe_pharaoh_004.png"
+  },
+  {
+    "key": "pepe_god_001",
+    "name": "Pepe Deity #0001",
+    "rarity": "mythic",
+    "type": "card",
+    "color": "rainbow",
+    "cp_value": 3000,
+    "base_buy_price": 2000,
+    "image_url": "https://img.example.com/memes/pepe_god_001.png"
+  },
+  {
+    "key": "pepe_god_002",
+    "name": "Pepe Deity #0002",
+    "rarity": "mythic",
+    "type": "card",
+    "color": "rainbow",
+    "cp_value": 3000,
+    "base_buy_price": 2000,
+    "image_url": "https://img.example.com/memes/pepe_god_002.png"
+  },
+  {
+    "key": "pepe_god_003",
+    "name": "Pepe Deity #0003",
+    "rarity": "mythic",
+    "type": "card",
+    "color": "rainbow",
+    "cp_value": 3000,
+    "base_buy_price": 2000,
+    "image_url": "https://img.example.com/memes/pepe_god_003.png"
+  },
+  {
+    "key": "doge_classic_001",
+    "name": "Classic Doge #0001",
+    "rarity": "common",
+    "type": "gif",
+    "color": "standard",
+    "cp_value": 10,
+    "base_buy_price": 2,
+    "image_url": "https://img.example.com/memes/doge_classic_001.png"
+  },
+  {
+    "key": "doge_classic_002",
+    "name": "Classic Doge #0002",
+    "rarity": "common",
+    "type": "gif",
+    "color": "standard",
+    "cp_value": 10,
+    "base_buy_price": 2,
+    "image_url": "https://img.example.com/memes/doge_classic_002.png"
+  },
+  {
+    "key": "doge_classic_003",
+    "name": "Classic Doge #0003",
+    "rarity": "common",
+    "type": "gif",
+    "color": "standard",
+    "cp_value": 10,
+    "base_buy_price": 2,
+    "image_url": "https://img.example.com/memes/doge_classic_003.png"
+  },
+  {
+    "key": "doge_classic_004",
+    "name": "Classic Doge #0004",
+    "rarity": "common",
+    "type": "gif",
+    "color": "standard",
+    "cp_value": 10,
+    "base_buy_price": 2,
+    "image_url": "https://img.example.com/memes/doge_classic_004.png"
+  },
+  {
+    "key": "doge_classic_005",
+    "name": "Classic Doge #0005",
+    "rarity": "common",
+    "type": "gif",
+    "color": "standard",
+    "cp_value": 10,
+    "base_buy_price": 2,
+    "image_url": "https://img.example.com/memes/doge_classic_005.png"
+  },
+  {
+    "key": "doge_classic_006",
+    "name": "Classic Doge #0006",
+    "rarity": "common",
+    "type": "gif",
+    "color": "standard",
+    "cp_value": 10,
+    "base_buy_price": 2,
+    "image_url": "https://img.example.com/memes/doge_classic_006.png"
+  },
+  {
+    "key": "doge_classic_007",
+    "name": "Classic Doge #0007",
+    "rarity": "common",
+    "type": "gif",
+    "color": "standard",
+    "cp_value": 10,
+    "base_buy_price": 2,
+    "image_url": "https://img.example.com/memes/doge_classic_007.png"
+  },
+  {
+    "key": "doge_classic_008",
+    "name": "Classic Doge #0008",
+    "rarity": "common",
+    "type": "gif",
+    "color": "standard",
+    "cp_value": 10,
+    "base_buy_price": 2,
+    "image_url": "https://img.example.com/memes/doge_classic_008.png"
+  },
+  {
+    "key": "doge_cheems_001",
+    "name": "Cheems Combo #0001",
+    "rarity": "rare",
+    "type": "gif",
+    "color": "standard",
+    "cp_value": 30,
+    "base_buy_price": 8,
+    "image_url": "https://img.example.com/memes/doge_cheems_001.png"
+  },
+  {
+    "key": "doge_cheems_002",
+    "name": "Cheems Combo #0002",
+    "rarity": "rare",
+    "type": "gif",
+    "color": "standard",
+    "cp_value": 30,
+    "base_buy_price": 8,
+    "image_url": "https://img.example.com/memes/doge_cheems_002.png"
+  },
+  {
+    "key": "doge_cheems_003",
+    "name": "Cheems Combo #0003",
+    "rarity": "rare",
+    "type": "gif",
+    "color": "standard",
+    "cp_value": 30,
+    "base_buy_price": 8,
+    "image_url": "https://img.example.com/memes/doge_cheems_003.png"
+  },
+  {
+    "key": "doge_cheems_004",
+    "name": "Cheems Combo #0004",
+    "rarity": "rare",
+    "type": "gif",
+    "color": "standard",
+    "cp_value": 30,
+    "base_buy_price": 8,
+    "image_url": "https://img.example.com/memes/doge_cheems_004.png"
+  },
+  {
+    "key": "doge_cheems_005",
+    "name": "Cheems Combo #0005",
+    "rarity": "rare",
+    "type": "gif",
+    "color": "standard",
+    "cp_value": 30,
+    "base_buy_price": 8,
+    "image_url": "https://img.example.com/memes/doge_cheems_005.png"
+  },
+  {
+    "key": "doge_cheems_006",
+    "name": "Cheems Combo #0006",
+    "rarity": "rare",
+    "type": "gif",
+    "color": "standard",
+    "cp_value": 30,
+    "base_buy_price": 8,
+    "image_url": "https://img.example.com/memes/doge_cheems_006.png"
+  },
+  {
+    "key": "doge_buff_001",
+    "name": "Buff Doge #0001",
+    "rarity": "rare",
+    "type": "card",
+    "color": "silver",
+    "cp_value": 30,
+    "base_buy_price": 6,
+    "image_url": "https://img.example.com/memes/doge_buff_001.png"
+  },
+  {
+    "key": "doge_buff_002",
+    "name": "Buff Doge #0002",
+    "rarity": "rare",
+    "type": "card",
+    "color": "silver",
+    "cp_value": 30,
+    "base_buy_price": 6,
+    "image_url": "https://img.example.com/memes/doge_buff_002.png"
+  },
+  {
+    "key": "doge_buff_003",
+    "name": "Buff Doge #0003",
+    "rarity": "rare",
+    "type": "card",
+    "color": "silver",
+    "cp_value": 30,
+    "base_buy_price": 6,
+    "image_url": "https://img.example.com/memes/doge_buff_003.png"
+  },
+  {
+    "key": "doge_buff_004",
+    "name": "Buff Doge #0004",
+    "rarity": "rare",
+    "type": "card",
+    "color": "silver",
+    "cp_value": 30,
+    "base_buy_price": 6,
+    "image_url": "https://img.example.com/memes/doge_buff_004.png"
+  },
+  {
+    "key": "doge_buff_005",
+    "name": "Buff Doge #0005",
+    "rarity": "rare",
+    "type": "card",
+    "color": "silver",
+    "cp_value": 30,
+    "base_buy_price": 6,
+    "image_url": "https://img.example.com/memes/doge_buff_005.png"
+  },
+  {
+    "key": "doge_gold_001",
+    "name": "Golden Doge #0001",
+    "rarity": "legendary",
+    "type": "gif",
+    "color": "gold",
+    "cp_value": 600,
+    "base_buy_price": 225,
+    "image_url": "https://img.example.com/memes/doge_gold_001.png"
+  },
+  {
+    "key": "doge_gold_002",
+    "name": "Golden Doge #0002",
+    "rarity": "legendary",
+    "type": "gif",
+    "color": "gold",
+    "cp_value": 600,
+    "base_buy_price": 225,
+    "image_url": "https://img.example.com/memes/doge_gold_002.png"
+  },
+  {
+    "key": "doge_gold_003",
+    "name": "Golden Doge #0003",
+    "rarity": "legendary",
+    "type": "gif",
+    "color": "gold",
+    "cp_value": 600,
+    "base_buy_price": 225,
+    "image_url": "https://img.example.com/memes/doge_gold_003.png"
+  },
+  {
+    "key": "doge_gold_004",
+    "name": "Golden Doge #0004",
+    "rarity": "legendary",
+    "type": "gif",
+    "color": "gold",
+    "cp_value": 600,
+    "base_buy_price": 225,
+    "image_url": "https://img.example.com/memes/doge_gold_004.png"
+  },
+  {
+    "key": "doge_cosmic_001",
+    "name": "Cosmic Doge #0001",
+    "rarity": "mythic",
+    "type": "gif",
+    "color": "rainbow",
+    "cp_value": 3000,
+    "base_buy_price": 3000,
+    "image_url": "https://img.example.com/memes/doge_cosmic_001.png"
+  },
+  {
+    "key": "doge_cosmic_002",
+    "name": "Cosmic Doge #0002",
+    "rarity": "mythic",
+    "type": "gif",
+    "color": "rainbow",
+    "cp_value": 3000,
+    "base_buy_price": 3000,
+    "image_url": "https://img.example.com/memes/doge_cosmic_002.png"
+  },
+  {
+    "key": "doge_cosmic_003",
+    "name": "Cosmic Doge #0003",
+    "rarity": "mythic",
+    "type": "gif",
+    "color": "rainbow",
+    "cp_value": 3000,
+    "base_buy_price": 3000,
+    "image_url": "https://img.example.com/memes/doge_cosmic_003.png"
+  },
+  {
+    "key": "wojak_npc_001",
+    "name": "NPC Wojak #0001",
+    "rarity": "common",
+    "type": "card",
+    "color": "standard",
+    "cp_value": 10,
+    "base_buy_price": 1,
+    "image_url": "https://img.example.com/memes/wojak_npc_001.png"
+  },
+  {
+    "key": "wojak_npc_002",
+    "name": "NPC Wojak #0002",
+    "rarity": "common",
+    "type": "card",
+    "color": "standard",
+    "cp_value": 10,
+    "base_buy_price": 1,
+    "image_url": "https://img.example.com/memes/wojak_npc_002.png"
+  },
+  {
+    "key": "wojak_npc_003",
+    "name": "NPC Wojak #0003",
+    "rarity": "common",
+    "type": "card",
+    "color": "standard",
+    "cp_value": 10,
+    "base_buy_price": 1,
+    "image_url": "https://img.example.com/memes/wojak_npc_003.png"
+  },
+  {
+    "key": "wojak_npc_004",
+    "name": "NPC Wojak #0004",
+    "rarity": "common",
+    "type": "card",
+    "color": "standard",
+    "cp_value": 10,
+    "base_buy_price": 1,
+    "image_url": "https://img.example.com/memes/wojak_npc_004.png"
+  },
+  {
+    "key": "wojak_npc_005",
+    "name": "NPC Wojak #0005",
+    "rarity": "common",
+    "type": "card",
+    "color": "standard",
+    "cp_value": 10,
+    "base_buy_price": 1,
+    "image_url": "https://img.example.com/memes/wojak_npc_005.png"
+  },
+  {
+    "key": "wojak_npc_006",
+    "name": "NPC Wojak #0006",
+    "rarity": "common",
+    "type": "card",
+    "color": "standard",
+    "cp_value": 10,
+    "base_buy_price": 1,
+    "image_url": "https://img.example.com/memes/wojak_npc_006.png"
+  },
+  {
+    "key": "wojak_npc_007",
+    "name": "NPC Wojak #0007",
+    "rarity": "common",
+    "type": "card",
+    "color": "standard",
+    "cp_value": 10,
+    "base_buy_price": 1,
+    "image_url": "https://img.example.com/memes/wojak_npc_007.png"
+  },
+  {
+    "key": "wojak_npc_008",
+    "name": "NPC Wojak #0008",
+    "rarity": "common",
+    "type": "card",
+    "color": "standard",
+    "cp_value": 10,
+    "base_buy_price": 1,
+    "image_url": "https://img.example.com/memes/wojak_npc_008.png"
+  },
+  {
+    "key": "wojak_doomer_001",
+    "name": "Doomer Wojak #0001",
+    "rarity": "rare",
+    "type": "card",
+    "color": "standard",
+    "cp_value": 30,
+    "base_buy_price": 5,
+    "image_url": "https://img.example.com/memes/wojak_doomer_001.png"
+  },
+  {
+    "key": "wojak_doomer_002",
+    "name": "Doomer Wojak #0002",
+    "rarity": "rare",
+    "type": "card",
+    "color": "standard",
+    "cp_value": 30,
+    "base_buy_price": 5,
+    "image_url": "https://img.example.com/memes/wojak_doomer_002.png"
+  },
+  {
+    "key": "wojak_doomer_003",
+    "name": "Doomer Wojak #0003",
+    "rarity": "rare",
+    "type": "card",
+    "color": "standard",
+    "cp_value": 30,
+    "base_buy_price": 5,
+    "image_url": "https://img.example.com/memes/wojak_doomer_003.png"
+  },
+  {
+    "key": "wojak_doomer_004",
+    "name": "Doomer Wojak #0004",
+    "rarity": "rare",
+    "type": "card",
+    "color": "standard",
+    "cp_value": 30,
+    "base_buy_price": 5,
+    "image_url": "https://img.example.com/memes/wojak_doomer_004.png"
+  },
+  {
+    "key": "wojak_doomer_005",
+    "name": "Doomer Wojak #0005",
+    "rarity": "rare",
+    "type": "card",
+    "color": "standard",
+    "cp_value": 30,
+    "base_buy_price": 5,
+    "image_url": "https://img.example.com/memes/wojak_doomer_005.png"
+  },
+  {
+    "key": "wojak_doomer_006",
+    "name": "Doomer Wojak #0006",
+    "rarity": "rare",
+    "type": "card",
+    "color": "standard",
+    "cp_value": 30,
+    "base_buy_price": 5,
+    "image_url": "https://img.example.com/memes/wojak_doomer_006.png"
+  },
+  {
+    "key": "wojak_bloomer_001",
+    "name": "Bloomer Wojak #0001",
+    "rarity": "rare",
+    "type": "card",
+    "color": "silver",
+    "cp_value": 30,
+    "base_buy_price": 6,
+    "image_url": "https://img.example.com/memes/wojak_bloomer_001.png"
+  },
+  {
+    "key": "wojak_bloomer_002",
+    "name": "Bloomer Wojak #0002",
+    "rarity": "rare",
+    "type": "card",
+    "color": "silver",
+    "cp_value": 30,
+    "base_buy_price": 6,
+    "image_url": "https://img.example.com/memes/wojak_bloomer_002.png"
+  },
+  {
+    "key": "wojak_bloomer_003",
+    "name": "Bloomer Wojak #0003",
+    "rarity": "rare",
+    "type": "card",
+    "color": "silver",
+    "cp_value": 30,
+    "base_buy_price": 6,
+    "image_url": "https://img.example.com/memes/wojak_bloomer_003.png"
+  },
+  {
+    "key": "wojak_bloomer_004",
+    "name": "Bloomer Wojak #0004",
+    "rarity": "rare",
+    "type": "card",
+    "color": "silver",
+    "cp_value": 30,
+    "base_buy_price": 6,
+    "image_url": "https://img.example.com/memes/wojak_bloomer_004.png"
+  },
+  {
+    "key": "wojak_bloomer_005",
+    "name": "Bloomer Wojak #0005",
+    "rarity": "rare",
+    "type": "card",
+    "color": "silver",
+    "cp_value": 30,
+    "base_buy_price": 6,
+    "image_url": "https://img.example.com/memes/wojak_bloomer_005.png"
+  },
+  {
+    "key": "wojak_trader_001",
+    "name": "Trader Wojak #0001",
+    "rarity": "epic",
+    "type": "card",
+    "color": "gold",
+    "cp_value": 120,
+    "base_buy_price": 30,
+    "image_url": "https://img.example.com/memes/wojak_trader_001.png"
+  },
+  {
+    "key": "wojak_trader_002",
+    "name": "Trader Wojak #0002",
+    "rarity": "epic",
+    "type": "card",
+    "color": "gold",
+    "cp_value": 120,
+    "base_buy_price": 30,
+    "image_url": "https://img.example.com/memes/wojak_trader_002.png"
+  },
+  {
+    "key": "wojak_trader_003",
+    "name": "Trader Wojak #0003",
+    "rarity": "epic",
+    "type": "card",
+    "color": "gold",
+    "cp_value": 120,
+    "base_buy_price": 30,
+    "image_url": "https://img.example.com/memes/wojak_trader_003.png"
+  },
+  {
+    "key": "wojak_trader_004",
+    "name": "Trader Wojak #0004",
+    "rarity": "epic",
+    "type": "card",
+    "color": "gold",
+    "cp_value": 120,
+    "base_buy_price": 30,
+    "image_url": "https://img.example.com/memes/wojak_trader_004.png"
+  },
+  {
+    "key": "wojak_gigachad_001",
+    "name": "Gigachad Wojak #0001",
+    "rarity": "legendary",
+    "type": "card",
+    "color": "gold",
+    "cp_value": 600,
+    "base_buy_price": 150,
+    "image_url": "https://img.example.com/memes/wojak_gigachad_001.png"
+  },
+  {
+    "key": "wojak_gigachad_002",
+    "name": "Gigachad Wojak #0002",
+    "rarity": "legendary",
+    "type": "card",
+    "color": "gold",
+    "cp_value": 600,
+    "base_buy_price": 150,
+    "image_url": "https://img.example.com/memes/wojak_gigachad_002.png"
+  },
+  {
+    "key": "wojak_gigachad_003",
+    "name": "Gigachad Wojak #0003",
+    "rarity": "legendary",
+    "type": "card",
+    "color": "gold",
+    "cp_value": 600,
+    "base_buy_price": 150,
+    "image_url": "https://img.example.com/memes/wojak_gigachad_003.png"
+  },
+  {
+    "key": "wojak_ascended_001",
+    "name": "Ascended Wojak #0001",
+    "rarity": "mythic",
+    "type": "card",
+    "color": "rainbow",
+    "cp_value": 3000,
+    "base_buy_price": 2000,
+    "image_url": "https://img.example.com/memes/wojak_ascended_001.png"
+  },
+  {
+    "key": "wojak_ascended_002",
+    "name": "Ascended Wojak #0002",
+    "rarity": "mythic",
+    "type": "card",
+    "color": "rainbow",
+    "cp_value": 3000,
+    "base_buy_price": 2000,
+    "image_url": "https://img.example.com/memes/wojak_ascended_002.png"
+  },
+  {
+    "key": "legends_trollface_001",
+    "name": "Trollface Relic #0001",
+    "rarity": "rare",
+    "type": "artifact",
+    "color": "silver",
+    "cp_value": 30,
+    "base_buy_price": 13,
+    "image_url": "https://img.example.com/memes/legends_trollface_001.png"
+  },
+  {
+    "key": "legends_trollface_002",
+    "name": "Trollface Relic #0002",
+    "rarity": "rare",
+    "type": "artifact",
+    "color": "silver",
+    "cp_value": 30,
+    "base_buy_price": 13,
+    "image_url": "https://img.example.com/memes/legends_trollface_002.png"
+  },
+  {
+    "key": "legends_trollface_003",
+    "name": "Trollface Relic #0003",
+    "rarity": "rare",
+    "type": "artifact",
+    "color": "silver",
+    "cp_value": 30,
+    "base_buy_price": 13,
+    "image_url": "https://img.example.com/memes/legends_trollface_003.png"
+  },
+  {
+    "key": "legends_rageguy_001",
+    "name": "Rage Guy Relic #0001",
+    "rarity": "rare",
+    "type": "artifact",
+    "color": "gold",
+    "cp_value": 30,
+    "base_buy_price": 15,
+    "image_url": "https://img.example.com/memes/legends_rageguy_001.png"
+  },
+  {
+    "key": "legends_rageguy_002",
+    "name": "Rage Guy Relic #0002",
+    "rarity": "rare",
+    "type": "artifact",
+    "color": "gold",
+    "cp_value": 30,
+    "base_buy_price": 15,
+    "image_url": "https://img.example.com/memes/legends_rageguy_002.png"
+  },
+  {
+    "key": "legends_rageguy_003",
+    "name": "Rage Guy Relic #0003",
+    "rarity": "rare",
+    "type": "artifact",
+    "color": "gold",
+    "cp_value": 30,
+    "base_buy_price": 15,
+    "image_url": "https://img.example.com/memes/legends_rageguy_003.png"
+  },
+  {
+    "key": "legends_foreveralone_001",
+    "name": "Forever Alone Statue #0001",
+    "rarity": "epic",
+    "type": "artifact",
+    "color": "gold",
+    "cp_value": 120,
+    "base_buy_price": 60,
+    "image_url": "https://img.example.com/memes/legends_foreveralone_001.png"
+  },
+  {
+    "key": "legends_foreveralone_002",
+    "name": "Forever Alone Statue #0002",
+    "rarity": "epic",
+    "type": "artifact",
+    "color": "gold",
+    "cp_value": 120,
+    "base_buy_price": 60,
+    "image_url": "https://img.example.com/memes/legends_foreveralone_002.png"
+  },
+  {
+    "key": "legends_foreveralone_003",
+    "name": "Forever Alone Statue #0003",
+    "rarity": "epic",
+    "type": "artifact",
+    "color": "gold",
+    "cp_value": 120,
+    "base_buy_price": 60,
+    "image_url": "https://img.example.com/memes/legends_foreveralone_003.png"
+  },
+  {
+    "key": "legends_megusta_001",
+    "name": "Me Gusta Idol #0001",
+    "rarity": "legendary",
+    "type": "artifact",
+    "color": "gold",
+    "cp_value": 600,
+    "base_buy_price": 300,
+    "image_url": "https://img.example.com/memes/legends_megusta_001.png"
+  },
+  {
+    "key": "legends_megusta_002",
+    "name": "Me Gusta Idol #0002",
+    "rarity": "legendary",
+    "type": "artifact",
+    "color": "gold",
+    "cp_value": 600,
+    "base_buy_price": 300,
+    "image_url": "https://img.example.com/memes/legends_megusta_002.png"
+  },
+  {
+    "key": "legends_megusta_003",
+    "name": "Me Gusta Idol #0003",
+    "rarity": "legendary",
+    "type": "artifact",
+    "color": "gold",
+    "cp_value": 600,
+    "base_buy_price": 300,
+    "image_url": "https://img.example.com/memes/legends_megusta_003.png"
+  },
+  {
+    "key": "legends_problem_001",
+    "name": "Problem? Totem #0001",
+    "rarity": "legendary",
+    "type": "artifact",
+    "color": "rainbow",
+    "cp_value": 600,
+    "base_buy_price": 400,
+    "image_url": "https://img.example.com/memes/legends_problem_001.png"
+  },
+  {
+    "key": "legends_problem_002",
+    "name": "Problem? Totem #0002",
+    "rarity": "legendary",
+    "type": "artifact",
+    "color": "rainbow",
+    "cp_value": 600,
+    "base_buy_price": 400,
+    "image_url": "https://img.example.com/memes/legends_problem_002.png"
+  },
+  {
+    "key": "trend_skibidi_001",
+    "name": "Skibidi Fan #0001",
+    "rarity": "common",
+    "type": "gif",
+    "color": "standard",
+    "cp_value": 10,
+    "base_buy_price": 2,
+    "image_url": "https://img.example.com/memes/trend_skibidi_001.png"
+  },
+  {
+    "key": "trend_skibidi_002",
+    "name": "Skibidi Fan #0002",
+    "rarity": "common",
+    "type": "gif",
+    "color": "standard",
+    "cp_value": 10,
+    "base_buy_price": 2,
+    "image_url": "https://img.example.com/memes/trend_skibidi_002.png"
+  },
+  {
+    "key": "trend_skibidi_003",
+    "name": "Skibidi Fan #0003",
+    "rarity": "common",
+    "type": "gif",
+    "color": "standard",
+    "cp_value": 10,
+    "base_buy_price": 2,
+    "image_url": "https://img.example.com/memes/trend_skibidi_003.png"
+  },
+  {
+    "key": "trend_skibidi_004",
+    "name": "Skibidi Fan #0004",
+    "rarity": "common",
+    "type": "gif",
+    "color": "standard",
+    "cp_value": 10,
+    "base_buy_price": 2,
+    "image_url": "https://img.example.com/memes/trend_skibidi_004.png"
+  },
+  {
+    "key": "trend_skibidi_005",
+    "name": "Skibidi Fan #0005",
+    "rarity": "common",
+    "type": "gif",
+    "color": "standard",
+    "cp_value": 10,
+    "base_buy_price": 2,
+    "image_url": "https://img.example.com/memes/trend_skibidi_005.png"
+  },
+  {
+    "key": "trend_skibidi_006",
+    "name": "Skibidi Fan #0006",
+    "rarity": "common",
+    "type": "gif",
+    "color": "standard",
+    "cp_value": 10,
+    "base_buy_price": 2,
+    "image_url": "https://img.example.com/memes/trend_skibidi_006.png"
+  },
+  {
+    "key": "trend_skibidi_007",
+    "name": "Skibidi Fan #0007",
+    "rarity": "common",
+    "type": "gif",
+    "color": "standard",
+    "cp_value": 10,
+    "base_buy_price": 2,
+    "image_url": "https://img.example.com/memes/trend_skibidi_007.png"
+  },
+  {
+    "key": "trend_fanum_001",
+    "name": "Fanum Tax Auditor #0001",
+    "rarity": "rare",
+    "type": "card",
+    "color": "silver",
+    "cp_value": 30,
+    "base_buy_price": 6,
+    "image_url": "https://img.example.com/memes/trend_fanum_001.png"
+  },
+  {
+    "key": "trend_fanum_002",
+    "name": "Fanum Tax Auditor #0002",
+    "rarity": "rare",
+    "type": "card",
+    "color": "silver",
+    "cp_value": 30,
+    "base_buy_price": 6,
+    "image_url": "https://img.example.com/memes/trend_fanum_002.png"
+  },
+  {
+    "key": "trend_fanum_003",
+    "name": "Fanum Tax Auditor #0003",
+    "rarity": "rare",
+    "type": "card",
+    "color": "silver",
+    "cp_value": 30,
+    "base_buy_price": 6,
+    "image_url": "https://img.example.com/memes/trend_fanum_003.png"
+  },
+  {
+    "key": "trend_fanum_004",
+    "name": "Fanum Tax Auditor #0004",
+    "rarity": "rare",
+    "type": "card",
+    "color": "silver",
+    "cp_value": 30,
+    "base_buy_price": 6,
+    "image_url": "https://img.example.com/memes/trend_fanum_004.png"
+  },
+  {
+    "key": "trend_fanum_005",
+    "name": "Fanum Tax Auditor #0005",
+    "rarity": "rare",
+    "type": "card",
+    "color": "silver",
+    "cp_value": 30,
+    "base_buy_price": 6,
+    "image_url": "https://img.example.com/memes/trend_fanum_005.png"
+  },
+  {
+    "key": "trend_rizz_001",
+    "name": "Rizzler Supreme #0001",
+    "rarity": "epic",
+    "type": "gif",
+    "color": "gold",
+    "cp_value": 120,
+    "base_buy_price": 45,
+    "image_url": "https://img.example.com/memes/trend_rizz_001.png"
+  },
+  {
+    "key": "trend_rizz_002",
+    "name": "Rizzler Supreme #0002",
+    "rarity": "epic",
+    "type": "gif",
+    "color": "gold",
+    "cp_value": 120,
+    "base_buy_price": 45,
+    "image_url": "https://img.example.com/memes/trend_rizz_002.png"
+  },
+  {
+    "key": "trend_rizz_003",
+    "name": "Rizzler Supreme #0003",
+    "rarity": "epic",
+    "type": "gif",
+    "color": "gold",
+    "cp_value": 120,
+    "base_buy_price": 45,
+    "image_url": "https://img.example.com/memes/trend_rizz_003.png"
+  },
+  {
+    "key": "trend_rizz_004",
+    "name": "Rizzler Supreme #0004",
+    "rarity": "epic",
+    "type": "gif",
+    "color": "gold",
+    "cp_value": 120,
+    "base_buy_price": 45,
+    "image_url": "https://img.example.com/memes/trend_rizz_004.png"
+  },
+  {
+    "key": "trend_sigma_001",
+    "name": "Sigma Walk #0001",
+    "rarity": "rare",
+    "type": "gif",
+    "color": "standard",
+    "cp_value": 30,
+    "base_buy_price": 8,
+    "image_url": "https://img.example.com/memes/trend_sigma_001.png"
+  },
+  {
+    "key": "trend_sigma_002",
+    "name": "Sigma Walk #0002",
+    "rarity": "rare",
+    "type": "gif",
+    "color": "standard",
+    "cp_value": 30,
+    "base_buy_price": 8,
+    "image_url": "https://img.example.com/memes/trend_sigma_002.png"
+  },
+  {
+    "key": "trend_sigma_003",
+    "name": "Sigma Walk #0003",
+    "rarity": "rare",
+    "type": "gif",
+    "color": "standard",
+    "cp_value": 30,
+    "base_buy_price": 8,
+    "image_url": "https://img.example.com/memes/trend_sigma_003.png"
+  },
+  {
+    "key": "trend_sigma_004",
+    "name": "Sigma Walk #0004",
+    "rarity": "rare",
+    "type": "gif",
+    "color": "standard",
+    "cp_value": 30,
+    "base_buy_price": 8,
+    "image_url": "https://img.example.com/memes/trend_sigma_004.png"
+  },
+  {
+    "key": "trend_sigma_005",
+    "name": "Sigma Walk #0005",
+    "rarity": "rare",
+    "type": "gif",
+    "color": "standard",
+    "cp_value": 30,
+    "base_buy_price": 8,
+    "image_url": "https://img.example.com/memes/trend_sigma_005.png"
+  },
+  {
+    "key": "trend_npc_stream_001",
+    "name": "NPC Streamer #0001",
+    "rarity": "common",
+    "type": "gif",
+    "color": "standard",
+    "cp_value": 10,
+    "base_buy_price": 2,
+    "image_url": "https://img.example.com/memes/trend_npc_stream_001.png"
+  },
+  {
+    "key": "trend_npc_stream_002",
+    "name": "NPC Streamer #0002",
+    "rarity": "common",
+    "type": "gif",
+    "color": "standard",
+    "cp_value": 10,
+    "base_buy_price": 2,
+    "image_url": "https://img.example.com/memes/trend_npc_stream_002.png"
+  },
+  {
+    "key": "trend_npc_stream_003",
+    "name": "NPC Streamer #0003",
+    "rarity": "common",
+    "type": "gif",
+    "color": "standard",
+    "cp_value": 10,
+    "base_buy_price": 2,
+    "image_url": "https://img.example.com/memes/trend_npc_stream_003.png"
+  },
+  {
+    "key": "trend_npc_stream_004",
+    "name": "NPC Streamer #0004",
+    "rarity": "common",
+    "type": "gif",
+    "color": "standard",
+    "cp_value": 10,
+    "base_buy_price": 2,
+    "image_url": "https://img.example.com/memes/trend_npc_stream_004.png"
+  },
+  {
+    "key": "trend_npc_stream_005",
+    "name": "NPC Streamer #0005",
+    "rarity": "common",
+    "type": "gif",
+    "color": "standard",
+    "cp_value": 10,
+    "base_buy_price": 2,
+    "image_url": "https://img.example.com/memes/trend_npc_stream_005.png"
+  },
+  {
+    "key": "trend_npc_stream_006",
+    "name": "NPC Streamer #0006",
+    "rarity": "common",
+    "type": "gif",
+    "color": "standard",
+    "cp_value": 10,
+    "base_buy_price": 2,
+    "image_url": "https://img.example.com/memes/trend_npc_stream_006.png"
+  },
+  {
+    "key": "trend_npc_stream_007",
+    "name": "NPC Streamer #0007",
+    "rarity": "common",
+    "type": "gif",
+    "color": "standard",
+    "cp_value": 10,
+    "base_buy_price": 2,
+    "image_url": "https://img.example.com/memes/trend_npc_stream_007.png"
+  },
+  {
+    "key": "trend_ohio_001",
+    "name": "Ohio Final Boss #0001",
+    "rarity": "epic",
+    "type": "card",
+    "color": "rainbow",
+    "cp_value": 120,
+    "base_buy_price": 40,
+    "image_url": "https://img.example.com/memes/trend_ohio_001.png"
+  },
+  {
+    "key": "trend_ohio_002",
+    "name": "Ohio Final Boss #0002",
+    "rarity": "epic",
+    "type": "card",
+    "color": "rainbow",
+    "cp_value": 120,
+    "base_buy_price": 40,
+    "image_url": "https://img.example.com/memes/trend_ohio_002.png"
+  },
+  {
+    "key": "trend_ohio_003",
+    "name": "Ohio Final Boss #0003",
+    "rarity": "epic",
+    "type": "card",
+    "color": "rainbow",
+    "cp_value": 120,
+    "base_buy_price": 40,
+    "image_url": "https://img.example.com/memes/trend_ohio_003.png"
+  },
+  {
+    "key": "trend_grimace_001",
+    "name": "Grimace Shake #0001",
+    "rarity": "rare",
+    "type": "gif",
+    "color": "silver",
+    "cp_value": 30,
+    "base_buy_price": 9,
+    "image_url": "https://img.example.com/memes/trend_grimace_001.png"
+  },
+  {
+    "key": "trend_grimace_002",
+    "name": "Grimace Shake #0002",
+    "rarity": "rare",
+    "type": "gif",
+    "color": "silver",
+    "cp_value": 30,
+    "base_buy_price": 9,
+    "image_url": "https://img.example.com/memes/trend_grimace_002.png"
+  },
+  {
+    "key": "trend_grimace_003",
+    "name": "Grimace Shake #0003",
+    "rarity": "rare",
+    "type": "gif",
+    "color": "silver",
+    "cp_value": 30,
+    "base_buy_price": 9,
+    "image_url": "https://img.example.com/memes/trend_grimace_003.png"
+  },
+  {
+    "key": "trend_grimace_004",
+    "name": "Grimace Shake #0004",
+    "rarity": "rare",
+    "type": "gif",
+    "color": "silver",
+    "cp_value": 30,
+    "base_buy_price": 9,
+    "image_url": "https://img.example.com/memes/trend_grimace_004.png"
+  },
+  {
+    "key": "trend_grimace_005",
+    "name": "Grimace Shake #0005",
+    "rarity": "rare",
+    "type": "gif",
+    "color": "silver",
+    "cp_value": 30,
+    "base_buy_price": 9,
+    "image_url": "https://img.example.com/memes/trend_grimace_005.png"
+  },
+  {
+    "key": "anime_uwu_001",
+    "name": "UwU Collector #0001",
+    "rarity": "common",
+    "type": "card",
+    "color": "standard",
+    "cp_value": 10,
+    "base_buy_price": 1,
+    "image_url": "https://img.example.com/memes/anime_uwu_001.png"
+  },
+  {
+    "key": "anime_uwu_002",
+    "name": "UwU Collector #0002",
+    "rarity": "common",
+    "type": "card",
+    "color": "standard",
+    "cp_value": 10,
+    "base_buy_price": 1,
+    "image_url": "https://img.example.com/memes/anime_uwu_002.png"
+  },
+  {
+    "key": "anime_uwu_003",
+    "name": "UwU Collector #0003",
+    "rarity": "common",
+    "type": "card",
+    "color": "standard",
+    "cp_value": 10,
+    "base_buy_price": 1,
+    "image_url": "https://img.example.com/memes/anime_uwu_003.png"
+  },
+  {
+    "key": "anime_uwu_004",
+    "name": "UwU Collector #0004",
+    "rarity": "common",
+    "type": "card",
+    "color": "standard",
+    "cp_value": 10,
+    "base_buy_price": 1,
+    "image_url": "https://img.example.com/memes/anime_uwu_004.png"
+  },
+  {
+    "key": "anime_uwu_005",
+    "name": "UwU Collector #0005",
+    "rarity": "common",
+    "type": "card",
+    "color": "standard",
+    "cp_value": 10,
+    "base_buy_price": 1,
+    "image_url": "https://img.example.com/memes/anime_uwu_005.png"
+  },
+  {
+    "key": "anime_uwu_006",
+    "name": "UwU Collector #0006",
+    "rarity": "common",
+    "type": "card",
+    "color": "standard",
+    "cp_value": 10,
+    "base_buy_price": 1,
+    "image_url": "https://img.example.com/memes/anime_uwu_006.png"
+  },
+  {
+    "key": "anime_uwu_007",
+    "name": "UwU Collector #0007",
+    "rarity": "common",
+    "type": "card",
+    "color": "standard",
+    "cp_value": 10,
+    "base_buy_price": 1,
+    "image_url": "https://img.example.com/memes/anime_uwu_007.png"
+  },
+  {
+    "key": "anime_mecha_001",
+    "name": "Mecha Meme #0001",
+    "rarity": "rare",
+    "type": "gif",
+    "color": "silver",
+    "cp_value": 30,
+    "base_buy_price": 9,
+    "image_url": "https://img.example.com/memes/anime_mecha_001.png"
+  },
+  {
+    "key": "anime_mecha_002",
+    "name": "Mecha Meme #0002",
+    "rarity": "rare",
+    "type": "gif",
+    "color": "silver",
+    "cp_value": 30,
+    "base_buy_price": 9,
+    "image_url": "https://img.example.com/memes/anime_mecha_002.png"
+  },
+  {
+    "key": "anime_mecha_003",
+    "name": "Mecha Meme #0003",
+    "rarity": "rare",
+    "type": "gif",
+    "color": "silver",
+    "cp_value": 30,
+    "base_buy_price": 9,
+    "image_url": "https://img.example.com/memes/anime_mecha_003.png"
+  },
+  {
+    "key": "anime_mecha_004",
+    "name": "Mecha Meme #0004",
+    "rarity": "rare",
+    "type": "gif",
+    "color": "silver",
+    "cp_value": 30,
+    "base_buy_price": 9,
+    "image_url": "https://img.example.com/memes/anime_mecha_004.png"
+  },
+  {
+    "key": "anime_mecha_005",
+    "name": "Mecha Meme #0005",
+    "rarity": "rare",
+    "type": "gif",
+    "color": "silver",
+    "cp_value": 30,
+    "base_buy_price": 9,
+    "image_url": "https://img.example.com/memes/anime_mecha_005.png"
+  },
+  {
+    "key": "anime_kawaii_001",
+    "name": "Kawaii Reaction #0001",
+    "rarity": "rare",
+    "type": "card",
+    "color": "standard",
+    "cp_value": 30,
+    "base_buy_price": 5,
+    "image_url": "https://img.example.com/memes/anime_kawaii_001.png"
+  },
+  {
+    "key": "anime_kawaii_002",
+    "name": "Kawaii Reaction #0002",
+    "rarity": "rare",
+    "type": "card",
+    "color": "standard",
+    "cp_value": 30,
+    "base_buy_price": 5,
+    "image_url": "https://img.example.com/memes/anime_kawaii_002.png"
+  },
+  {
+    "key": "anime_kawaii_003",
+    "name": "Kawaii Reaction #0003",
+    "rarity": "rare",
+    "type": "card",
+    "color": "standard",
+    "cp_value": 30,
+    "base_buy_price": 5,
+    "image_url": "https://img.example.com/memes/anime_kawaii_003.png"
+  },
+  {
+    "key": "anime_kawaii_004",
+    "name": "Kawaii Reaction #0004",
+    "rarity": "rare",
+    "type": "card",
+    "color": "standard",
+    "cp_value": 30,
+    "base_buy_price": 5,
+    "image_url": "https://img.example.com/memes/anime_kawaii_004.png"
+  },
+  {
+    "key": "anime_kawaii_005",
+    "name": "Kawaii Reaction #0005",
+    "rarity": "rare",
+    "type": "card",
+    "color": "standard",
+    "cp_value": 30,
+    "base_buy_price": 5,
+    "image_url": "https://img.example.com/memes/anime_kawaii_005.png"
+  },
+  {
+    "key": "anime_senpai_001",
+    "name": "Senpai Notice #0001",
+    "rarity": "epic",
+    "type": "gif",
+    "color": "gold",
+    "cp_value": 120,
+    "base_buy_price": 45,
+    "image_url": "https://img.example.com/memes/anime_senpai_001.png"
+  },
+  {
+    "key": "anime_senpai_002",
+    "name": "Senpai Notice #0002",
+    "rarity": "epic",
+    "type": "gif",
+    "color": "gold",
+    "cp_value": 120,
+    "base_buy_price": 45,
+    "image_url": "https://img.example.com/memes/anime_senpai_002.png"
+  },
+  {
+    "key": "anime_senpai_003",
+    "name": "Senpai Notice #0003",
+    "rarity": "epic",
+    "type": "gif",
+    "color": "gold",
+    "cp_value": 120,
+    "base_buy_price": 45,
+    "image_url": "https://img.example.com/memes/anime_senpai_003.png"
+  },
+  {
+    "key": "anime_senpai_004",
+    "name": "Senpai Notice #0004",
+    "rarity": "epic",
+    "type": "gif",
+    "color": "gold",
+    "cp_value": 120,
+    "base_buy_price": 45,
+    "image_url": "https://img.example.com/memes/anime_senpai_004.png"
+  },
+  {
+    "key": "anime_otaku_001",
+    "name": "Otaku Shrine #0001",
+    "rarity": "legendary",
+    "type": "artifact",
+    "color": "gold",
+    "cp_value": 600,
+    "base_buy_price": 300,
+    "image_url": "https://img.example.com/memes/anime_otaku_001.png"
+  },
+  {
+    "key": "anime_otaku_002",
+    "name": "Otaku Shrine #0002",
+    "rarity": "legendary",
+    "type": "artifact",
+    "color": "gold",
+    "cp_value": 600,
+    "base_buy_price": 300,
+    "image_url": "https://img.example.com/memes/anime_otaku_002.png"
+  },
+  {
+    "key": "anime_otaku_003",
+    "name": "Otaku Shrine #0003",
+    "rarity": "legendary",
+    "type": "artifact",
+    "color": "gold",
+    "cp_value": 600,
+    "base_buy_price": 300,
+    "image_url": "https://img.example.com/memes/anime_otaku_003.png"
+  },
+  {
+    "key": "anime_neon_001",
+    "name": "Neon Anime Core #0001",
+    "rarity": "mythic",
+    "type": "artifact",
+    "color": "rainbow",
+    "cp_value": 3000,
+    "base_buy_price": 4000,
+    "image_url": "https://img.example.com/memes/anime_neon_001.png"
+  },
+  {
+    "key": "anime_neon_002",
+    "name": "Neon Anime Core #0002",
+    "rarity": "mythic",
+    "type": "artifact",
+    "color": "rainbow",
+    "cp_value": 3000,
+    "base_buy_price": 4000,
+    "image_url": "https://img.example.com/memes/anime_neon_002.png"
+  },
+  {
+    "key": "artifact_pepe_gold_001",
+    "name": "Pepe Gold Bar #0001",
+    "rarity": "legendary",
+    "type": "artifact",
+    "color": "gold",
+    "cp_value": 600,
+    "base_buy_price": 300,
+    "image_url": "https://img.example.com/memes/artifact_pepe_gold_001.png"
+  },
+  {
+    "key": "artifact_pepe_gold_002",
+    "name": "Pepe Gold Bar #0002",
+    "rarity": "legendary",
+    "type": "artifact",
+    "color": "gold",
+    "cp_value": 600,
+    "base_buy_price": 300,
+    "image_url": "https://img.example.com/memes/artifact_pepe_gold_002.png"
+  },
+  {
+    "key": "artifact_pepe_gold_003",
+    "name": "Pepe Gold Bar #0003",
+    "rarity": "legendary",
+    "type": "artifact",
+    "color": "gold",
+    "cp_value": 600,
+    "base_buy_price": 300,
+    "image_url": "https://img.example.com/memes/artifact_pepe_gold_003.png"
+  },
+  {
+    "key": "artifact_pepe_gold_004",
+    "name": "Pepe Gold Bar #0004",
+    "rarity": "legendary",
+    "type": "artifact",
+    "color": "gold",
+    "cp_value": 600,
+    "base_buy_price": 300,
+    "image_url": "https://img.example.com/memes/artifact_pepe_gold_004.png"
+  },
+  {
+    "key": "artifact_platinum_doge_001",
+    "name": "Platinum Doge #0001",
+    "rarity": "mythic",
+    "type": "artifact",
+    "color": "rainbow",
+    "cp_value": 3000,
+    "base_buy_price": 4000,
+    "image_url": "https://img.example.com/memes/artifact_platinum_doge_001.png"
+  },
+  {
+    "key": "artifact_platinum_doge_002",
+    "name": "Platinum Doge #0002",
+    "rarity": "mythic",
+    "type": "artifact",
+    "color": "rainbow",
+    "cp_value": 3000,
+    "base_buy_price": 4000,
+    "image_url": "https://img.example.com/memes/artifact_platinum_doge_002.png"
+  },
+  {
+    "key": "artifact_platinum_doge_003",
+    "name": "Platinum Doge #0003",
+    "rarity": "mythic",
+    "type": "artifact",
+    "color": "rainbow",
+    "cp_value": 3000,
+    "base_buy_price": 4000,
+    "image_url": "https://img.example.com/memes/artifact_platinum_doge_003.png"
+  },
+  {
+    "key": "artifact_memecoin_001",
+    "name": "Ancient Memecoin #0001",
+    "rarity": "epic",
+    "type": "artifact",
+    "color": "gold",
+    "cp_value": 120,
+    "base_buy_price": 60,
+    "image_url": "https://img.example.com/memes/artifact_memecoin_001.png"
+  },
+  {
+    "key": "artifact_memecoin_002",
+    "name": "Ancient Memecoin #0002",
+    "rarity": "epic",
+    "type": "artifact",
+    "color": "gold",
+    "cp_value": 120,
+    "base_buy_price": 60,
+    "image_url": "https://img.example.com/memes/artifact_memecoin_002.png"
+  },
+  {
+    "key": "artifact_memecoin_003",
+    "name": "Ancient Memecoin #0003",
+    "rarity": "epic",
+    "type": "artifact",
+    "color": "gold",
+    "cp_value": 120,
+    "base_buy_price": 60,
+    "image_url": "https://img.example.com/memes/artifact_memecoin_003.png"
+  },
+  {
+    "key": "artifact_memecoin_004",
+    "name": "Ancient Memecoin #0004",
+    "rarity": "epic",
+    "type": "artifact",
+    "color": "gold",
+    "cp_value": 120,
+    "base_buy_price": 60,
+    "image_url": "https://img.example.com/memes/artifact_memecoin_004.png"
+  },
+  {
+    "key": "artifact_scroll_001",
+    "name": "Scroll of Meme Magic #0001",
+    "rarity": "legendary",
+    "type": "artifact",
+    "color": "rainbow",
+    "cp_value": 600,
+    "base_buy_price": 400,
+    "image_url": "https://img.example.com/memes/artifact_scroll_001.png"
+  },
+  {
+    "key": "artifact_scroll_002",
+    "name": "Scroll of Meme Magic #0002",
+    "rarity": "legendary",
+    "type": "artifact",
+    "color": "rainbow",
+    "cp_value": 600,
+    "base_buy_price": 400,
+    "image_url": "https://img.example.com/memes/artifact_scroll_002.png"
+  },
+  {
+    "key": "artifact_scroll_003",
+    "name": "Scroll of Meme Magic #0003",
+    "rarity": "legendary",
+    "type": "artifact",
+    "color": "rainbow",
+    "cp_value": 600,
+    "base_buy_price": 400,
+    "image_url": "https://img.example.com/memes/artifact_scroll_003.png"
+  },
+  {
+    "key": "artifact_crown_001",
+    "name": "Crown of Chad #0001",
+    "rarity": "mythic",
+    "type": "artifact",
+    "color": "rainbow",
+    "cp_value": 3000,
+    "base_buy_price": 4000,
+    "image_url": "https://img.example.com/memes/artifact_crown_001.png"
+  },
+  {
+    "key": "artifact_crown_002",
+    "name": "Crown of Chad #0002",
+    "rarity": "mythic",
+    "type": "artifact",
+    "color": "rainbow",
+    "cp_value": 3000,
+    "base_buy_price": 4000,
+    "image_url": "https://img.example.com/memes/artifact_crown_002.png"
+  },
+  {
+    "key": "artifact_crystal_001",
+    "name": "Meme Crystal #0001",
+    "rarity": "legendary",
+    "type": "artifact",
+    "color": "gold",
+    "cp_value": 600,
+    "base_buy_price": 300,
+    "image_url": "https://img.example.com/memes/artifact_crystal_001.png"
+  },
+  {
+    "key": "artifact_crystal_002",
+    "name": "Meme Crystal #0002",
+    "rarity": "legendary",
+    "type": "artifact",
+    "color": "gold",
+    "cp_value": 600,
+    "base_buy_price": 300,
+    "image_url": "https://img.example.com/memes/artifact_crystal_002.png"
+  },
+  {
+    "key": "artifact_crystal_003",
+    "name": "Meme Crystal #0003",
+    "rarity": "legendary",
+    "type": "artifact",
+    "color": "gold",
+    "cp_value": 600,
+    "base_buy_price": 300,
+    "image_url": "https://img.example.com/memes/artifact_crystal_003.png"
+  },
+  {
+    "key": "artifact_portal_001",
+    "name": "Portal to Memeverse #0001",
+    "rarity": "mythic",
+    "type": "artifact",
+    "color": "rainbow",
+    "cp_value": 3000,
+    "base_buy_price": 4000,
+    "image_url": "https://img.example.com/memes/artifact_portal_001.png"
+  },
+  {
+    "key": "artifact_portal_002",
+    "name": "Portal to Memeverse #0002",
+    "rarity": "mythic",
+    "type": "artifact",
+    "color": "rainbow",
+    "cp_value": 3000,
+    "base_buy_price": 4000,
+    "image_url": "https://img.example.com/memes/artifact_portal_002.png"
+  },
+  {
+    "key": "artifact_gear_001",
+    "name": "Meme Gear #0001",
+    "rarity": "epic",
+    "type": "artifact",
+    "color": "silver",
+    "cp_value": 120,
+    "base_buy_price": 50,
+    "image_url": "https://img.example.com/memes/artifact_gear_001.png"
+  },
+  {
+    "key": "artifact_gear_002",
+    "name": "Meme Gear #0002",
+    "rarity": "epic",
+    "type": "artifact",
+    "color": "silver",
+    "cp_value": 120,
+    "base_buy_price": 50,
+    "image_url": "https://img.example.com/memes/artifact_gear_002.png"
+  },
+  {
+    "key": "artifact_gear_003",
+    "name": "Meme Gear #0003",
+    "rarity": "epic",
+    "type": "artifact",
+    "color": "silver",
+    "cp_value": 120,
+    "base_buy_price": 50,
+    "image_url": "https://img.example.com/memes/artifact_gear_003.png"
+  },
+  {
+    "key": "artifact_gear_004",
+    "name": "Meme Gear #0004",
+    "rarity": "epic",
+    "type": "artifact",
+    "color": "silver",
+    "cp_value": 120,
+    "base_buy_price": 50,
+    "image_url": "https://img.example.com/memes/artifact_gear_004.png"
+  },
+  {
+    "key": "artifact_chalice_001",
+    "name": "Chalice of Kek #0001",
+    "rarity": "legendary",
+    "type": "artifact",
+    "color": "gold",
+    "cp_value": 600,
+    "base_buy_price": 300,
+    "image_url": "https://img.example.com/memes/artifact_chalice_001.png"
+  },
+  {
+    "key": "artifact_chalice_002",
+    "name": "Chalice of Kek #0002",
+    "rarity": "legendary",
+    "type": "artifact",
+    "color": "gold",
+    "cp_value": 600,
+    "base_buy_price": 300,
+    "image_url": "https://img.example.com/memes/artifact_chalice_002.png"
+  },
+  {
+    "key": "artifact_chalice_003",
+    "name": "Chalice of Kek #0003",
+    "rarity": "legendary",
+    "type": "artifact",
+    "color": "gold",
+    "cp_value": 600,
+    "base_buy_price": 300,
+    "image_url": "https://img.example.com/memes/artifact_chalice_003.png"
+  },
+  {
+    "key": "artifact_ember_001",
+    "name": "Ember of Dankness #0001",
+    "rarity": "mythic",
+    "type": "artifact",
+    "color": "rainbow",
+    "cp_value": 3000,
+    "base_buy_price": 4000,
+    "image_url": "https://img.example.com/memes/artifact_ember_001.png"
+  },
+  {
+    "key": "artifact_ember_002",
+    "name": "Ember of Dankness #0002",
+    "rarity": "mythic",
+    "type": "artifact",
+    "color": "rainbow",
+    "cp_value": 3000,
+    "base_buy_price": 4000,
+    "image_url": "https://img.example.com/memes/artifact_ember_002.png"
+  }
+]
