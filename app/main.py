@@ -7,6 +7,7 @@ import logging
 
 from aiogram import Bot, Dispatcher
 from aiogram.enums import ParseMode
+from aiogram.client.default import DefaultBotProperties
 from aiogram.fsm.storage.memory import MemoryStorage
 
 from app.config import get_settings
@@ -18,9 +19,16 @@ async def main() -> None:
     """Запускає бот у режимі long polling."""
 
     settings = get_settings()
-    logging.basicConfig(level=logging.INFO, format="[%(asctime)s] %(levelname)s:%(name)s:%(message)s")
+    logging.basicConfig(
+        level=logging.INFO,
+        format="[%(asctime)s] %(levelname)s:%(name)s:%(message)s"
+    )
 
-    bot = Bot(token=settings.bot_token, parse_mode=ParseMode.HTML)
+    # ✅ Новий спосіб створення бота (aiogram >= 3.7)
+    bot = Bot(
+        token=settings.bot_token,
+        default=DefaultBotProperties(parse_mode=ParseMode.HTML)
+    )
     dp = Dispatcher(storage=MemoryStorage())
 
     register_handlers(dp)
