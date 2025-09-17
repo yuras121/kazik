@@ -1,0 +1,4667 @@
+[
+  {
+    "code": "starter_case",
+    "name": "Starter Sticker Case",
+    "price": 60,
+    "pity_step": 1.1,
+    "pity_threshold": 6,
+    "cover_image": "https://cdn.meme-economy.app/cases/starter_case.png",
+    "items": [
+      {
+        "item_key": "pepe_classic_standard_0001",
+        "weight": 80.0
+      },
+      {
+        "item_key": "pepe_classic_silver_0001",
+        "weight": 80.0
+      },
+      {
+        "item_key": "pepe_classic_standard_0002",
+        "weight": 80.0
+      },
+      {
+        "item_key": "pepe_classic_silver_0002",
+        "weight": 80.0
+      },
+      {
+        "item_key": "pepe_classic_standard_0003",
+        "weight": 80.0
+      },
+      {
+        "item_key": "pepe_classic_silver_0003",
+        "weight": 80.0
+      },
+      {
+        "item_key": "pepe_smile_standard_0001",
+        "weight": 80.0
+      },
+      {
+        "item_key": "pepe_smile_silver_0001",
+        "weight": 80.0
+      },
+      {
+        "item_key": "pepe_smile_standard_0002",
+        "weight": 80.0
+      },
+      {
+        "item_key": "pepe_smile_silver_0002",
+        "weight": 80.0
+      },
+      {
+        "item_key": "pepe_smile_standard_0003",
+        "weight": 80.0
+      },
+      {
+        "item_key": "pepe_smile_silver_0003",
+        "weight": 80.0
+      },
+      {
+        "item_key": "pepe_wink_standard_0001",
+        "weight": 80.0
+      },
+      {
+        "item_key": "pepe_wink_silver_0001",
+        "weight": 80.0
+      },
+      {
+        "item_key": "pepe_wink_standard_0002",
+        "weight": 80.0
+      },
+      {
+        "item_key": "pepe_wink_silver_0002",
+        "weight": 80.0
+      },
+      {
+        "item_key": "pepe_wink_standard_0003",
+        "weight": 80.0
+      },
+      {
+        "item_key": "pepe_wink_silver_0003",
+        "weight": 80.0
+      },
+      {
+        "item_key": "pepe_coffee_standard_0001",
+        "weight": 80.0
+      },
+      {
+        "item_key": "pepe_coffee_silver_0001",
+        "weight": 80.0
+      },
+      {
+        "item_key": "pepe_coffee_standard_0002",
+        "weight": 80.0
+      },
+      {
+        "item_key": "pepe_coffee_silver_0002",
+        "weight": 80.0
+      },
+      {
+        "item_key": "pepe_coffee_standard_0003",
+        "weight": 80.0
+      },
+      {
+        "item_key": "pepe_coffee_silver_0003",
+        "weight": 80.0
+      },
+      {
+        "item_key": "pepe_skate_standard_0001",
+        "weight": 80.0
+      },
+      {
+        "item_key": "pepe_skate_silver_0001",
+        "weight": 80.0
+      },
+      {
+        "item_key": "pepe_skate_standard_0002",
+        "weight": 80.0
+      },
+      {
+        "item_key": "pepe_skate_silver_0002",
+        "weight": 80.0
+      },
+      {
+        "item_key": "pepe_skate_standard_0003",
+        "weight": 80.0
+      },
+      {
+        "item_key": "pepe_skate_silver_0003",
+        "weight": 80.0
+      },
+      {
+        "item_key": "pepe_pixel_standard_0001",
+        "weight": 80.0
+      },
+      {
+        "item_key": "pepe_pixel_silver_0001",
+        "weight": 80.0
+      },
+      {
+        "item_key": "pepe_pixel_standard_0002",
+        "weight": 80.0
+      },
+      {
+        "item_key": "pepe_pixel_silver_0002",
+        "weight": 80.0
+      },
+      {
+        "item_key": "pepe_pixel_standard_0003",
+        "weight": 80.0
+      },
+      {
+        "item_key": "pepe_pixel_silver_0003",
+        "weight": 80.0
+      },
+      {
+        "item_key": "doge_classic_standard_0001",
+        "weight": 80.0
+      },
+      {
+        "item_key": "doge_classic_silver_0001",
+        "weight": 80.0
+      },
+      {
+        "item_key": "doge_classic_standard_0002",
+        "weight": 80.0
+      },
+      {
+        "item_key": "doge_classic_silver_0002",
+        "weight": 80.0
+      },
+      {
+        "item_key": "doge_classic_standard_0003",
+        "weight": 80.0
+      },
+      {
+        "item_key": "doge_classic_silver_0003",
+        "weight": 80.0
+      },
+      {
+        "item_key": "doge_smile_standard_0001",
+        "weight": 80.0
+      },
+      {
+        "item_key": "doge_smile_silver_0001",
+        "weight": 80.0
+      },
+      {
+        "item_key": "doge_smile_standard_0002",
+        "weight": 80.0
+      },
+      {
+        "item_key": "doge_smile_silver_0002",
+        "weight": 80.0
+      },
+      {
+        "item_key": "doge_smile_standard_0003",
+        "weight": 80.0
+      },
+      {
+        "item_key": "doge_smile_silver_0003",
+        "weight": 80.0
+      },
+      {
+        "item_key": "doge_burger_standard_0001",
+        "weight": 80.0
+      },
+      {
+        "item_key": "doge_burger_silver_0001",
+        "weight": 80.0
+      },
+      {
+        "item_key": "doge_burger_standard_0002",
+        "weight": 80.0
+      },
+      {
+        "item_key": "doge_burger_silver_0002",
+        "weight": 80.0
+      },
+      {
+        "item_key": "doge_burger_standard_0003",
+        "weight": 80.0
+      },
+      {
+        "item_key": "doge_burger_silver_0003",
+        "weight": 80.0
+      },
+      {
+        "item_key": "doge_pizza_standard_0001",
+        "weight": 80.0
+      },
+      {
+        "item_key": "doge_pizza_silver_0001",
+        "weight": 80.0
+      },
+      {
+        "item_key": "doge_pizza_standard_0002",
+        "weight": 80.0
+      },
+      {
+        "item_key": "doge_pizza_silver_0002",
+        "weight": 80.0
+      },
+      {
+        "item_key": "doge_pizza_standard_0003",
+        "weight": 80.0
+      },
+      {
+        "item_key": "doge_pizza_silver_0003",
+        "weight": 80.0
+      },
+      {
+        "item_key": "doge_sunglasses_standard_0001",
+        "weight": 80.0
+      },
+      {
+        "item_key": "doge_sunglasses_silver_0001",
+        "weight": 80.0
+      },
+      {
+        "item_key": "doge_sunglasses_standard_0002",
+        "weight": 80.0
+      },
+      {
+        "item_key": "doge_sunglasses_silver_0002",
+        "weight": 80.0
+      },
+      {
+        "item_key": "doge_sunglasses_standard_0003",
+        "weight": 80.0
+      },
+      {
+        "item_key": "doge_sunglasses_silver_0003",
+        "weight": 80.0
+      },
+      {
+        "item_key": "doge_heart_standard_0001",
+        "weight": 80.0
+      },
+      {
+        "item_key": "doge_heart_silver_0001",
+        "weight": 80.0
+      },
+      {
+        "item_key": "doge_heart_standard_0002",
+        "weight": 80.0
+      },
+      {
+        "item_key": "doge_heart_silver_0002",
+        "weight": 80.0
+      },
+      {
+        "item_key": "doge_heart_standard_0003",
+        "weight": 80.0
+      },
+      {
+        "item_key": "doge_heart_silver_0003",
+        "weight": 80.0
+      },
+      {
+        "item_key": "wojak_chill_standard_0001",
+        "weight": 80.0
+      },
+      {
+        "item_key": "wojak_chill_silver_0001",
+        "weight": 80.0
+      },
+      {
+        "item_key": "wojak_chill_standard_0002",
+        "weight": 80.0
+      },
+      {
+        "item_key": "wojak_chill_silver_0002",
+        "weight": 80.0
+      },
+      {
+        "item_key": "wojak_chill_standard_0003",
+        "weight": 80.0
+      },
+      {
+        "item_key": "wojak_chill_silver_0003",
+        "weight": 80.0
+      },
+      {
+        "item_key": "wojak_coffee_standard_0001",
+        "weight": 80.0
+      },
+      {
+        "item_key": "wojak_coffee_silver_0001",
+        "weight": 80.0
+      },
+      {
+        "item_key": "wojak_coffee_standard_0002",
+        "weight": 80.0
+      },
+      {
+        "item_key": "wojak_coffee_silver_0002",
+        "weight": 80.0
+      },
+      {
+        "item_key": "wojak_coffee_standard_0003",
+        "weight": 80.0
+      },
+      {
+        "item_key": "wojak_coffee_silver_0003",
+        "weight": 80.0
+      },
+      {
+        "item_key": "wojak_think_standard_0001",
+        "weight": 80.0
+      },
+      {
+        "item_key": "wojak_think_silver_0001",
+        "weight": 80.0
+      },
+      {
+        "item_key": "wojak_think_standard_0002",
+        "weight": 80.0
+      },
+      {
+        "item_key": "wojak_think_silver_0002",
+        "weight": 80.0
+      },
+      {
+        "item_key": "wojak_think_standard_0003",
+        "weight": 80.0
+      },
+      {
+        "item_key": "wojak_think_silver_0003",
+        "weight": 80.0
+      },
+      {
+        "item_key": "wojak_meme_standard_0001",
+        "weight": 80.0
+      },
+      {
+        "item_key": "wojak_meme_silver_0001",
+        "weight": 80.0
+      },
+      {
+        "item_key": "wojak_meme_standard_0002",
+        "weight": 80.0
+      },
+      {
+        "item_key": "wojak_meme_silver_0002",
+        "weight": 80.0
+      },
+      {
+        "item_key": "wojak_meme_standard_0003",
+        "weight": 80.0
+      },
+      {
+        "item_key": "wojak_meme_silver_0003",
+        "weight": 80.0
+      },
+      {
+        "item_key": "skibidi_dance_standard_0001",
+        "weight": 80.0
+      },
+      {
+        "item_key": "skibidi_dance_silver_0001",
+        "weight": 80.0
+      },
+      {
+        "item_key": "skibidi_dance_standard_0002",
+        "weight": 80.0
+      },
+      {
+        "item_key": "skibidi_dance_silver_0002",
+        "weight": 80.0
+      },
+      {
+        "item_key": "skibidi_dance_standard_0003",
+        "weight": 80.0
+      },
+      {
+        "item_key": "skibidi_dance_silver_0003",
+        "weight": 80.0
+      },
+      {
+        "item_key": "fanum_tax_standard_0001",
+        "weight": 80.0
+      },
+      {
+        "item_key": "fanum_tax_silver_0001",
+        "weight": 80.0
+      },
+      {
+        "item_key": "fanum_tax_standard_0002",
+        "weight": 80.0
+      },
+      {
+        "item_key": "fanum_tax_silver_0002",
+        "weight": 80.0
+      },
+      {
+        "item_key": "fanum_tax_standard_0003",
+        "weight": 80.0
+      },
+      {
+        "item_key": "fanum_tax_silver_0003",
+        "weight": 80.0
+      },
+      {
+        "item_key": "sigma_wave_standard_0001",
+        "weight": 80.0
+      },
+      {
+        "item_key": "sigma_wave_silver_0001",
+        "weight": 80.0
+      },
+      {
+        "item_key": "sigma_wave_standard_0002",
+        "weight": 80.0
+      },
+      {
+        "item_key": "sigma_wave_silver_0002",
+        "weight": 80.0
+      },
+      {
+        "item_key": "sigma_wave_standard_0003",
+        "weight": 80.0
+      },
+      {
+        "item_key": "sigma_wave_silver_0003",
+        "weight": 80.0
+      },
+      {
+        "item_key": "meme_frog_standard_0001",
+        "weight": 80.0
+      },
+      {
+        "item_key": "meme_frog_silver_0001",
+        "weight": 80.0
+      },
+      {
+        "item_key": "meme_frog_standard_0002",
+        "weight": 80.0
+      },
+      {
+        "item_key": "meme_frog_silver_0002",
+        "weight": 80.0
+      },
+      {
+        "item_key": "meme_frog_standard_0003",
+        "weight": 80.0
+      },
+      {
+        "item_key": "meme_frog_silver_0003",
+        "weight": 80.0
+      },
+      {
+        "item_key": "cat_vibing_standard_0001",
+        "weight": 80.0
+      },
+      {
+        "item_key": "cat_vibing_silver_0001",
+        "weight": 80.0
+      },
+      {
+        "item_key": "cat_vibing_standard_0002",
+        "weight": 80.0
+      },
+      {
+        "item_key": "cat_vibing_silver_0002",
+        "weight": 80.0
+      },
+      {
+        "item_key": "cat_vibing_standard_0003",
+        "weight": 80.0
+      },
+      {
+        "item_key": "cat_vibing_silver_0003",
+        "weight": 80.0
+      },
+      {
+        "item_key": "npc_blink_standard_0001",
+        "weight": 80.0
+      },
+      {
+        "item_key": "npc_blink_silver_0001",
+        "weight": 80.0
+      },
+      {
+        "item_key": "npc_blink_standard_0002",
+        "weight": 80.0
+      },
+      {
+        "item_key": "npc_blink_silver_0002",
+        "weight": 80.0
+      },
+      {
+        "item_key": "npc_blink_standard_0003",
+        "weight": 80.0
+      },
+      {
+        "item_key": "npc_blink_silver_0003",
+        "weight": 80.0
+      },
+      {
+        "item_key": "trollface_og_standard_0001",
+        "weight": 80.0
+      },
+      {
+        "item_key": "trollface_og_silver_0001",
+        "weight": 80.0
+      },
+      {
+        "item_key": "trollface_og_standard_0002",
+        "weight": 80.0
+      },
+      {
+        "item_key": "trollface_og_silver_0002",
+        "weight": 80.0
+      },
+      {
+        "item_key": "trollface_og_standard_0003",
+        "weight": 80.0
+      },
+      {
+        "item_key": "trollface_og_silver_0003",
+        "weight": 80.0
+      },
+      {
+        "item_key": "rage_guy_snap_standard_0001",
+        "weight": 80.0
+      },
+      {
+        "item_key": "rage_guy_snap_silver_0001",
+        "weight": 80.0
+      },
+      {
+        "item_key": "rage_guy_snap_standard_0002",
+        "weight": 80.0
+      },
+      {
+        "item_key": "rage_guy_snap_silver_0002",
+        "weight": 80.0
+      },
+      {
+        "item_key": "rage_guy_snap_standard_0003",
+        "weight": 80.0
+      },
+      {
+        "item_key": "rage_guy_snap_silver_0003",
+        "weight": 80.0
+      },
+      {
+        "item_key": "forever_alone_standard_0001",
+        "weight": 80.0
+      },
+      {
+        "item_key": "forever_alone_silver_0001",
+        "weight": 80.0
+      },
+      {
+        "item_key": "forever_alone_standard_0002",
+        "weight": 80.0
+      },
+      {
+        "item_key": "forever_alone_silver_0002",
+        "weight": 80.0
+      },
+      {
+        "item_key": "forever_alone_standard_0003",
+        "weight": 80.0
+      },
+      {
+        "item_key": "forever_alone_silver_0003",
+        "weight": 80.0
+      },
+      {
+        "item_key": "gigachad_wink_standard_0001",
+        "weight": 80.0
+      },
+      {
+        "item_key": "gigachad_wink_silver_0001",
+        "weight": 80.0
+      },
+      {
+        "item_key": "gigachad_wink_standard_0002",
+        "weight": 80.0
+      },
+      {
+        "item_key": "gigachad_wink_silver_0002",
+        "weight": 80.0
+      },
+      {
+        "item_key": "gigachad_wink_standard_0003",
+        "weight": 80.0
+      },
+      {
+        "item_key": "gigachad_wink_silver_0003",
+        "weight": 80.0
+      },
+      {
+        "item_key": "pepe_balloon_standard_0001",
+        "weight": 80.0
+      },
+      {
+        "item_key": "pepe_balloon_silver_0001",
+        "weight": 80.0
+      },
+      {
+        "item_key": "pepe_balloon_standard_0002",
+        "weight": 80.0
+      },
+      {
+        "item_key": "pepe_balloon_silver_0002",
+        "weight": 80.0
+      },
+      {
+        "item_key": "pepe_balloon_standard_0003",
+        "weight": 80.0
+      },
+      {
+        "item_key": "pepe_balloon_silver_0003",
+        "weight": 80.0
+      },
+      {
+        "item_key": "doge_popcorn_standard_0001",
+        "weight": 80.0
+      },
+      {
+        "item_key": "doge_popcorn_silver_0001",
+        "weight": 80.0
+      },
+      {
+        "item_key": "doge_popcorn_standard_0002",
+        "weight": 80.0
+      },
+      {
+        "item_key": "doge_popcorn_silver_0002",
+        "weight": 80.0
+      },
+      {
+        "item_key": "doge_popcorn_standard_0003",
+        "weight": 80.0
+      },
+      {
+        "item_key": "doge_popcorn_silver_0003",
+        "weight": 80.0
+      },
+      {
+        "item_key": "pepe_neon_standard_0001",
+        "weight": 45.0
+      },
+      {
+        "item_key": "pepe_neon_gold_0001",
+        "weight": 45.0
+      },
+      {
+        "item_key": "pepe_neon_standard_0002",
+        "weight": 45.0
+      },
+      {
+        "item_key": "pepe_neon_gold_0002",
+        "weight": 45.0
+      },
+      {
+        "item_key": "pepe_neon_standard_0003",
+        "weight": 45.0
+      },
+      {
+        "item_key": "pepe_neon_gold_0003",
+        "weight": 45.0
+      },
+      {
+        "item_key": "pepe_dj_standard_0001",
+        "weight": 45.0
+      },
+      {
+        "item_key": "pepe_dj_gold_0001",
+        "weight": 45.0
+      },
+      {
+        "item_key": "pepe_dj_standard_0002",
+        "weight": 45.0
+      },
+      {
+        "item_key": "pepe_dj_gold_0002",
+        "weight": 45.0
+      },
+      {
+        "item_key": "pepe_dj_standard_0003",
+        "weight": 45.0
+      },
+      {
+        "item_key": "pepe_dj_gold_0003",
+        "weight": 45.0
+      },
+      {
+        "item_key": "doge_neon_standard_0001",
+        "weight": 45.0
+      },
+      {
+        "item_key": "doge_neon_gold_0001",
+        "weight": 45.0
+      },
+      {
+        "item_key": "doge_neon_standard_0002",
+        "weight": 45.0
+      },
+      {
+        "item_key": "doge_neon_gold_0002",
+        "weight": 45.0
+      },
+      {
+        "item_key": "doge_neon_standard_0003",
+        "weight": 45.0
+      },
+      {
+        "item_key": "doge_neon_gold_0003",
+        "weight": 45.0
+      },
+      {
+        "item_key": "doge_gamer_standard_0001",
+        "weight": 45.0
+      },
+      {
+        "item_key": "doge_gamer_gold_0001",
+        "weight": 45.0
+      },
+      {
+        "item_key": "doge_gamer_standard_0002",
+        "weight": 45.0
+      },
+      {
+        "item_key": "doge_gamer_gold_0002",
+        "weight": 45.0
+      },
+      {
+        "item_key": "doge_gamer_standard_0003",
+        "weight": 45.0
+      },
+      {
+        "item_key": "doge_gamer_gold_0003",
+        "weight": 45.0
+      },
+      {
+        "item_key": "wojak_neon_standard_0001",
+        "weight": 45.0
+      },
+      {
+        "item_key": "wojak_neon_gold_0001",
+        "weight": 45.0
+      },
+      {
+        "item_key": "wojak_neon_standard_0002",
+        "weight": 45.0
+      },
+      {
+        "item_key": "wojak_neon_gold_0002",
+        "weight": 45.0
+      },
+      {
+        "item_key": "wojak_neon_standard_0003",
+        "weight": 45.0
+      },
+      {
+        "item_key": "wojak_neon_gold_0003",
+        "weight": 45.0
+      },
+      {
+        "item_key": "wojak_sunset_standard_0001",
+        "weight": 45.0
+      },
+      {
+        "item_key": "wojak_sunset_gold_0001",
+        "weight": 45.0
+      },
+      {
+        "item_key": "wojak_sunset_standard_0002",
+        "weight": 45.0
+      },
+      {
+        "item_key": "wojak_sunset_gold_0002",
+        "weight": 45.0
+      },
+      {
+        "item_key": "wojak_sunset_standard_0003",
+        "weight": 45.0
+      },
+      {
+        "item_key": "wojak_sunset_gold_0003",
+        "weight": 45.0
+      },
+      {
+        "item_key": "skibidi_remix_standard_0001",
+        "weight": 45.0
+      },
+      {
+        "item_key": "skibidi_remix_gold_0001",
+        "weight": 45.0
+      },
+      {
+        "item_key": "skibidi_remix_standard_0002",
+        "weight": 45.0
+      },
+      {
+        "item_key": "skibidi_remix_gold_0002",
+        "weight": 45.0
+      },
+      {
+        "item_key": "skibidi_remix_standard_0003",
+        "weight": 45.0
+      },
+      {
+        "item_key": "skibidi_remix_gold_0003",
+        "weight": 45.0
+      },
+      {
+        "item_key": "sigma_neon_standard_0001",
+        "weight": 45.0
+      },
+      {
+        "item_key": "sigma_neon_gold_0001",
+        "weight": 45.0
+      },
+      {
+        "item_key": "sigma_neon_standard_0002",
+        "weight": 45.0
+      },
+      {
+        "item_key": "sigma_neon_gold_0002",
+        "weight": 45.0
+      },
+      {
+        "item_key": "sigma_neon_standard_0003",
+        "weight": 45.0
+      },
+      {
+        "item_key": "sigma_neon_gold_0003",
+        "weight": 45.0
+      },
+      {
+        "item_key": "trollface_chrome_standard_0001",
+        "weight": 45.0
+      },
+      {
+        "item_key": "trollface_chrome_gold_0001",
+        "weight": 45.0
+      },
+      {
+        "item_key": "trollface_chrome_standard_0002",
+        "weight": 45.0
+      },
+      {
+        "item_key": "trollface_chrome_gold_0002",
+        "weight": 45.0
+      },
+      {
+        "item_key": "trollface_chrome_standard_0003",
+        "weight": 45.0
+      },
+      {
+        "item_key": "trollface_chrome_gold_0003",
+        "weight": 45.0
+      },
+      {
+        "item_key": "rage_guy_chrome_standard_0001",
+        "weight": 45.0
+      },
+      {
+        "item_key": "rage_guy_chrome_gold_0001",
+        "weight": 45.0
+      },
+      {
+        "item_key": "rage_guy_chrome_standard_0002",
+        "weight": 45.0
+      },
+      {
+        "item_key": "rage_guy_chrome_gold_0002",
+        "weight": 45.0
+      },
+      {
+        "item_key": "rage_guy_chrome_standard_0003",
+        "weight": 45.0
+      },
+      {
+        "item_key": "rage_guy_chrome_gold_0003",
+        "weight": 45.0
+      },
+      {
+        "item_key": "npc_streamer_standard_0001",
+        "weight": 45.0
+      },
+      {
+        "item_key": "npc_streamer_gold_0001",
+        "weight": 45.0
+      },
+      {
+        "item_key": "npc_streamer_standard_0002",
+        "weight": 45.0
+      },
+      {
+        "item_key": "npc_streamer_gold_0002",
+        "weight": 45.0
+      },
+      {
+        "item_key": "npc_streamer_standard_0003",
+        "weight": 45.0
+      },
+      {
+        "item_key": "npc_streamer_gold_0003",
+        "weight": 45.0
+      },
+      {
+        "item_key": "meme_astronaut_standard_0001",
+        "weight": 45.0
+      },
+      {
+        "item_key": "meme_astronaut_gold_0001",
+        "weight": 45.0
+      },
+      {
+        "item_key": "meme_astronaut_standard_0002",
+        "weight": 45.0
+      },
+      {
+        "item_key": "meme_astronaut_gold_0002",
+        "weight": 45.0
+      },
+      {
+        "item_key": "meme_astronaut_standard_0003",
+        "weight": 45.0
+      },
+      {
+        "item_key": "meme_astronaut_gold_0003",
+        "weight": 45.0
+      },
+      {
+        "item_key": "cat_dj_standard_0001",
+        "weight": 45.0
+      },
+      {
+        "item_key": "cat_dj_gold_0001",
+        "weight": 45.0
+      },
+      {
+        "item_key": "cat_dj_standard_0002",
+        "weight": 45.0
+      },
+      {
+        "item_key": "cat_dj_gold_0002",
+        "weight": 45.0
+      },
+      {
+        "item_key": "cat_dj_standard_0003",
+        "weight": 45.0
+      },
+      {
+        "item_key": "cat_dj_gold_0003",
+        "weight": 45.0
+      },
+      {
+        "item_key": "doge_laser_standard_0001",
+        "weight": 45.0
+      },
+      {
+        "item_key": "doge_laser_gold_0001",
+        "weight": 45.0
+      },
+      {
+        "item_key": "doge_laser_standard_0002",
+        "weight": 45.0
+      },
+      {
+        "item_key": "doge_laser_gold_0002",
+        "weight": 45.0
+      },
+      {
+        "item_key": "doge_laser_standard_0003",
+        "weight": 45.0
+      },
+      {
+        "item_key": "doge_laser_gold_0003",
+        "weight": 45.0
+      },
+      {
+        "item_key": "pepe_hoodie_standard_0001",
+        "weight": 45.0
+      },
+      {
+        "item_key": "pepe_hoodie_gold_0001",
+        "weight": 45.0
+      },
+      {
+        "item_key": "pepe_hoodie_standard_0002",
+        "weight": 45.0
+      },
+      {
+        "item_key": "pepe_hoodie_gold_0002",
+        "weight": 45.0
+      },
+      {
+        "item_key": "pepe_hoodie_standard_0003",
+        "weight": 45.0
+      },
+      {
+        "item_key": "pepe_hoodie_gold_0003",
+        "weight": 45.0
+      },
+      {
+        "item_key": "wojak_hoodie_standard_0001",
+        "weight": 45.0
+      },
+      {
+        "item_key": "wojak_hoodie_gold_0001",
+        "weight": 45.0
+      },
+      {
+        "item_key": "wojak_hoodie_standard_0002",
+        "weight": 45.0
+      },
+      {
+        "item_key": "wojak_hoodie_gold_0002",
+        "weight": 45.0
+      },
+      {
+        "item_key": "wojak_hoodie_standard_0003",
+        "weight": 45.0
+      },
+      {
+        "item_key": "wojak_hoodie_gold_0003",
+        "weight": 45.0
+      },
+      {
+        "item_key": "frog_pixel_standard_0001",
+        "weight": 45.0
+      },
+      {
+        "item_key": "frog_pixel_gold_0001",
+        "weight": 45.0
+      },
+      {
+        "item_key": "frog_pixel_standard_0002",
+        "weight": 45.0
+      },
+      {
+        "item_key": "frog_pixel_gold_0002",
+        "weight": 45.0
+      },
+      {
+        "item_key": "frog_pixel_standard_0003",
+        "weight": 45.0
+      },
+      {
+        "item_key": "frog_pixel_gold_0003",
+        "weight": 45.0
+      },
+      {
+        "item_key": "meme_chef_standard_0001",
+        "weight": 45.0
+      },
+      {
+        "item_key": "meme_chef_gold_0001",
+        "weight": 45.0
+      },
+      {
+        "item_key": "meme_chef_standard_0002",
+        "weight": 45.0
+      },
+      {
+        "item_key": "meme_chef_gold_0002",
+        "weight": 45.0
+      },
+      {
+        "item_key": "meme_chef_standard_0003",
+        "weight": 45.0
+      },
+      {
+        "item_key": "meme_chef_gold_0003",
+        "weight": 45.0
+      },
+      {
+        "item_key": "doge_sushi_standard_0001",
+        "weight": 45.0
+      },
+      {
+        "item_key": "doge_sushi_gold_0001",
+        "weight": 45.0
+      },
+      {
+        "item_key": "doge_sushi_standard_0002",
+        "weight": 45.0
+      },
+      {
+        "item_key": "doge_sushi_gold_0002",
+        "weight": 45.0
+      },
+      {
+        "item_key": "doge_sushi_standard_0003",
+        "weight": 45.0
+      },
+      {
+        "item_key": "doge_sushi_gold_0003",
+        "weight": 45.0
+      },
+      {
+        "item_key": "pepe_street_standard_0001",
+        "weight": 45.0
+      },
+      {
+        "item_key": "pepe_street_gold_0001",
+        "weight": 45.0
+      },
+      {
+        "item_key": "pepe_street_standard_0002",
+        "weight": 45.0
+      },
+      {
+        "item_key": "pepe_street_gold_0002",
+        "weight": 45.0
+      },
+      {
+        "item_key": "pepe_street_standard_0003",
+        "weight": 45.0
+      },
+      {
+        "item_key": "pepe_street_gold_0003",
+        "weight": 45.0
+      }
+    ]
+  },
+  {
+    "code": "pepe_case",
+    "name": "Pepe Power Case",
+    "price": 160,
+    "pity_step": 1.2,
+    "pity_threshold": 7,
+    "cover_image": "https://cdn.meme-economy.app/cases/pepe_case.png",
+    "items": [
+      {
+        "item_key": "pepe_classic_standard_0001",
+        "weight": 80.0
+      },
+      {
+        "item_key": "pepe_classic_silver_0001",
+        "weight": 80.0
+      },
+      {
+        "item_key": "pepe_classic_standard_0002",
+        "weight": 80.0
+      },
+      {
+        "item_key": "pepe_classic_silver_0002",
+        "weight": 80.0
+      },
+      {
+        "item_key": "pepe_classic_standard_0003",
+        "weight": 80.0
+      },
+      {
+        "item_key": "pepe_classic_silver_0003",
+        "weight": 80.0
+      },
+      {
+        "item_key": "pepe_smile_standard_0001",
+        "weight": 80.0
+      },
+      {
+        "item_key": "pepe_smile_silver_0001",
+        "weight": 80.0
+      },
+      {
+        "item_key": "pepe_smile_standard_0002",
+        "weight": 80.0
+      },
+      {
+        "item_key": "pepe_smile_silver_0002",
+        "weight": 80.0
+      },
+      {
+        "item_key": "pepe_smile_standard_0003",
+        "weight": 80.0
+      },
+      {
+        "item_key": "pepe_smile_silver_0003",
+        "weight": 80.0
+      },
+      {
+        "item_key": "pepe_wink_standard_0001",
+        "weight": 80.0
+      },
+      {
+        "item_key": "pepe_wink_silver_0001",
+        "weight": 80.0
+      },
+      {
+        "item_key": "pepe_wink_standard_0002",
+        "weight": 80.0
+      },
+      {
+        "item_key": "pepe_wink_silver_0002",
+        "weight": 80.0
+      },
+      {
+        "item_key": "pepe_wink_standard_0003",
+        "weight": 80.0
+      },
+      {
+        "item_key": "pepe_wink_silver_0003",
+        "weight": 80.0
+      },
+      {
+        "item_key": "pepe_coffee_standard_0001",
+        "weight": 80.0
+      },
+      {
+        "item_key": "pepe_coffee_silver_0001",
+        "weight": 80.0
+      },
+      {
+        "item_key": "pepe_coffee_standard_0002",
+        "weight": 80.0
+      },
+      {
+        "item_key": "pepe_coffee_silver_0002",
+        "weight": 80.0
+      },
+      {
+        "item_key": "pepe_coffee_standard_0003",
+        "weight": 80.0
+      },
+      {
+        "item_key": "pepe_coffee_silver_0003",
+        "weight": 80.0
+      },
+      {
+        "item_key": "pepe_skate_standard_0001",
+        "weight": 80.0
+      },
+      {
+        "item_key": "pepe_skate_silver_0001",
+        "weight": 80.0
+      },
+      {
+        "item_key": "pepe_skate_standard_0002",
+        "weight": 80.0
+      },
+      {
+        "item_key": "pepe_skate_silver_0002",
+        "weight": 80.0
+      },
+      {
+        "item_key": "pepe_skate_standard_0003",
+        "weight": 80.0
+      },
+      {
+        "item_key": "pepe_skate_silver_0003",
+        "weight": 80.0
+      },
+      {
+        "item_key": "pepe_pixel_standard_0001",
+        "weight": 80.0
+      },
+      {
+        "item_key": "pepe_pixel_silver_0001",
+        "weight": 80.0
+      },
+      {
+        "item_key": "pepe_pixel_standard_0002",
+        "weight": 80.0
+      },
+      {
+        "item_key": "pepe_pixel_silver_0002",
+        "weight": 80.0
+      },
+      {
+        "item_key": "pepe_pixel_standard_0003",
+        "weight": 80.0
+      },
+      {
+        "item_key": "pepe_pixel_silver_0003",
+        "weight": 80.0
+      },
+      {
+        "item_key": "pepe_balloon_standard_0001",
+        "weight": 80.0
+      },
+      {
+        "item_key": "pepe_balloon_silver_0001",
+        "weight": 80.0
+      },
+      {
+        "item_key": "pepe_balloon_standard_0002",
+        "weight": 80.0
+      },
+      {
+        "item_key": "pepe_balloon_silver_0002",
+        "weight": 80.0
+      },
+      {
+        "item_key": "pepe_balloon_standard_0003",
+        "weight": 80.0
+      },
+      {
+        "item_key": "pepe_balloon_silver_0003",
+        "weight": 80.0
+      },
+      {
+        "item_key": "pepe_neon_standard_0001",
+        "weight": 45.0
+      },
+      {
+        "item_key": "pepe_neon_gold_0001",
+        "weight": 45.0
+      },
+      {
+        "item_key": "pepe_neon_standard_0002",
+        "weight": 45.0
+      },
+      {
+        "item_key": "pepe_neon_gold_0002",
+        "weight": 45.0
+      },
+      {
+        "item_key": "pepe_neon_standard_0003",
+        "weight": 45.0
+      },
+      {
+        "item_key": "pepe_neon_gold_0003",
+        "weight": 45.0
+      },
+      {
+        "item_key": "pepe_dj_standard_0001",
+        "weight": 45.0
+      },
+      {
+        "item_key": "pepe_dj_gold_0001",
+        "weight": 45.0
+      },
+      {
+        "item_key": "pepe_dj_standard_0002",
+        "weight": 45.0
+      },
+      {
+        "item_key": "pepe_dj_gold_0002",
+        "weight": 45.0
+      },
+      {
+        "item_key": "pepe_dj_standard_0003",
+        "weight": 45.0
+      },
+      {
+        "item_key": "pepe_dj_gold_0003",
+        "weight": 45.0
+      },
+      {
+        "item_key": "pepe_hoodie_standard_0001",
+        "weight": 45.0
+      },
+      {
+        "item_key": "pepe_hoodie_gold_0001",
+        "weight": 45.0
+      },
+      {
+        "item_key": "pepe_hoodie_standard_0002",
+        "weight": 45.0
+      },
+      {
+        "item_key": "pepe_hoodie_gold_0002",
+        "weight": 45.0
+      },
+      {
+        "item_key": "pepe_hoodie_standard_0003",
+        "weight": 45.0
+      },
+      {
+        "item_key": "pepe_hoodie_gold_0003",
+        "weight": 45.0
+      },
+      {
+        "item_key": "pepe_street_standard_0001",
+        "weight": 45.0
+      },
+      {
+        "item_key": "pepe_street_gold_0001",
+        "weight": 45.0
+      },
+      {
+        "item_key": "pepe_street_standard_0002",
+        "weight": 45.0
+      },
+      {
+        "item_key": "pepe_street_gold_0002",
+        "weight": 45.0
+      },
+      {
+        "item_key": "pepe_street_standard_0003",
+        "weight": 45.0
+      },
+      {
+        "item_key": "pepe_street_gold_0003",
+        "weight": 45.0
+      },
+      {
+        "item_key": "pepe_samurai_standard_0001",
+        "weight": 20.0
+      },
+      {
+        "item_key": "pepe_samurai_gold_0001",
+        "weight": 20.0
+      },
+      {
+        "item_key": "pepe_samurai_standard_0002",
+        "weight": 20.0
+      },
+      {
+        "item_key": "pepe_samurai_gold_0002",
+        "weight": 20.0
+      },
+      {
+        "item_key": "pepe_samurai_standard_0003",
+        "weight": 20.0
+      },
+      {
+        "item_key": "pepe_samurai_gold_0003",
+        "weight": 20.0
+      },
+      {
+        "item_key": "pepe_cyberpunk_standard_0001",
+        "weight": 20.0
+      },
+      {
+        "item_key": "pepe_cyberpunk_gold_0001",
+        "weight": 20.0
+      },
+      {
+        "item_key": "pepe_cyberpunk_standard_0002",
+        "weight": 20.0
+      },
+      {
+        "item_key": "pepe_cyberpunk_gold_0002",
+        "weight": 20.0
+      },
+      {
+        "item_key": "pepe_cyberpunk_standard_0003",
+        "weight": 20.0
+      },
+      {
+        "item_key": "pepe_cyberpunk_gold_0003",
+        "weight": 20.0
+      },
+      {
+        "item_key": "pepe_racer_standard_0001",
+        "weight": 20.0
+      },
+      {
+        "item_key": "pepe_racer_gold_0001",
+        "weight": 20.0
+      },
+      {
+        "item_key": "pepe_racer_standard_0002",
+        "weight": 20.0
+      },
+      {
+        "item_key": "pepe_racer_gold_0002",
+        "weight": 20.0
+      },
+      {
+        "item_key": "pepe_racer_standard_0003",
+        "weight": 20.0
+      },
+      {
+        "item_key": "pepe_racer_gold_0003",
+        "weight": 20.0
+      },
+      {
+        "item_key": "pepe_hyperloop_standard_0001",
+        "weight": 8.0
+      },
+      {
+        "item_key": "pepe_hyperloop_gold_0001",
+        "weight": 8.0
+      },
+      {
+        "item_key": "pepe_hyperloop_rainbow_0001",
+        "weight": 8.0
+      },
+      {
+        "item_key": "pepe_hyperloop_standard_0002",
+        "weight": 8.0
+      },
+      {
+        "item_key": "pepe_hyperloop_gold_0002",
+        "weight": 8.0
+      },
+      {
+        "item_key": "pepe_hyperloop_rainbow_0002",
+        "weight": 8.0
+      },
+      {
+        "item_key": "pepe_galaxy_standard_0001",
+        "weight": 8.0
+      },
+      {
+        "item_key": "pepe_galaxy_gold_0001",
+        "weight": 8.0
+      },
+      {
+        "item_key": "pepe_galaxy_rainbow_0001",
+        "weight": 8.0
+      },
+      {
+        "item_key": "pepe_galaxy_standard_0002",
+        "weight": 8.0
+      },
+      {
+        "item_key": "pepe_galaxy_gold_0002",
+        "weight": 8.0
+      },
+      {
+        "item_key": "pepe_galaxy_rainbow_0002",
+        "weight": 8.0
+      },
+      {
+        "item_key": "pepe_emperor_gold_0001",
+        "weight": 3.0
+      },
+      {
+        "item_key": "pepe_emperor_rainbow_0001",
+        "weight": 3.0
+      },
+      {
+        "item_key": "pepe_emperor_gold_0002",
+        "weight": 3.0
+      },
+      {
+        "item_key": "pepe_emperor_rainbow_0002",
+        "weight": 3.0
+      },
+      {
+        "item_key": "pepe_infinity_gold_0001",
+        "weight": 3.0
+      },
+      {
+        "item_key": "pepe_infinity_rainbow_0001",
+        "weight": 3.0
+      },
+      {
+        "item_key": "pepe_infinity_gold_0002",
+        "weight": 3.0
+      },
+      {
+        "item_key": "pepe_infinity_rainbow_0002",
+        "weight": 3.0
+      },
+      {
+        "item_key": "pepe_gold_idol_gold_0001",
+        "weight": 1.5
+      },
+      {
+        "item_key": "pepe_gold_idol_rainbow_0001",
+        "weight": 1.5
+      },
+      {
+        "item_key": "pepe_thunder_orb_gold_0001",
+        "weight": 1.5
+      },
+      {
+        "item_key": "pepe_thunder_orb_rainbow_0001",
+        "weight": 1.5
+      },
+      {
+        "item_key": "pepe_mythic_flame_rainbow_0001",
+        "weight": 0.6
+      },
+      {
+        "item_key": "pepe_mythic_phoenix_rainbow_0001",
+        "weight": 0.6
+      }
+    ]
+  },
+  {
+    "code": "doge_case",
+    "name": "Doge Universe Case",
+    "price": 170,
+    "pity_step": 1.2,
+    "pity_threshold": 7,
+    "cover_image": "https://cdn.meme-economy.app/cases/doge_case.png",
+    "items": [
+      {
+        "item_key": "doge_classic_standard_0001",
+        "weight": 80.0
+      },
+      {
+        "item_key": "doge_classic_silver_0001",
+        "weight": 80.0
+      },
+      {
+        "item_key": "doge_classic_standard_0002",
+        "weight": 80.0
+      },
+      {
+        "item_key": "doge_classic_silver_0002",
+        "weight": 80.0
+      },
+      {
+        "item_key": "doge_classic_standard_0003",
+        "weight": 80.0
+      },
+      {
+        "item_key": "doge_classic_silver_0003",
+        "weight": 80.0
+      },
+      {
+        "item_key": "doge_smile_standard_0001",
+        "weight": 80.0
+      },
+      {
+        "item_key": "doge_smile_silver_0001",
+        "weight": 80.0
+      },
+      {
+        "item_key": "doge_smile_standard_0002",
+        "weight": 80.0
+      },
+      {
+        "item_key": "doge_smile_silver_0002",
+        "weight": 80.0
+      },
+      {
+        "item_key": "doge_smile_standard_0003",
+        "weight": 80.0
+      },
+      {
+        "item_key": "doge_smile_silver_0003",
+        "weight": 80.0
+      },
+      {
+        "item_key": "doge_burger_standard_0001",
+        "weight": 80.0
+      },
+      {
+        "item_key": "doge_burger_silver_0001",
+        "weight": 80.0
+      },
+      {
+        "item_key": "doge_burger_standard_0002",
+        "weight": 80.0
+      },
+      {
+        "item_key": "doge_burger_silver_0002",
+        "weight": 80.0
+      },
+      {
+        "item_key": "doge_burger_standard_0003",
+        "weight": 80.0
+      },
+      {
+        "item_key": "doge_burger_silver_0003",
+        "weight": 80.0
+      },
+      {
+        "item_key": "doge_pizza_standard_0001",
+        "weight": 80.0
+      },
+      {
+        "item_key": "doge_pizza_silver_0001",
+        "weight": 80.0
+      },
+      {
+        "item_key": "doge_pizza_standard_0002",
+        "weight": 80.0
+      },
+      {
+        "item_key": "doge_pizza_silver_0002",
+        "weight": 80.0
+      },
+      {
+        "item_key": "doge_pizza_standard_0003",
+        "weight": 80.0
+      },
+      {
+        "item_key": "doge_pizza_silver_0003",
+        "weight": 80.0
+      },
+      {
+        "item_key": "doge_sunglasses_standard_0001",
+        "weight": 80.0
+      },
+      {
+        "item_key": "doge_sunglasses_silver_0001",
+        "weight": 80.0
+      },
+      {
+        "item_key": "doge_sunglasses_standard_0002",
+        "weight": 80.0
+      },
+      {
+        "item_key": "doge_sunglasses_silver_0002",
+        "weight": 80.0
+      },
+      {
+        "item_key": "doge_sunglasses_standard_0003",
+        "weight": 80.0
+      },
+      {
+        "item_key": "doge_sunglasses_silver_0003",
+        "weight": 80.0
+      },
+      {
+        "item_key": "doge_heart_standard_0001",
+        "weight": 80.0
+      },
+      {
+        "item_key": "doge_heart_silver_0001",
+        "weight": 80.0
+      },
+      {
+        "item_key": "doge_heart_standard_0002",
+        "weight": 80.0
+      },
+      {
+        "item_key": "doge_heart_silver_0002",
+        "weight": 80.0
+      },
+      {
+        "item_key": "doge_heart_standard_0003",
+        "weight": 80.0
+      },
+      {
+        "item_key": "doge_heart_silver_0003",
+        "weight": 80.0
+      },
+      {
+        "item_key": "doge_popcorn_standard_0001",
+        "weight": 80.0
+      },
+      {
+        "item_key": "doge_popcorn_silver_0001",
+        "weight": 80.0
+      },
+      {
+        "item_key": "doge_popcorn_standard_0002",
+        "weight": 80.0
+      },
+      {
+        "item_key": "doge_popcorn_silver_0002",
+        "weight": 80.0
+      },
+      {
+        "item_key": "doge_popcorn_standard_0003",
+        "weight": 80.0
+      },
+      {
+        "item_key": "doge_popcorn_silver_0003",
+        "weight": 80.0
+      },
+      {
+        "item_key": "doge_neon_standard_0001",
+        "weight": 45.0
+      },
+      {
+        "item_key": "doge_neon_gold_0001",
+        "weight": 45.0
+      },
+      {
+        "item_key": "doge_neon_standard_0002",
+        "weight": 45.0
+      },
+      {
+        "item_key": "doge_neon_gold_0002",
+        "weight": 45.0
+      },
+      {
+        "item_key": "doge_neon_standard_0003",
+        "weight": 45.0
+      },
+      {
+        "item_key": "doge_neon_gold_0003",
+        "weight": 45.0
+      },
+      {
+        "item_key": "doge_gamer_standard_0001",
+        "weight": 45.0
+      },
+      {
+        "item_key": "doge_gamer_gold_0001",
+        "weight": 45.0
+      },
+      {
+        "item_key": "doge_gamer_standard_0002",
+        "weight": 45.0
+      },
+      {
+        "item_key": "doge_gamer_gold_0002",
+        "weight": 45.0
+      },
+      {
+        "item_key": "doge_gamer_standard_0003",
+        "weight": 45.0
+      },
+      {
+        "item_key": "doge_gamer_gold_0003",
+        "weight": 45.0
+      },
+      {
+        "item_key": "doge_laser_standard_0001",
+        "weight": 45.0
+      },
+      {
+        "item_key": "doge_laser_gold_0001",
+        "weight": 45.0
+      },
+      {
+        "item_key": "doge_laser_standard_0002",
+        "weight": 45.0
+      },
+      {
+        "item_key": "doge_laser_gold_0002",
+        "weight": 45.0
+      },
+      {
+        "item_key": "doge_laser_standard_0003",
+        "weight": 45.0
+      },
+      {
+        "item_key": "doge_laser_gold_0003",
+        "weight": 45.0
+      },
+      {
+        "item_key": "doge_sushi_standard_0001",
+        "weight": 45.0
+      },
+      {
+        "item_key": "doge_sushi_gold_0001",
+        "weight": 45.0
+      },
+      {
+        "item_key": "doge_sushi_standard_0002",
+        "weight": 45.0
+      },
+      {
+        "item_key": "doge_sushi_gold_0002",
+        "weight": 45.0
+      },
+      {
+        "item_key": "doge_sushi_standard_0003",
+        "weight": 45.0
+      },
+      {
+        "item_key": "doge_sushi_gold_0003",
+        "weight": 45.0
+      },
+      {
+        "item_key": "doge_cyberpunk_standard_0001",
+        "weight": 20.0
+      },
+      {
+        "item_key": "doge_cyberpunk_gold_0001",
+        "weight": 20.0
+      },
+      {
+        "item_key": "doge_cyberpunk_standard_0002",
+        "weight": 20.0
+      },
+      {
+        "item_key": "doge_cyberpunk_gold_0002",
+        "weight": 20.0
+      },
+      {
+        "item_key": "doge_cyberpunk_standard_0003",
+        "weight": 20.0
+      },
+      {
+        "item_key": "doge_cyberpunk_gold_0003",
+        "weight": 20.0
+      },
+      {
+        "item_key": "doge_pilot_standard_0001",
+        "weight": 20.0
+      },
+      {
+        "item_key": "doge_pilot_gold_0001",
+        "weight": 20.0
+      },
+      {
+        "item_key": "doge_pilot_standard_0002",
+        "weight": 20.0
+      },
+      {
+        "item_key": "doge_pilot_gold_0002",
+        "weight": 20.0
+      },
+      {
+        "item_key": "doge_pilot_standard_0003",
+        "weight": 20.0
+      },
+      {
+        "item_key": "doge_pilot_gold_0003",
+        "weight": 20.0
+      },
+      {
+        "item_key": "doge_hyperdrive_standard_0001",
+        "weight": 8.0
+      },
+      {
+        "item_key": "doge_hyperdrive_gold_0001",
+        "weight": 8.0
+      },
+      {
+        "item_key": "doge_hyperdrive_rainbow_0001",
+        "weight": 8.0
+      },
+      {
+        "item_key": "doge_hyperdrive_standard_0002",
+        "weight": 8.0
+      },
+      {
+        "item_key": "doge_hyperdrive_gold_0002",
+        "weight": 8.0
+      },
+      {
+        "item_key": "doge_hyperdrive_rainbow_0002",
+        "weight": 8.0
+      },
+      {
+        "item_key": "doge_volcano_standard_0001",
+        "weight": 8.0
+      },
+      {
+        "item_key": "doge_volcano_gold_0001",
+        "weight": 8.0
+      },
+      {
+        "item_key": "doge_volcano_rainbow_0001",
+        "weight": 8.0
+      },
+      {
+        "item_key": "doge_volcano_standard_0002",
+        "weight": 8.0
+      },
+      {
+        "item_key": "doge_volcano_gold_0002",
+        "weight": 8.0
+      },
+      {
+        "item_key": "doge_volcano_rainbow_0002",
+        "weight": 8.0
+      },
+      {
+        "item_key": "doge_pharaoh_gold_0001",
+        "weight": 3.0
+      },
+      {
+        "item_key": "doge_pharaoh_rainbow_0001",
+        "weight": 3.0
+      },
+      {
+        "item_key": "doge_pharaoh_gold_0002",
+        "weight": 3.0
+      },
+      {
+        "item_key": "doge_pharaoh_rainbow_0002",
+        "weight": 3.0
+      },
+      {
+        "item_key": "doge_celestial_gold_0001",
+        "weight": 3.0
+      },
+      {
+        "item_key": "doge_celestial_rainbow_0001",
+        "weight": 3.0
+      },
+      {
+        "item_key": "doge_celestial_gold_0002",
+        "weight": 3.0
+      },
+      {
+        "item_key": "doge_celestial_rainbow_0002",
+        "weight": 3.0
+      },
+      {
+        "item_key": "doge_diamond_statue_gold_0001",
+        "weight": 1.5
+      },
+      {
+        "item_key": "doge_diamond_statue_rainbow_0001",
+        "weight": 1.5
+      },
+      {
+        "item_key": "doge_aurora_totem_gold_0001",
+        "weight": 1.5
+      },
+      {
+        "item_key": "doge_aurora_totem_rainbow_0001",
+        "weight": 1.5
+      },
+      {
+        "item_key": "doge_mythic_nova_rainbow_0001",
+        "weight": 0.6
+      },
+      {
+        "item_key": "doge_mythic_aurora_rainbow_0001",
+        "weight": 0.6
+      }
+    ]
+  },
+  {
+    "code": "wojak_case",
+    "name": "Wojak Stories Case",
+    "price": 190,
+    "pity_step": 1.25,
+    "pity_threshold": 7,
+    "cover_image": "https://cdn.meme-economy.app/cases/wojak_case.png",
+    "items": [
+      {
+        "item_key": "wojak_chill_standard_0001",
+        "weight": 80.0
+      },
+      {
+        "item_key": "wojak_chill_silver_0001",
+        "weight": 80.0
+      },
+      {
+        "item_key": "wojak_chill_standard_0002",
+        "weight": 80.0
+      },
+      {
+        "item_key": "wojak_chill_silver_0002",
+        "weight": 80.0
+      },
+      {
+        "item_key": "wojak_chill_standard_0003",
+        "weight": 80.0
+      },
+      {
+        "item_key": "wojak_chill_silver_0003",
+        "weight": 80.0
+      },
+      {
+        "item_key": "wojak_coffee_standard_0001",
+        "weight": 80.0
+      },
+      {
+        "item_key": "wojak_coffee_silver_0001",
+        "weight": 80.0
+      },
+      {
+        "item_key": "wojak_coffee_standard_0002",
+        "weight": 80.0
+      },
+      {
+        "item_key": "wojak_coffee_silver_0002",
+        "weight": 80.0
+      },
+      {
+        "item_key": "wojak_coffee_standard_0003",
+        "weight": 80.0
+      },
+      {
+        "item_key": "wojak_coffee_silver_0003",
+        "weight": 80.0
+      },
+      {
+        "item_key": "wojak_think_standard_0001",
+        "weight": 80.0
+      },
+      {
+        "item_key": "wojak_think_silver_0001",
+        "weight": 80.0
+      },
+      {
+        "item_key": "wojak_think_standard_0002",
+        "weight": 80.0
+      },
+      {
+        "item_key": "wojak_think_silver_0002",
+        "weight": 80.0
+      },
+      {
+        "item_key": "wojak_think_standard_0003",
+        "weight": 80.0
+      },
+      {
+        "item_key": "wojak_think_silver_0003",
+        "weight": 80.0
+      },
+      {
+        "item_key": "wojak_meme_standard_0001",
+        "weight": 80.0
+      },
+      {
+        "item_key": "wojak_meme_silver_0001",
+        "weight": 80.0
+      },
+      {
+        "item_key": "wojak_meme_standard_0002",
+        "weight": 80.0
+      },
+      {
+        "item_key": "wojak_meme_silver_0002",
+        "weight": 80.0
+      },
+      {
+        "item_key": "wojak_meme_standard_0003",
+        "weight": 80.0
+      },
+      {
+        "item_key": "wojak_meme_silver_0003",
+        "weight": 80.0
+      },
+      {
+        "item_key": "wojak_neon_standard_0001",
+        "weight": 45.0
+      },
+      {
+        "item_key": "wojak_neon_gold_0001",
+        "weight": 45.0
+      },
+      {
+        "item_key": "wojak_neon_standard_0002",
+        "weight": 45.0
+      },
+      {
+        "item_key": "wojak_neon_gold_0002",
+        "weight": 45.0
+      },
+      {
+        "item_key": "wojak_neon_standard_0003",
+        "weight": 45.0
+      },
+      {
+        "item_key": "wojak_neon_gold_0003",
+        "weight": 45.0
+      },
+      {
+        "item_key": "wojak_sunset_standard_0001",
+        "weight": 45.0
+      },
+      {
+        "item_key": "wojak_sunset_gold_0001",
+        "weight": 45.0
+      },
+      {
+        "item_key": "wojak_sunset_standard_0002",
+        "weight": 45.0
+      },
+      {
+        "item_key": "wojak_sunset_gold_0002",
+        "weight": 45.0
+      },
+      {
+        "item_key": "wojak_sunset_standard_0003",
+        "weight": 45.0
+      },
+      {
+        "item_key": "wojak_sunset_gold_0003",
+        "weight": 45.0
+      },
+      {
+        "item_key": "wojak_hoodie_standard_0001",
+        "weight": 45.0
+      },
+      {
+        "item_key": "wojak_hoodie_gold_0001",
+        "weight": 45.0
+      },
+      {
+        "item_key": "wojak_hoodie_standard_0002",
+        "weight": 45.0
+      },
+      {
+        "item_key": "wojak_hoodie_gold_0002",
+        "weight": 45.0
+      },
+      {
+        "item_key": "wojak_hoodie_standard_0003",
+        "weight": 45.0
+      },
+      {
+        "item_key": "wojak_hoodie_gold_0003",
+        "weight": 45.0
+      },
+      {
+        "item_key": "wojak_broker_standard_0001",
+        "weight": 20.0
+      },
+      {
+        "item_key": "wojak_broker_gold_0001",
+        "weight": 20.0
+      },
+      {
+        "item_key": "wojak_broker_standard_0002",
+        "weight": 20.0
+      },
+      {
+        "item_key": "wojak_broker_gold_0002",
+        "weight": 20.0
+      },
+      {
+        "item_key": "wojak_broker_standard_0003",
+        "weight": 20.0
+      },
+      {
+        "item_key": "wojak_broker_gold_0003",
+        "weight": 20.0
+      },
+      {
+        "item_key": "wojak_hacker_standard_0001",
+        "weight": 20.0
+      },
+      {
+        "item_key": "wojak_hacker_gold_0001",
+        "weight": 20.0
+      },
+      {
+        "item_key": "wojak_hacker_standard_0002",
+        "weight": 20.0
+      },
+      {
+        "item_key": "wojak_hacker_gold_0002",
+        "weight": 20.0
+      },
+      {
+        "item_key": "wojak_hacker_standard_0003",
+        "weight": 20.0
+      },
+      {
+        "item_key": "wojak_hacker_gold_0003",
+        "weight": 20.0
+      },
+      {
+        "item_key": "wojak_captain_standard_0001",
+        "weight": 20.0
+      },
+      {
+        "item_key": "wojak_captain_gold_0001",
+        "weight": 20.0
+      },
+      {
+        "item_key": "wojak_captain_standard_0002",
+        "weight": 20.0
+      },
+      {
+        "item_key": "wojak_captain_gold_0002",
+        "weight": 20.0
+      },
+      {
+        "item_key": "wojak_captain_standard_0003",
+        "weight": 20.0
+      },
+      {
+        "item_key": "wojak_captain_gold_0003",
+        "weight": 20.0
+      },
+      {
+        "item_key": "wojak_stonks_standard_0001",
+        "weight": 8.0
+      },
+      {
+        "item_key": "wojak_stonks_gold_0001",
+        "weight": 8.0
+      },
+      {
+        "item_key": "wojak_stonks_rainbow_0001",
+        "weight": 8.0
+      },
+      {
+        "item_key": "wojak_stonks_standard_0002",
+        "weight": 8.0
+      },
+      {
+        "item_key": "wojak_stonks_gold_0002",
+        "weight": 8.0
+      },
+      {
+        "item_key": "wojak_stonks_rainbow_0002",
+        "weight": 8.0
+      },
+      {
+        "item_key": "wojak_eclipse_standard_0001",
+        "weight": 8.0
+      },
+      {
+        "item_key": "wojak_eclipse_gold_0001",
+        "weight": 8.0
+      },
+      {
+        "item_key": "wojak_eclipse_rainbow_0001",
+        "weight": 8.0
+      },
+      {
+        "item_key": "wojak_eclipse_standard_0002",
+        "weight": 8.0
+      },
+      {
+        "item_key": "wojak_eclipse_gold_0002",
+        "weight": 8.0
+      },
+      {
+        "item_key": "wojak_eclipse_rainbow_0002",
+        "weight": 8.0
+      },
+      {
+        "item_key": "wojak_oracle_gold_0001",
+        "weight": 3.0
+      },
+      {
+        "item_key": "wojak_oracle_rainbow_0001",
+        "weight": 3.0
+      },
+      {
+        "item_key": "wojak_oracle_gold_0002",
+        "weight": 3.0
+      },
+      {
+        "item_key": "wojak_oracle_rainbow_0002",
+        "weight": 3.0
+      },
+      {
+        "item_key": "wojak_time_relic_gold_0001",
+        "weight": 1.5
+      },
+      {
+        "item_key": "wojak_time_relic_rainbow_0001",
+        "weight": 1.5
+      },
+      {
+        "item_key": "wojak_chrono_deck_gold_0001",
+        "weight": 1.5
+      },
+      {
+        "item_key": "wojak_chrono_deck_rainbow_0001",
+        "weight": 1.5
+      },
+      {
+        "item_key": "wojak_mythic_void_rainbow_0001",
+        "weight": 0.6
+      }
+    ]
+  },
+  {
+    "code": "gif_case",
+    "name": "Gif Masters Case",
+    "price": 320,
+    "pity_step": 1.3,
+    "pity_threshold": 6,
+    "cover_image": "https://cdn.meme-economy.app/cases/gif_case.png",
+    "items": [
+      {
+        "item_key": "pepe_samurai_standard_0001",
+        "weight": 20.0
+      },
+      {
+        "item_key": "pepe_samurai_gold_0001",
+        "weight": 20.0
+      },
+      {
+        "item_key": "pepe_samurai_standard_0002",
+        "weight": 20.0
+      },
+      {
+        "item_key": "pepe_samurai_gold_0002",
+        "weight": 20.0
+      },
+      {
+        "item_key": "pepe_samurai_standard_0003",
+        "weight": 20.0
+      },
+      {
+        "item_key": "pepe_samurai_gold_0003",
+        "weight": 20.0
+      },
+      {
+        "item_key": "pepe_cyberpunk_standard_0001",
+        "weight": 20.0
+      },
+      {
+        "item_key": "pepe_cyberpunk_gold_0001",
+        "weight": 20.0
+      },
+      {
+        "item_key": "pepe_cyberpunk_standard_0002",
+        "weight": 20.0
+      },
+      {
+        "item_key": "pepe_cyberpunk_gold_0002",
+        "weight": 20.0
+      },
+      {
+        "item_key": "pepe_cyberpunk_standard_0003",
+        "weight": 20.0
+      },
+      {
+        "item_key": "pepe_cyberpunk_gold_0003",
+        "weight": 20.0
+      },
+      {
+        "item_key": "doge_cyberpunk_standard_0001",
+        "weight": 20.0
+      },
+      {
+        "item_key": "doge_cyberpunk_gold_0001",
+        "weight": 20.0
+      },
+      {
+        "item_key": "doge_cyberpunk_standard_0002",
+        "weight": 20.0
+      },
+      {
+        "item_key": "doge_cyberpunk_gold_0002",
+        "weight": 20.0
+      },
+      {
+        "item_key": "doge_cyberpunk_standard_0003",
+        "weight": 20.0
+      },
+      {
+        "item_key": "doge_cyberpunk_gold_0003",
+        "weight": 20.0
+      },
+      {
+        "item_key": "wojak_broker_standard_0001",
+        "weight": 20.0
+      },
+      {
+        "item_key": "wojak_broker_gold_0001",
+        "weight": 20.0
+      },
+      {
+        "item_key": "wojak_broker_standard_0002",
+        "weight": 20.0
+      },
+      {
+        "item_key": "wojak_broker_gold_0002",
+        "weight": 20.0
+      },
+      {
+        "item_key": "wojak_broker_standard_0003",
+        "weight": 20.0
+      },
+      {
+        "item_key": "wojak_broker_gold_0003",
+        "weight": 20.0
+      },
+      {
+        "item_key": "wojak_hacker_standard_0001",
+        "weight": 20.0
+      },
+      {
+        "item_key": "wojak_hacker_gold_0001",
+        "weight": 20.0
+      },
+      {
+        "item_key": "wojak_hacker_standard_0002",
+        "weight": 20.0
+      },
+      {
+        "item_key": "wojak_hacker_gold_0002",
+        "weight": 20.0
+      },
+      {
+        "item_key": "wojak_hacker_standard_0003",
+        "weight": 20.0
+      },
+      {
+        "item_key": "wojak_hacker_gold_0003",
+        "weight": 20.0
+      },
+      {
+        "item_key": "skibidi_prime_standard_0001",
+        "weight": 20.0
+      },
+      {
+        "item_key": "skibidi_prime_gold_0001",
+        "weight": 20.0
+      },
+      {
+        "item_key": "skibidi_prime_standard_0002",
+        "weight": 20.0
+      },
+      {
+        "item_key": "skibidi_prime_gold_0002",
+        "weight": 20.0
+      },
+      {
+        "item_key": "skibidi_prime_standard_0003",
+        "weight": 20.0
+      },
+      {
+        "item_key": "skibidi_prime_gold_0003",
+        "weight": 20.0
+      },
+      {
+        "item_key": "sigma_runner_standard_0001",
+        "weight": 20.0
+      },
+      {
+        "item_key": "sigma_runner_gold_0001",
+        "weight": 20.0
+      },
+      {
+        "item_key": "sigma_runner_standard_0002",
+        "weight": 20.0
+      },
+      {
+        "item_key": "sigma_runner_gold_0002",
+        "weight": 20.0
+      },
+      {
+        "item_key": "sigma_runner_standard_0003",
+        "weight": 20.0
+      },
+      {
+        "item_key": "sigma_runner_gold_0003",
+        "weight": 20.0
+      },
+      {
+        "item_key": "trollface_vintage_standard_0001",
+        "weight": 20.0
+      },
+      {
+        "item_key": "trollface_vintage_gold_0001",
+        "weight": 20.0
+      },
+      {
+        "item_key": "trollface_vintage_standard_0002",
+        "weight": 20.0
+      },
+      {
+        "item_key": "trollface_vintage_gold_0002",
+        "weight": 20.0
+      },
+      {
+        "item_key": "trollface_vintage_standard_0003",
+        "weight": 20.0
+      },
+      {
+        "item_key": "trollface_vintage_gold_0003",
+        "weight": 20.0
+      },
+      {
+        "item_key": "rage_guy_vintage_standard_0001",
+        "weight": 20.0
+      },
+      {
+        "item_key": "rage_guy_vintage_gold_0001",
+        "weight": 20.0
+      },
+      {
+        "item_key": "rage_guy_vintage_standard_0002",
+        "weight": 20.0
+      },
+      {
+        "item_key": "rage_guy_vintage_gold_0002",
+        "weight": 20.0
+      },
+      {
+        "item_key": "rage_guy_vintage_standard_0003",
+        "weight": 20.0
+      },
+      {
+        "item_key": "rage_guy_vintage_gold_0003",
+        "weight": 20.0
+      },
+      {
+        "item_key": "npc_gold_standard_0001",
+        "weight": 20.0
+      },
+      {
+        "item_key": "npc_gold_gold_0001",
+        "weight": 20.0
+      },
+      {
+        "item_key": "npc_gold_standard_0002",
+        "weight": 20.0
+      },
+      {
+        "item_key": "npc_gold_gold_0002",
+        "weight": 20.0
+      },
+      {
+        "item_key": "npc_gold_standard_0003",
+        "weight": 20.0
+      },
+      {
+        "item_key": "npc_gold_gold_0003",
+        "weight": 20.0
+      },
+      {
+        "item_key": "meme_navigator_standard_0001",
+        "weight": 20.0
+      },
+      {
+        "item_key": "meme_navigator_gold_0001",
+        "weight": 20.0
+      },
+      {
+        "item_key": "meme_navigator_standard_0002",
+        "weight": 20.0
+      },
+      {
+        "item_key": "meme_navigator_gold_0002",
+        "weight": 20.0
+      },
+      {
+        "item_key": "meme_navigator_standard_0003",
+        "weight": 20.0
+      },
+      {
+        "item_key": "meme_navigator_gold_0003",
+        "weight": 20.0
+      },
+      {
+        "item_key": "doge_pilot_standard_0001",
+        "weight": 20.0
+      },
+      {
+        "item_key": "doge_pilot_gold_0001",
+        "weight": 20.0
+      },
+      {
+        "item_key": "doge_pilot_standard_0002",
+        "weight": 20.0
+      },
+      {
+        "item_key": "doge_pilot_gold_0002",
+        "weight": 20.0
+      },
+      {
+        "item_key": "doge_pilot_standard_0003",
+        "weight": 20.0
+      },
+      {
+        "item_key": "doge_pilot_gold_0003",
+        "weight": 20.0
+      },
+      {
+        "item_key": "pepe_racer_standard_0001",
+        "weight": 20.0
+      },
+      {
+        "item_key": "pepe_racer_gold_0001",
+        "weight": 20.0
+      },
+      {
+        "item_key": "pepe_racer_standard_0002",
+        "weight": 20.0
+      },
+      {
+        "item_key": "pepe_racer_gold_0002",
+        "weight": 20.0
+      },
+      {
+        "item_key": "pepe_racer_standard_0003",
+        "weight": 20.0
+      },
+      {
+        "item_key": "pepe_racer_gold_0003",
+        "weight": 20.0
+      },
+      {
+        "item_key": "wojak_captain_standard_0001",
+        "weight": 20.0
+      },
+      {
+        "item_key": "wojak_captain_gold_0001",
+        "weight": 20.0
+      },
+      {
+        "item_key": "wojak_captain_standard_0002",
+        "weight": 20.0
+      },
+      {
+        "item_key": "wojak_captain_gold_0002",
+        "weight": 20.0
+      },
+      {
+        "item_key": "wojak_captain_standard_0003",
+        "weight": 20.0
+      },
+      {
+        "item_key": "wojak_captain_gold_0003",
+        "weight": 20.0
+      },
+      {
+        "item_key": "cat_space_standard_0001",
+        "weight": 20.0
+      },
+      {
+        "item_key": "cat_space_gold_0001",
+        "weight": 20.0
+      },
+      {
+        "item_key": "cat_space_standard_0002",
+        "weight": 20.0
+      },
+      {
+        "item_key": "cat_space_gold_0002",
+        "weight": 20.0
+      },
+      {
+        "item_key": "cat_space_standard_0003",
+        "weight": 20.0
+      },
+      {
+        "item_key": "cat_space_gold_0003",
+        "weight": 20.0
+      },
+      {
+        "item_key": "pepe_hyperloop_standard_0001",
+        "weight": 8.0
+      },
+      {
+        "item_key": "pepe_hyperloop_gold_0001",
+        "weight": 8.0
+      },
+      {
+        "item_key": "pepe_hyperloop_rainbow_0001",
+        "weight": 8.0
+      },
+      {
+        "item_key": "pepe_hyperloop_standard_0002",
+        "weight": 8.0
+      },
+      {
+        "item_key": "pepe_hyperloop_gold_0002",
+        "weight": 8.0
+      },
+      {
+        "item_key": "pepe_hyperloop_rainbow_0002",
+        "weight": 8.0
+      },
+      {
+        "item_key": "doge_hyperdrive_standard_0001",
+        "weight": 8.0
+      },
+      {
+        "item_key": "doge_hyperdrive_gold_0001",
+        "weight": 8.0
+      },
+      {
+        "item_key": "doge_hyperdrive_rainbow_0001",
+        "weight": 8.0
+      },
+      {
+        "item_key": "doge_hyperdrive_standard_0002",
+        "weight": 8.0
+      },
+      {
+        "item_key": "doge_hyperdrive_gold_0002",
+        "weight": 8.0
+      },
+      {
+        "item_key": "doge_hyperdrive_rainbow_0002",
+        "weight": 8.0
+      },
+      {
+        "item_key": "wojak_stonks_standard_0001",
+        "weight": 8.0
+      },
+      {
+        "item_key": "wojak_stonks_gold_0001",
+        "weight": 8.0
+      },
+      {
+        "item_key": "wojak_stonks_rainbow_0001",
+        "weight": 8.0
+      },
+      {
+        "item_key": "wojak_stonks_standard_0002",
+        "weight": 8.0
+      },
+      {
+        "item_key": "wojak_stonks_gold_0002",
+        "weight": 8.0
+      },
+      {
+        "item_key": "wojak_stonks_rainbow_0002",
+        "weight": 8.0
+      },
+      {
+        "item_key": "skibidi_supreme_standard_0001",
+        "weight": 8.0
+      },
+      {
+        "item_key": "skibidi_supreme_gold_0001",
+        "weight": 8.0
+      },
+      {
+        "item_key": "skibidi_supreme_rainbow_0001",
+        "weight": 8.0
+      },
+      {
+        "item_key": "skibidi_supreme_standard_0002",
+        "weight": 8.0
+      },
+      {
+        "item_key": "skibidi_supreme_gold_0002",
+        "weight": 8.0
+      },
+      {
+        "item_key": "skibidi_supreme_rainbow_0002",
+        "weight": 8.0
+      },
+      {
+        "item_key": "sigma_burst_standard_0001",
+        "weight": 8.0
+      },
+      {
+        "item_key": "sigma_burst_gold_0001",
+        "weight": 8.0
+      },
+      {
+        "item_key": "sigma_burst_rainbow_0001",
+        "weight": 8.0
+      },
+      {
+        "item_key": "sigma_burst_standard_0002",
+        "weight": 8.0
+      },
+      {
+        "item_key": "sigma_burst_gold_0002",
+        "weight": 8.0
+      },
+      {
+        "item_key": "sigma_burst_rainbow_0002",
+        "weight": 8.0
+      },
+      {
+        "item_key": "trollface_fire_standard_0001",
+        "weight": 8.0
+      },
+      {
+        "item_key": "trollface_fire_gold_0001",
+        "weight": 8.0
+      },
+      {
+        "item_key": "trollface_fire_rainbow_0001",
+        "weight": 8.0
+      },
+      {
+        "item_key": "trollface_fire_standard_0002",
+        "weight": 8.0
+      },
+      {
+        "item_key": "trollface_fire_gold_0002",
+        "weight": 8.0
+      },
+      {
+        "item_key": "trollface_fire_rainbow_0002",
+        "weight": 8.0
+      },
+      {
+        "item_key": "doge_volcano_standard_0001",
+        "weight": 8.0
+      },
+      {
+        "item_key": "doge_volcano_gold_0001",
+        "weight": 8.0
+      },
+      {
+        "item_key": "doge_volcano_rainbow_0001",
+        "weight": 8.0
+      },
+      {
+        "item_key": "doge_volcano_standard_0002",
+        "weight": 8.0
+      },
+      {
+        "item_key": "doge_volcano_gold_0002",
+        "weight": 8.0
+      },
+      {
+        "item_key": "doge_volcano_rainbow_0002",
+        "weight": 8.0
+      },
+      {
+        "item_key": "pepe_galaxy_standard_0001",
+        "weight": 8.0
+      },
+      {
+        "item_key": "pepe_galaxy_gold_0001",
+        "weight": 8.0
+      },
+      {
+        "item_key": "pepe_galaxy_rainbow_0001",
+        "weight": 8.0
+      },
+      {
+        "item_key": "pepe_galaxy_standard_0002",
+        "weight": 8.0
+      },
+      {
+        "item_key": "pepe_galaxy_gold_0002",
+        "weight": 8.0
+      },
+      {
+        "item_key": "pepe_galaxy_rainbow_0002",
+        "weight": 8.0
+      },
+      {
+        "item_key": "wojak_eclipse_standard_0001",
+        "weight": 8.0
+      },
+      {
+        "item_key": "wojak_eclipse_gold_0001",
+        "weight": 8.0
+      },
+      {
+        "item_key": "wojak_eclipse_rainbow_0001",
+        "weight": 8.0
+      },
+      {
+        "item_key": "wojak_eclipse_standard_0002",
+        "weight": 8.0
+      },
+      {
+        "item_key": "wojak_eclipse_gold_0002",
+        "weight": 8.0
+      },
+      {
+        "item_key": "wojak_eclipse_rainbow_0002",
+        "weight": 8.0
+      },
+      {
+        "item_key": "meme_storm_standard_0001",
+        "weight": 8.0
+      },
+      {
+        "item_key": "meme_storm_gold_0001",
+        "weight": 8.0
+      },
+      {
+        "item_key": "meme_storm_rainbow_0001",
+        "weight": 8.0
+      },
+      {
+        "item_key": "meme_storm_standard_0002",
+        "weight": 8.0
+      },
+      {
+        "item_key": "meme_storm_gold_0002",
+        "weight": 8.0
+      },
+      {
+        "item_key": "meme_storm_rainbow_0002",
+        "weight": 8.0
+      }
+    ]
+  },
+  {
+    "code": "legendary_case",
+    "name": "Legendary Vault Case",
+    "price": 920,
+    "pity_step": 1.35,
+    "pity_threshold": 6,
+    "cover_image": "https://cdn.meme-economy.app/cases/legendary_case.png",
+    "items": [
+      {
+        "item_key": "pepe_emperor_gold_0001",
+        "weight": 3.0
+      },
+      {
+        "item_key": "pepe_emperor_rainbow_0001",
+        "weight": 3.0
+      },
+      {
+        "item_key": "pepe_emperor_gold_0002",
+        "weight": 3.0
+      },
+      {
+        "item_key": "pepe_emperor_rainbow_0002",
+        "weight": 3.0
+      },
+      {
+        "item_key": "doge_pharaoh_gold_0001",
+        "weight": 3.0
+      },
+      {
+        "item_key": "doge_pharaoh_rainbow_0001",
+        "weight": 3.0
+      },
+      {
+        "item_key": "doge_pharaoh_gold_0002",
+        "weight": 3.0
+      },
+      {
+        "item_key": "doge_pharaoh_rainbow_0002",
+        "weight": 3.0
+      },
+      {
+        "item_key": "wojak_oracle_gold_0001",
+        "weight": 3.0
+      },
+      {
+        "item_key": "wojak_oracle_rainbow_0001",
+        "weight": 3.0
+      },
+      {
+        "item_key": "wojak_oracle_gold_0002",
+        "weight": 3.0
+      },
+      {
+        "item_key": "wojak_oracle_rainbow_0002",
+        "weight": 3.0
+      },
+      {
+        "item_key": "trollface_crown_gold_0001",
+        "weight": 3.0
+      },
+      {
+        "item_key": "trollface_crown_rainbow_0001",
+        "weight": 3.0
+      },
+      {
+        "item_key": "trollface_crown_gold_0002",
+        "weight": 3.0
+      },
+      {
+        "item_key": "trollface_crown_rainbow_0002",
+        "weight": 3.0
+      },
+      {
+        "item_key": "sigma_titan_gold_0001",
+        "weight": 3.0
+      },
+      {
+        "item_key": "sigma_titan_rainbow_0001",
+        "weight": 3.0
+      },
+      {
+        "item_key": "sigma_titan_gold_0002",
+        "weight": 3.0
+      },
+      {
+        "item_key": "sigma_titan_rainbow_0002",
+        "weight": 3.0
+      },
+      {
+        "item_key": "meme_overlord_gold_0001",
+        "weight": 3.0
+      },
+      {
+        "item_key": "meme_overlord_rainbow_0001",
+        "weight": 3.0
+      },
+      {
+        "item_key": "meme_overlord_gold_0002",
+        "weight": 3.0
+      },
+      {
+        "item_key": "meme_overlord_rainbow_0002",
+        "weight": 3.0
+      },
+      {
+        "item_key": "doge_celestial_gold_0001",
+        "weight": 3.0
+      },
+      {
+        "item_key": "doge_celestial_rainbow_0001",
+        "weight": 3.0
+      },
+      {
+        "item_key": "doge_celestial_gold_0002",
+        "weight": 3.0
+      },
+      {
+        "item_key": "doge_celestial_rainbow_0002",
+        "weight": 3.0
+      },
+      {
+        "item_key": "pepe_infinity_gold_0001",
+        "weight": 3.0
+      },
+      {
+        "item_key": "pepe_infinity_rainbow_0001",
+        "weight": 3.0
+      },
+      {
+        "item_key": "pepe_infinity_gold_0002",
+        "weight": 3.0
+      },
+      {
+        "item_key": "pepe_infinity_rainbow_0002",
+        "weight": 3.0
+      },
+      {
+        "item_key": "pepe_gold_idol_gold_0001",
+        "weight": 1.5
+      },
+      {
+        "item_key": "pepe_gold_idol_rainbow_0001",
+        "weight": 1.5
+      },
+      {
+        "item_key": "doge_diamond_statue_gold_0001",
+        "weight": 1.5
+      },
+      {
+        "item_key": "doge_diamond_statue_rainbow_0001",
+        "weight": 1.5
+      },
+      {
+        "item_key": "wojak_time_relic_gold_0001",
+        "weight": 1.5
+      },
+      {
+        "item_key": "wojak_time_relic_rainbow_0001",
+        "weight": 1.5
+      },
+      {
+        "item_key": "trollface_prism_gold_0001",
+        "weight": 1.5
+      },
+      {
+        "item_key": "trollface_prism_rainbow_0001",
+        "weight": 1.5
+      },
+      {
+        "item_key": "sigma_relic_blade_gold_0001",
+        "weight": 1.5
+      },
+      {
+        "item_key": "sigma_relic_blade_rainbow_0001",
+        "weight": 1.5
+      },
+      {
+        "item_key": "meme_cube_gold_0001",
+        "weight": 1.5
+      },
+      {
+        "item_key": "meme_cube_rainbow_0001",
+        "weight": 1.5
+      },
+      {
+        "item_key": "doge_aurora_totem_gold_0001",
+        "weight": 1.5
+      },
+      {
+        "item_key": "doge_aurora_totem_rainbow_0001",
+        "weight": 1.5
+      },
+      {
+        "item_key": "pepe_thunder_orb_gold_0001",
+        "weight": 1.5
+      },
+      {
+        "item_key": "pepe_thunder_orb_rainbow_0001",
+        "weight": 1.5
+      },
+      {
+        "item_key": "wojak_chrono_deck_gold_0001",
+        "weight": 1.5
+      },
+      {
+        "item_key": "wojak_chrono_deck_rainbow_0001",
+        "weight": 1.5
+      },
+      {
+        "item_key": "skibidi_masterpiece_gold_0001",
+        "weight": 1.5
+      },
+      {
+        "item_key": "skibidi_masterpiece_rainbow_0001",
+        "weight": 1.5
+      },
+      {
+        "item_key": "rizzler_crown_gold_0001",
+        "weight": 1.5
+      },
+      {
+        "item_key": "rizzler_crown_rainbow_0001",
+        "weight": 1.5
+      },
+      {
+        "item_key": "meme_universe_key_gold_0001",
+        "weight": 1.5
+      },
+      {
+        "item_key": "meme_universe_key_rainbow_0001",
+        "weight": 1.5
+      }
+    ]
+  },
+  {
+    "code": "trend_case",
+    "name": "Ultra Trend Case",
+    "price": 240,
+    "pity_step": 1.25,
+    "pity_threshold": 6,
+    "cover_image": "https://cdn.meme-economy.app/cases/trend_case.png",
+    "items": [
+      {
+        "item_key": "skibidi_dance_standard_0001",
+        "weight": 80.0
+      },
+      {
+        "item_key": "skibidi_dance_silver_0001",
+        "weight": 80.0
+      },
+      {
+        "item_key": "skibidi_dance_standard_0002",
+        "weight": 80.0
+      },
+      {
+        "item_key": "skibidi_dance_silver_0002",
+        "weight": 80.0
+      },
+      {
+        "item_key": "skibidi_dance_standard_0003",
+        "weight": 80.0
+      },
+      {
+        "item_key": "skibidi_dance_silver_0003",
+        "weight": 80.0
+      },
+      {
+        "item_key": "fanum_tax_standard_0001",
+        "weight": 80.0
+      },
+      {
+        "item_key": "fanum_tax_silver_0001",
+        "weight": 80.0
+      },
+      {
+        "item_key": "fanum_tax_standard_0002",
+        "weight": 80.0
+      },
+      {
+        "item_key": "fanum_tax_silver_0002",
+        "weight": 80.0
+      },
+      {
+        "item_key": "fanum_tax_standard_0003",
+        "weight": 80.0
+      },
+      {
+        "item_key": "fanum_tax_silver_0003",
+        "weight": 80.0
+      },
+      {
+        "item_key": "sigma_wave_standard_0001",
+        "weight": 80.0
+      },
+      {
+        "item_key": "sigma_wave_silver_0001",
+        "weight": 80.0
+      },
+      {
+        "item_key": "sigma_wave_standard_0002",
+        "weight": 80.0
+      },
+      {
+        "item_key": "sigma_wave_silver_0002",
+        "weight": 80.0
+      },
+      {
+        "item_key": "sigma_wave_standard_0003",
+        "weight": 80.0
+      },
+      {
+        "item_key": "sigma_wave_silver_0003",
+        "weight": 80.0
+      },
+      {
+        "item_key": "npc_blink_standard_0001",
+        "weight": 80.0
+      },
+      {
+        "item_key": "npc_blink_silver_0001",
+        "weight": 80.0
+      },
+      {
+        "item_key": "npc_blink_standard_0002",
+        "weight": 80.0
+      },
+      {
+        "item_key": "npc_blink_silver_0002",
+        "weight": 80.0
+      },
+      {
+        "item_key": "npc_blink_standard_0003",
+        "weight": 80.0
+      },
+      {
+        "item_key": "npc_blink_silver_0003",
+        "weight": 80.0
+      },
+      {
+        "item_key": "skibidi_remix_standard_0001",
+        "weight": 45.0
+      },
+      {
+        "item_key": "skibidi_remix_gold_0001",
+        "weight": 45.0
+      },
+      {
+        "item_key": "skibidi_remix_standard_0002",
+        "weight": 45.0
+      },
+      {
+        "item_key": "skibidi_remix_gold_0002",
+        "weight": 45.0
+      },
+      {
+        "item_key": "skibidi_remix_standard_0003",
+        "weight": 45.0
+      },
+      {
+        "item_key": "skibidi_remix_gold_0003",
+        "weight": 45.0
+      },
+      {
+        "item_key": "sigma_neon_standard_0001",
+        "weight": 45.0
+      },
+      {
+        "item_key": "sigma_neon_gold_0001",
+        "weight": 45.0
+      },
+      {
+        "item_key": "sigma_neon_standard_0002",
+        "weight": 45.0
+      },
+      {
+        "item_key": "sigma_neon_gold_0002",
+        "weight": 45.0
+      },
+      {
+        "item_key": "sigma_neon_standard_0003",
+        "weight": 45.0
+      },
+      {
+        "item_key": "sigma_neon_gold_0003",
+        "weight": 45.0
+      },
+      {
+        "item_key": "npc_streamer_standard_0001",
+        "weight": 45.0
+      },
+      {
+        "item_key": "npc_streamer_gold_0001",
+        "weight": 45.0
+      },
+      {
+        "item_key": "npc_streamer_standard_0002",
+        "weight": 45.0
+      },
+      {
+        "item_key": "npc_streamer_gold_0002",
+        "weight": 45.0
+      },
+      {
+        "item_key": "npc_streamer_standard_0003",
+        "weight": 45.0
+      },
+      {
+        "item_key": "npc_streamer_gold_0003",
+        "weight": 45.0
+      },
+      {
+        "item_key": "skibidi_prime_standard_0001",
+        "weight": 20.0
+      },
+      {
+        "item_key": "skibidi_prime_gold_0001",
+        "weight": 20.0
+      },
+      {
+        "item_key": "skibidi_prime_standard_0002",
+        "weight": 20.0
+      },
+      {
+        "item_key": "skibidi_prime_gold_0002",
+        "weight": 20.0
+      },
+      {
+        "item_key": "skibidi_prime_standard_0003",
+        "weight": 20.0
+      },
+      {
+        "item_key": "skibidi_prime_gold_0003",
+        "weight": 20.0
+      },
+      {
+        "item_key": "sigma_runner_standard_0001",
+        "weight": 20.0
+      },
+      {
+        "item_key": "sigma_runner_gold_0001",
+        "weight": 20.0
+      },
+      {
+        "item_key": "sigma_runner_standard_0002",
+        "weight": 20.0
+      },
+      {
+        "item_key": "sigma_runner_gold_0002",
+        "weight": 20.0
+      },
+      {
+        "item_key": "sigma_runner_standard_0003",
+        "weight": 20.0
+      },
+      {
+        "item_key": "sigma_runner_gold_0003",
+        "weight": 20.0
+      },
+      {
+        "item_key": "npc_gold_standard_0001",
+        "weight": 20.0
+      },
+      {
+        "item_key": "npc_gold_gold_0001",
+        "weight": 20.0
+      },
+      {
+        "item_key": "npc_gold_standard_0002",
+        "weight": 20.0
+      },
+      {
+        "item_key": "npc_gold_gold_0002",
+        "weight": 20.0
+      },
+      {
+        "item_key": "npc_gold_standard_0003",
+        "weight": 20.0
+      },
+      {
+        "item_key": "npc_gold_gold_0003",
+        "weight": 20.0
+      },
+      {
+        "item_key": "skibidi_supreme_standard_0001",
+        "weight": 8.0
+      },
+      {
+        "item_key": "skibidi_supreme_gold_0001",
+        "weight": 8.0
+      },
+      {
+        "item_key": "skibidi_supreme_rainbow_0001",
+        "weight": 8.0
+      },
+      {
+        "item_key": "skibidi_supreme_standard_0002",
+        "weight": 8.0
+      },
+      {
+        "item_key": "skibidi_supreme_gold_0002",
+        "weight": 8.0
+      },
+      {
+        "item_key": "skibidi_supreme_rainbow_0002",
+        "weight": 8.0
+      },
+      {
+        "item_key": "sigma_burst_standard_0001",
+        "weight": 8.0
+      },
+      {
+        "item_key": "sigma_burst_gold_0001",
+        "weight": 8.0
+      },
+      {
+        "item_key": "sigma_burst_rainbow_0001",
+        "weight": 8.0
+      },
+      {
+        "item_key": "sigma_burst_standard_0002",
+        "weight": 8.0
+      },
+      {
+        "item_key": "sigma_burst_gold_0002",
+        "weight": 8.0
+      },
+      {
+        "item_key": "sigma_burst_rainbow_0002",
+        "weight": 8.0
+      },
+      {
+        "item_key": "sigma_titan_gold_0001",
+        "weight": 3.0
+      },
+      {
+        "item_key": "sigma_titan_rainbow_0001",
+        "weight": 3.0
+      },
+      {
+        "item_key": "sigma_titan_gold_0002",
+        "weight": 3.0
+      },
+      {
+        "item_key": "sigma_titan_rainbow_0002",
+        "weight": 3.0
+      },
+      {
+        "item_key": "sigma_relic_blade_gold_0001",
+        "weight": 1.5
+      },
+      {
+        "item_key": "sigma_relic_blade_rainbow_0001",
+        "weight": 1.5
+      },
+      {
+        "item_key": "skibidi_masterpiece_gold_0001",
+        "weight": 1.5
+      },
+      {
+        "item_key": "skibidi_masterpiece_rainbow_0001",
+        "weight": 1.5
+      },
+      {
+        "item_key": "rizzler_crown_gold_0001",
+        "weight": 1.5
+      },
+      {
+        "item_key": "rizzler_crown_rainbow_0001",
+        "weight": 1.5
+      },
+      {
+        "item_key": "sigma_mythic_pulse_rainbow_0001",
+        "weight": 0.6
+      }
+    ]
+  },
+  {
+    "code": "supreme_case",
+    "name": "Supreme Fusion Case",
+    "price": 540,
+    "pity_step": 1.3,
+    "pity_threshold": 6,
+    "cover_image": "https://cdn.meme-economy.app/cases/supreme_case.png",
+    "items": [
+      {
+        "item_key": "pepe_samurai_standard_0001",
+        "weight": 20.0
+      },
+      {
+        "item_key": "pepe_samurai_gold_0001",
+        "weight": 20.0
+      },
+      {
+        "item_key": "pepe_samurai_standard_0002",
+        "weight": 20.0
+      },
+      {
+        "item_key": "pepe_samurai_gold_0002",
+        "weight": 20.0
+      },
+      {
+        "item_key": "pepe_samurai_standard_0003",
+        "weight": 20.0
+      },
+      {
+        "item_key": "pepe_samurai_gold_0003",
+        "weight": 20.0
+      },
+      {
+        "item_key": "pepe_cyberpunk_standard_0001",
+        "weight": 20.0
+      },
+      {
+        "item_key": "pepe_cyberpunk_gold_0001",
+        "weight": 20.0
+      },
+      {
+        "item_key": "pepe_cyberpunk_standard_0002",
+        "weight": 20.0
+      },
+      {
+        "item_key": "pepe_cyberpunk_gold_0002",
+        "weight": 20.0
+      },
+      {
+        "item_key": "pepe_cyberpunk_standard_0003",
+        "weight": 20.0
+      },
+      {
+        "item_key": "pepe_cyberpunk_gold_0003",
+        "weight": 20.0
+      },
+      {
+        "item_key": "doge_cyberpunk_standard_0001",
+        "weight": 20.0
+      },
+      {
+        "item_key": "doge_cyberpunk_gold_0001",
+        "weight": 20.0
+      },
+      {
+        "item_key": "doge_cyberpunk_standard_0002",
+        "weight": 20.0
+      },
+      {
+        "item_key": "doge_cyberpunk_gold_0002",
+        "weight": 20.0
+      },
+      {
+        "item_key": "doge_cyberpunk_standard_0003",
+        "weight": 20.0
+      },
+      {
+        "item_key": "doge_cyberpunk_gold_0003",
+        "weight": 20.0
+      },
+      {
+        "item_key": "wojak_broker_standard_0001",
+        "weight": 20.0
+      },
+      {
+        "item_key": "wojak_broker_gold_0001",
+        "weight": 20.0
+      },
+      {
+        "item_key": "wojak_broker_standard_0002",
+        "weight": 20.0
+      },
+      {
+        "item_key": "wojak_broker_gold_0002",
+        "weight": 20.0
+      },
+      {
+        "item_key": "wojak_broker_standard_0003",
+        "weight": 20.0
+      },
+      {
+        "item_key": "wojak_broker_gold_0003",
+        "weight": 20.0
+      },
+      {
+        "item_key": "wojak_hacker_standard_0001",
+        "weight": 20.0
+      },
+      {
+        "item_key": "wojak_hacker_gold_0001",
+        "weight": 20.0
+      },
+      {
+        "item_key": "wojak_hacker_standard_0002",
+        "weight": 20.0
+      },
+      {
+        "item_key": "wojak_hacker_gold_0002",
+        "weight": 20.0
+      },
+      {
+        "item_key": "wojak_hacker_standard_0003",
+        "weight": 20.0
+      },
+      {
+        "item_key": "wojak_hacker_gold_0003",
+        "weight": 20.0
+      },
+      {
+        "item_key": "skibidi_prime_standard_0001",
+        "weight": 20.0
+      },
+      {
+        "item_key": "skibidi_prime_gold_0001",
+        "weight": 20.0
+      },
+      {
+        "item_key": "skibidi_prime_standard_0002",
+        "weight": 20.0
+      },
+      {
+        "item_key": "skibidi_prime_gold_0002",
+        "weight": 20.0
+      },
+      {
+        "item_key": "skibidi_prime_standard_0003",
+        "weight": 20.0
+      },
+      {
+        "item_key": "skibidi_prime_gold_0003",
+        "weight": 20.0
+      },
+      {
+        "item_key": "sigma_runner_standard_0001",
+        "weight": 20.0
+      },
+      {
+        "item_key": "sigma_runner_gold_0001",
+        "weight": 20.0
+      },
+      {
+        "item_key": "sigma_runner_standard_0002",
+        "weight": 20.0
+      },
+      {
+        "item_key": "sigma_runner_gold_0002",
+        "weight": 20.0
+      },
+      {
+        "item_key": "sigma_runner_standard_0003",
+        "weight": 20.0
+      },
+      {
+        "item_key": "sigma_runner_gold_0003",
+        "weight": 20.0
+      },
+      {
+        "item_key": "trollface_vintage_standard_0001",
+        "weight": 20.0
+      },
+      {
+        "item_key": "trollface_vintage_gold_0001",
+        "weight": 20.0
+      },
+      {
+        "item_key": "trollface_vintage_standard_0002",
+        "weight": 20.0
+      },
+      {
+        "item_key": "trollface_vintage_gold_0002",
+        "weight": 20.0
+      },
+      {
+        "item_key": "trollface_vintage_standard_0003",
+        "weight": 20.0
+      },
+      {
+        "item_key": "trollface_vintage_gold_0003",
+        "weight": 20.0
+      },
+      {
+        "item_key": "rage_guy_vintage_standard_0001",
+        "weight": 20.0
+      },
+      {
+        "item_key": "rage_guy_vintage_gold_0001",
+        "weight": 20.0
+      },
+      {
+        "item_key": "rage_guy_vintage_standard_0002",
+        "weight": 20.0
+      },
+      {
+        "item_key": "rage_guy_vintage_gold_0002",
+        "weight": 20.0
+      },
+      {
+        "item_key": "rage_guy_vintage_standard_0003",
+        "weight": 20.0
+      },
+      {
+        "item_key": "rage_guy_vintage_gold_0003",
+        "weight": 20.0
+      },
+      {
+        "item_key": "npc_gold_standard_0001",
+        "weight": 20.0
+      },
+      {
+        "item_key": "npc_gold_gold_0001",
+        "weight": 20.0
+      },
+      {
+        "item_key": "npc_gold_standard_0002",
+        "weight": 20.0
+      },
+      {
+        "item_key": "npc_gold_gold_0002",
+        "weight": 20.0
+      },
+      {
+        "item_key": "npc_gold_standard_0003",
+        "weight": 20.0
+      },
+      {
+        "item_key": "npc_gold_gold_0003",
+        "weight": 20.0
+      },
+      {
+        "item_key": "meme_navigator_standard_0001",
+        "weight": 20.0
+      },
+      {
+        "item_key": "meme_navigator_gold_0001",
+        "weight": 20.0
+      },
+      {
+        "item_key": "meme_navigator_standard_0002",
+        "weight": 20.0
+      },
+      {
+        "item_key": "meme_navigator_gold_0002",
+        "weight": 20.0
+      },
+      {
+        "item_key": "meme_navigator_standard_0003",
+        "weight": 20.0
+      },
+      {
+        "item_key": "meme_navigator_gold_0003",
+        "weight": 20.0
+      },
+      {
+        "item_key": "doge_pilot_standard_0001",
+        "weight": 20.0
+      },
+      {
+        "item_key": "doge_pilot_gold_0001",
+        "weight": 20.0
+      },
+      {
+        "item_key": "doge_pilot_standard_0002",
+        "weight": 20.0
+      },
+      {
+        "item_key": "doge_pilot_gold_0002",
+        "weight": 20.0
+      },
+      {
+        "item_key": "doge_pilot_standard_0003",
+        "weight": 20.0
+      },
+      {
+        "item_key": "doge_pilot_gold_0003",
+        "weight": 20.0
+      },
+      {
+        "item_key": "pepe_racer_standard_0001",
+        "weight": 20.0
+      },
+      {
+        "item_key": "pepe_racer_gold_0001",
+        "weight": 20.0
+      },
+      {
+        "item_key": "pepe_racer_standard_0002",
+        "weight": 20.0
+      },
+      {
+        "item_key": "pepe_racer_gold_0002",
+        "weight": 20.0
+      },
+      {
+        "item_key": "pepe_racer_standard_0003",
+        "weight": 20.0
+      },
+      {
+        "item_key": "pepe_racer_gold_0003",
+        "weight": 20.0
+      },
+      {
+        "item_key": "wojak_captain_standard_0001",
+        "weight": 20.0
+      },
+      {
+        "item_key": "wojak_captain_gold_0001",
+        "weight": 20.0
+      },
+      {
+        "item_key": "wojak_captain_standard_0002",
+        "weight": 20.0
+      },
+      {
+        "item_key": "wojak_captain_gold_0002",
+        "weight": 20.0
+      },
+      {
+        "item_key": "wojak_captain_standard_0003",
+        "weight": 20.0
+      },
+      {
+        "item_key": "wojak_captain_gold_0003",
+        "weight": 20.0
+      },
+      {
+        "item_key": "cat_space_standard_0001",
+        "weight": 20.0
+      },
+      {
+        "item_key": "cat_space_gold_0001",
+        "weight": 20.0
+      },
+      {
+        "item_key": "cat_space_standard_0002",
+        "weight": 20.0
+      },
+      {
+        "item_key": "cat_space_gold_0002",
+        "weight": 20.0
+      },
+      {
+        "item_key": "cat_space_standard_0003",
+        "weight": 20.0
+      },
+      {
+        "item_key": "cat_space_gold_0003",
+        "weight": 20.0
+      },
+      {
+        "item_key": "pepe_hyperloop_standard_0001",
+        "weight": 8.0
+      },
+      {
+        "item_key": "pepe_hyperloop_gold_0001",
+        "weight": 8.0
+      },
+      {
+        "item_key": "pepe_hyperloop_rainbow_0001",
+        "weight": 8.0
+      },
+      {
+        "item_key": "pepe_hyperloop_standard_0002",
+        "weight": 8.0
+      },
+      {
+        "item_key": "pepe_hyperloop_gold_0002",
+        "weight": 8.0
+      },
+      {
+        "item_key": "pepe_hyperloop_rainbow_0002",
+        "weight": 8.0
+      },
+      {
+        "item_key": "doge_hyperdrive_standard_0001",
+        "weight": 8.0
+      },
+      {
+        "item_key": "doge_hyperdrive_gold_0001",
+        "weight": 8.0
+      },
+      {
+        "item_key": "doge_hyperdrive_rainbow_0001",
+        "weight": 8.0
+      },
+      {
+        "item_key": "doge_hyperdrive_standard_0002",
+        "weight": 8.0
+      },
+      {
+        "item_key": "doge_hyperdrive_gold_0002",
+        "weight": 8.0
+      },
+      {
+        "item_key": "doge_hyperdrive_rainbow_0002",
+        "weight": 8.0
+      },
+      {
+        "item_key": "wojak_stonks_standard_0001",
+        "weight": 8.0
+      },
+      {
+        "item_key": "wojak_stonks_gold_0001",
+        "weight": 8.0
+      },
+      {
+        "item_key": "wojak_stonks_rainbow_0001",
+        "weight": 8.0
+      },
+      {
+        "item_key": "wojak_stonks_standard_0002",
+        "weight": 8.0
+      },
+      {
+        "item_key": "wojak_stonks_gold_0002",
+        "weight": 8.0
+      },
+      {
+        "item_key": "wojak_stonks_rainbow_0002",
+        "weight": 8.0
+      },
+      {
+        "item_key": "skibidi_supreme_standard_0001",
+        "weight": 8.0
+      },
+      {
+        "item_key": "skibidi_supreme_gold_0001",
+        "weight": 8.0
+      },
+      {
+        "item_key": "skibidi_supreme_rainbow_0001",
+        "weight": 8.0
+      },
+      {
+        "item_key": "skibidi_supreme_standard_0002",
+        "weight": 8.0
+      },
+      {
+        "item_key": "skibidi_supreme_gold_0002",
+        "weight": 8.0
+      },
+      {
+        "item_key": "skibidi_supreme_rainbow_0002",
+        "weight": 8.0
+      },
+      {
+        "item_key": "sigma_burst_standard_0001",
+        "weight": 8.0
+      },
+      {
+        "item_key": "sigma_burst_gold_0001",
+        "weight": 8.0
+      },
+      {
+        "item_key": "sigma_burst_rainbow_0001",
+        "weight": 8.0
+      },
+      {
+        "item_key": "sigma_burst_standard_0002",
+        "weight": 8.0
+      },
+      {
+        "item_key": "sigma_burst_gold_0002",
+        "weight": 8.0
+      },
+      {
+        "item_key": "sigma_burst_rainbow_0002",
+        "weight": 8.0
+      },
+      {
+        "item_key": "trollface_fire_standard_0001",
+        "weight": 8.0
+      },
+      {
+        "item_key": "trollface_fire_gold_0001",
+        "weight": 8.0
+      },
+      {
+        "item_key": "trollface_fire_rainbow_0001",
+        "weight": 8.0
+      },
+      {
+        "item_key": "trollface_fire_standard_0002",
+        "weight": 8.0
+      },
+      {
+        "item_key": "trollface_fire_gold_0002",
+        "weight": 8.0
+      },
+      {
+        "item_key": "trollface_fire_rainbow_0002",
+        "weight": 8.0
+      },
+      {
+        "item_key": "doge_volcano_standard_0001",
+        "weight": 8.0
+      },
+      {
+        "item_key": "doge_volcano_gold_0001",
+        "weight": 8.0
+      },
+      {
+        "item_key": "doge_volcano_rainbow_0001",
+        "weight": 8.0
+      },
+      {
+        "item_key": "doge_volcano_standard_0002",
+        "weight": 8.0
+      },
+      {
+        "item_key": "doge_volcano_gold_0002",
+        "weight": 8.0
+      },
+      {
+        "item_key": "doge_volcano_rainbow_0002",
+        "weight": 8.0
+      },
+      {
+        "item_key": "pepe_galaxy_standard_0001",
+        "weight": 8.0
+      },
+      {
+        "item_key": "pepe_galaxy_gold_0001",
+        "weight": 8.0
+      },
+      {
+        "item_key": "pepe_galaxy_rainbow_0001",
+        "weight": 8.0
+      },
+      {
+        "item_key": "pepe_galaxy_standard_0002",
+        "weight": 8.0
+      },
+      {
+        "item_key": "pepe_galaxy_gold_0002",
+        "weight": 8.0
+      },
+      {
+        "item_key": "pepe_galaxy_rainbow_0002",
+        "weight": 8.0
+      },
+      {
+        "item_key": "wojak_eclipse_standard_0001",
+        "weight": 8.0
+      },
+      {
+        "item_key": "wojak_eclipse_gold_0001",
+        "weight": 8.0
+      },
+      {
+        "item_key": "wojak_eclipse_rainbow_0001",
+        "weight": 8.0
+      },
+      {
+        "item_key": "wojak_eclipse_standard_0002",
+        "weight": 8.0
+      },
+      {
+        "item_key": "wojak_eclipse_gold_0002",
+        "weight": 8.0
+      },
+      {
+        "item_key": "wojak_eclipse_rainbow_0002",
+        "weight": 8.0
+      },
+      {
+        "item_key": "meme_storm_standard_0001",
+        "weight": 8.0
+      },
+      {
+        "item_key": "meme_storm_gold_0001",
+        "weight": 8.0
+      },
+      {
+        "item_key": "meme_storm_rainbow_0001",
+        "weight": 8.0
+      },
+      {
+        "item_key": "meme_storm_standard_0002",
+        "weight": 8.0
+      },
+      {
+        "item_key": "meme_storm_gold_0002",
+        "weight": 8.0
+      },
+      {
+        "item_key": "meme_storm_rainbow_0002",
+        "weight": 8.0
+      },
+      {
+        "item_key": "pepe_emperor_gold_0001",
+        "weight": 3.0
+      },
+      {
+        "item_key": "pepe_emperor_rainbow_0001",
+        "weight": 3.0
+      },
+      {
+        "item_key": "pepe_emperor_gold_0002",
+        "weight": 3.0
+      },
+      {
+        "item_key": "pepe_emperor_rainbow_0002",
+        "weight": 3.0
+      },
+      {
+        "item_key": "doge_pharaoh_gold_0001",
+        "weight": 3.0
+      },
+      {
+        "item_key": "doge_pharaoh_rainbow_0001",
+        "weight": 3.0
+      },
+      {
+        "item_key": "doge_pharaoh_gold_0002",
+        "weight": 3.0
+      },
+      {
+        "item_key": "doge_pharaoh_rainbow_0002",
+        "weight": 3.0
+      },
+      {
+        "item_key": "wojak_oracle_gold_0001",
+        "weight": 3.0
+      },
+      {
+        "item_key": "wojak_oracle_rainbow_0001",
+        "weight": 3.0
+      },
+      {
+        "item_key": "wojak_oracle_gold_0002",
+        "weight": 3.0
+      },
+      {
+        "item_key": "wojak_oracle_rainbow_0002",
+        "weight": 3.0
+      },
+      {
+        "item_key": "trollface_crown_gold_0001",
+        "weight": 3.0
+      },
+      {
+        "item_key": "trollface_crown_rainbow_0001",
+        "weight": 3.0
+      },
+      {
+        "item_key": "trollface_crown_gold_0002",
+        "weight": 3.0
+      },
+      {
+        "item_key": "trollface_crown_rainbow_0002",
+        "weight": 3.0
+      },
+      {
+        "item_key": "sigma_titan_gold_0001",
+        "weight": 3.0
+      },
+      {
+        "item_key": "sigma_titan_rainbow_0001",
+        "weight": 3.0
+      },
+      {
+        "item_key": "sigma_titan_gold_0002",
+        "weight": 3.0
+      },
+      {
+        "item_key": "sigma_titan_rainbow_0002",
+        "weight": 3.0
+      },
+      {
+        "item_key": "meme_overlord_gold_0001",
+        "weight": 3.0
+      },
+      {
+        "item_key": "meme_overlord_rainbow_0001",
+        "weight": 3.0
+      },
+      {
+        "item_key": "meme_overlord_gold_0002",
+        "weight": 3.0
+      },
+      {
+        "item_key": "meme_overlord_rainbow_0002",
+        "weight": 3.0
+      },
+      {
+        "item_key": "doge_celestial_gold_0001",
+        "weight": 3.0
+      },
+      {
+        "item_key": "doge_celestial_rainbow_0001",
+        "weight": 3.0
+      },
+      {
+        "item_key": "doge_celestial_gold_0002",
+        "weight": 3.0
+      },
+      {
+        "item_key": "doge_celestial_rainbow_0002",
+        "weight": 3.0
+      },
+      {
+        "item_key": "pepe_infinity_gold_0001",
+        "weight": 3.0
+      },
+      {
+        "item_key": "pepe_infinity_rainbow_0001",
+        "weight": 3.0
+      },
+      {
+        "item_key": "pepe_infinity_gold_0002",
+        "weight": 3.0
+      },
+      {
+        "item_key": "pepe_infinity_rainbow_0002",
+        "weight": 3.0
+      }
+    ]
+  },
+  {
+    "code": "frame_case",
+    "name": "Avatar & Frame Case",
+    "price": 680,
+    "pity_step": 1.32,
+    "pity_threshold": 6,
+    "cover_image": "https://cdn.meme-economy.app/cases/frame_case.png",
+    "items": [
+      {
+        "item_key": "pepe_emperor_gold_0001",
+        "weight": 3.0
+      },
+      {
+        "item_key": "pepe_emperor_rainbow_0001",
+        "weight": 3.0
+      },
+      {
+        "item_key": "pepe_emperor_gold_0002",
+        "weight": 3.0
+      },
+      {
+        "item_key": "pepe_emperor_rainbow_0002",
+        "weight": 3.0
+      },
+      {
+        "item_key": "doge_pharaoh_gold_0001",
+        "weight": 3.0
+      },
+      {
+        "item_key": "doge_pharaoh_rainbow_0001",
+        "weight": 3.0
+      },
+      {
+        "item_key": "doge_pharaoh_gold_0002",
+        "weight": 3.0
+      },
+      {
+        "item_key": "doge_pharaoh_rainbow_0002",
+        "weight": 3.0
+      },
+      {
+        "item_key": "wojak_oracle_gold_0001",
+        "weight": 3.0
+      },
+      {
+        "item_key": "wojak_oracle_rainbow_0001",
+        "weight": 3.0
+      },
+      {
+        "item_key": "wojak_oracle_gold_0002",
+        "weight": 3.0
+      },
+      {
+        "item_key": "wojak_oracle_rainbow_0002",
+        "weight": 3.0
+      },
+      {
+        "item_key": "trollface_crown_gold_0001",
+        "weight": 3.0
+      },
+      {
+        "item_key": "trollface_crown_rainbow_0001",
+        "weight": 3.0
+      },
+      {
+        "item_key": "trollface_crown_gold_0002",
+        "weight": 3.0
+      },
+      {
+        "item_key": "trollface_crown_rainbow_0002",
+        "weight": 3.0
+      },
+      {
+        "item_key": "sigma_titan_gold_0001",
+        "weight": 3.0
+      },
+      {
+        "item_key": "sigma_titan_rainbow_0001",
+        "weight": 3.0
+      },
+      {
+        "item_key": "sigma_titan_gold_0002",
+        "weight": 3.0
+      },
+      {
+        "item_key": "sigma_titan_rainbow_0002",
+        "weight": 3.0
+      },
+      {
+        "item_key": "meme_overlord_gold_0001",
+        "weight": 3.0
+      },
+      {
+        "item_key": "meme_overlord_rainbow_0001",
+        "weight": 3.0
+      },
+      {
+        "item_key": "meme_overlord_gold_0002",
+        "weight": 3.0
+      },
+      {
+        "item_key": "meme_overlord_rainbow_0002",
+        "weight": 3.0
+      },
+      {
+        "item_key": "doge_celestial_gold_0001",
+        "weight": 3.0
+      },
+      {
+        "item_key": "doge_celestial_rainbow_0001",
+        "weight": 3.0
+      },
+      {
+        "item_key": "doge_celestial_gold_0002",
+        "weight": 3.0
+      },
+      {
+        "item_key": "doge_celestial_rainbow_0002",
+        "weight": 3.0
+      },
+      {
+        "item_key": "pepe_infinity_gold_0001",
+        "weight": 3.0
+      },
+      {
+        "item_key": "pepe_infinity_rainbow_0001",
+        "weight": 3.0
+      },
+      {
+        "item_key": "pepe_infinity_gold_0002",
+        "weight": 3.0
+      },
+      {
+        "item_key": "pepe_infinity_rainbow_0002",
+        "weight": 3.0
+      }
+    ]
+  },
+  {
+    "code": "collector_case",
+    "name": "Collector Vault",
+    "price": 0,
+    "pity_step": 1.4,
+    "pity_threshold": 5,
+    "cp_requirement": 15000,
+    "cover_image": "https://cdn.meme-economy.app/cases/collector_case.png",
+    "items": [
+      {
+        "item_key": "pepe_gold_idol_gold_0001",
+        "weight": 1.5
+      },
+      {
+        "item_key": "pepe_gold_idol_rainbow_0001",
+        "weight": 1.5
+      },
+      {
+        "item_key": "doge_diamond_statue_gold_0001",
+        "weight": 1.5
+      },
+      {
+        "item_key": "doge_diamond_statue_rainbow_0001",
+        "weight": 1.5
+      },
+      {
+        "item_key": "wojak_time_relic_gold_0001",
+        "weight": 1.5
+      },
+      {
+        "item_key": "wojak_time_relic_rainbow_0001",
+        "weight": 1.5
+      },
+      {
+        "item_key": "trollface_prism_gold_0001",
+        "weight": 1.5
+      },
+      {
+        "item_key": "trollface_prism_rainbow_0001",
+        "weight": 1.5
+      },
+      {
+        "item_key": "sigma_relic_blade_gold_0001",
+        "weight": 1.5
+      },
+      {
+        "item_key": "sigma_relic_blade_rainbow_0001",
+        "weight": 1.5
+      },
+      {
+        "item_key": "meme_cube_gold_0001",
+        "weight": 1.5
+      },
+      {
+        "item_key": "meme_cube_rainbow_0001",
+        "weight": 1.5
+      },
+      {
+        "item_key": "doge_aurora_totem_gold_0001",
+        "weight": 1.5
+      },
+      {
+        "item_key": "doge_aurora_totem_rainbow_0001",
+        "weight": 1.5
+      },
+      {
+        "item_key": "pepe_thunder_orb_gold_0001",
+        "weight": 1.5
+      },
+      {
+        "item_key": "pepe_thunder_orb_rainbow_0001",
+        "weight": 1.5
+      },
+      {
+        "item_key": "wojak_chrono_deck_gold_0001",
+        "weight": 1.5
+      },
+      {
+        "item_key": "wojak_chrono_deck_rainbow_0001",
+        "weight": 1.5
+      },
+      {
+        "item_key": "skibidi_masterpiece_gold_0001",
+        "weight": 1.5
+      },
+      {
+        "item_key": "skibidi_masterpiece_rainbow_0001",
+        "weight": 1.5
+      },
+      {
+        "item_key": "rizzler_crown_gold_0001",
+        "weight": 1.5
+      },
+      {
+        "item_key": "rizzler_crown_rainbow_0001",
+        "weight": 1.5
+      },
+      {
+        "item_key": "meme_universe_key_gold_0001",
+        "weight": 1.5
+      },
+      {
+        "item_key": "meme_universe_key_rainbow_0001",
+        "weight": 1.5
+      },
+      {
+        "item_key": "pepe_mythic_flame_rainbow_0001",
+        "weight": 0.6
+      },
+      {
+        "item_key": "doge_mythic_nova_rainbow_0001",
+        "weight": 0.6
+      },
+      {
+        "item_key": "wojak_mythic_void_rainbow_0001",
+        "weight": 0.6
+      },
+      {
+        "item_key": "trollface_mythic_rift_rainbow_0001",
+        "weight": 0.6
+      },
+      {
+        "item_key": "sigma_mythic_pulse_rainbow_0001",
+        "weight": 0.6
+      },
+      {
+        "item_key": "meme_mythic_halo_rainbow_0001",
+        "weight": 0.6
+      },
+      {
+        "item_key": "pepe_mythic_phoenix_rainbow_0001",
+        "weight": 0.6
+      },
+      {
+        "item_key": "doge_mythic_aurora_rainbow_0001",
+        "weight": 0.6
+      }
+    ]
+  },
+  {
+    "code": "mythic_case",
+    "name": "Mythic Rift Case",
+    "price": 2100,
+    "pity_step": 1.5,
+    "pity_threshold": 5,
+    "cover_image": "https://cdn.meme-economy.app/cases/mythic_case.png",
+    "items": [
+      {
+        "item_key": "pepe_mythic_flame_rainbow_0001",
+        "weight": 0.6
+      },
+      {
+        "item_key": "doge_mythic_nova_rainbow_0001",
+        "weight": 0.6
+      },
+      {
+        "item_key": "wojak_mythic_void_rainbow_0001",
+        "weight": 0.6
+      },
+      {
+        "item_key": "trollface_mythic_rift_rainbow_0001",
+        "weight": 0.6
+      },
+      {
+        "item_key": "sigma_mythic_pulse_rainbow_0001",
+        "weight": 0.6
+      },
+      {
+        "item_key": "meme_mythic_halo_rainbow_0001",
+        "weight": 0.6
+      },
+      {
+        "item_key": "pepe_mythic_phoenix_rainbow_0001",
+        "weight": 0.6
+      },
+      {
+        "item_key": "doge_mythic_aurora_rainbow_0001",
+        "weight": 0.6
+      }
+    ]
+  },
+  {
+    "code": "event_case",
+    "name": "Event Horizon Case",
+    "price": 420,
+    "pity_step": 1.28,
+    "pity_threshold": 6,
+    "cover_image": "https://cdn.meme-economy.app/cases/event_case.png",
+    "items": [
+      {
+        "item_key": "skibidi_masterpiece_gold_0001",
+        "weight": 1.5
+      },
+      {
+        "item_key": "skibidi_masterpiece_rainbow_0001",
+        "weight": 1.5
+      },
+      {
+        "item_key": "pepe_mythic_flame_rainbow_0001",
+        "weight": 0.6
+      },
+      {
+        "item_key": "doge_mythic_nova_rainbow_0001",
+        "weight": 0.6
+      },
+      {
+        "item_key": "wojak_mythic_void_rainbow_0001",
+        "weight": 0.6
+      },
+      {
+        "item_key": "trollface_mythic_rift_rainbow_0001",
+        "weight": 0.6
+      },
+      {
+        "item_key": "sigma_mythic_pulse_rainbow_0001",
+        "weight": 0.6
+      },
+      {
+        "item_key": "meme_mythic_halo_rainbow_0001",
+        "weight": 0.6
+      },
+      {
+        "item_key": "pepe_mythic_phoenix_rainbow_0001",
+        "weight": 0.6
+      },
+      {
+        "item_key": "doge_mythic_aurora_rainbow_0001",
+        "weight": 0.6
+      }
+    ]
+  }
+]

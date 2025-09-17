@@ -1,0 +1,5022 @@
+[
+  {
+    "key": "pepe_classic_standard_0001",
+    "name": "Pepe Classic #0001",
+    "rarity": "common",
+    "type": "sticker",
+    "color": "standard",
+    "cp_value": 5,
+    "base_buy_price": 5,
+    "image_url": "https://cdn.meme-economy.app/items/pepe_classic_standard_0001.png"
+  },
+  {
+    "key": "pepe_classic_silver_0001",
+    "name": "Pepe Classic Silver #0001",
+    "rarity": "common",
+    "type": "sticker",
+    "color": "silver",
+    "cp_value": 5,
+    "base_buy_price": 6,
+    "image_url": "https://cdn.meme-economy.app/items/pepe_classic_silver_0001.png"
+  },
+  {
+    "key": "pepe_classic_standard_0002",
+    "name": "Pepe Classic #0002",
+    "rarity": "common",
+    "type": "sticker",
+    "color": "standard",
+    "cp_value": 5,
+    "base_buy_price": 5,
+    "image_url": "https://cdn.meme-economy.app/items/pepe_classic_standard_0002.png"
+  },
+  {
+    "key": "pepe_classic_silver_0002",
+    "name": "Pepe Classic Silver #0002",
+    "rarity": "common",
+    "type": "sticker",
+    "color": "silver",
+    "cp_value": 5,
+    "base_buy_price": 6,
+    "image_url": "https://cdn.meme-economy.app/items/pepe_classic_silver_0002.png"
+  },
+  {
+    "key": "pepe_classic_standard_0003",
+    "name": "Pepe Classic #0003",
+    "rarity": "common",
+    "type": "sticker",
+    "color": "standard",
+    "cp_value": 5,
+    "base_buy_price": 5,
+    "image_url": "https://cdn.meme-economy.app/items/pepe_classic_standard_0003.png"
+  },
+  {
+    "key": "pepe_classic_silver_0003",
+    "name": "Pepe Classic Silver #0003",
+    "rarity": "common",
+    "type": "sticker",
+    "color": "silver",
+    "cp_value": 5,
+    "base_buy_price": 6,
+    "image_url": "https://cdn.meme-economy.app/items/pepe_classic_silver_0003.png"
+  },
+  {
+    "key": "pepe_smile_standard_0001",
+    "name": "Pepe Smile #0001",
+    "rarity": "common",
+    "type": "sticker",
+    "color": "standard",
+    "cp_value": 5,
+    "base_buy_price": 5,
+    "image_url": "https://cdn.meme-economy.app/items/pepe_smile_standard_0001.png"
+  },
+  {
+    "key": "pepe_smile_silver_0001",
+    "name": "Pepe Smile Silver #0001",
+    "rarity": "common",
+    "type": "sticker",
+    "color": "silver",
+    "cp_value": 5,
+    "base_buy_price": 6,
+    "image_url": "https://cdn.meme-economy.app/items/pepe_smile_silver_0001.png"
+  },
+  {
+    "key": "pepe_smile_standard_0002",
+    "name": "Pepe Smile #0002",
+    "rarity": "common",
+    "type": "sticker",
+    "color": "standard",
+    "cp_value": 5,
+    "base_buy_price": 5,
+    "image_url": "https://cdn.meme-economy.app/items/pepe_smile_standard_0002.png"
+  },
+  {
+    "key": "pepe_smile_silver_0002",
+    "name": "Pepe Smile Silver #0002",
+    "rarity": "common",
+    "type": "sticker",
+    "color": "silver",
+    "cp_value": 5,
+    "base_buy_price": 6,
+    "image_url": "https://cdn.meme-economy.app/items/pepe_smile_silver_0002.png"
+  },
+  {
+    "key": "pepe_smile_standard_0003",
+    "name": "Pepe Smile #0003",
+    "rarity": "common",
+    "type": "sticker",
+    "color": "standard",
+    "cp_value": 5,
+    "base_buy_price": 5,
+    "image_url": "https://cdn.meme-economy.app/items/pepe_smile_standard_0003.png"
+  },
+  {
+    "key": "pepe_smile_silver_0003",
+    "name": "Pepe Smile Silver #0003",
+    "rarity": "common",
+    "type": "sticker",
+    "color": "silver",
+    "cp_value": 5,
+    "base_buy_price": 6,
+    "image_url": "https://cdn.meme-economy.app/items/pepe_smile_silver_0003.png"
+  },
+  {
+    "key": "pepe_wink_standard_0001",
+    "name": "Pepe Wink #0001",
+    "rarity": "common",
+    "type": "sticker",
+    "color": "standard",
+    "cp_value": 5,
+    "base_buy_price": 5,
+    "image_url": "https://cdn.meme-economy.app/items/pepe_wink_standard_0001.png"
+  },
+  {
+    "key": "pepe_wink_silver_0001",
+    "name": "Pepe Wink Silver #0001",
+    "rarity": "common",
+    "type": "sticker",
+    "color": "silver",
+    "cp_value": 5,
+    "base_buy_price": 6,
+    "image_url": "https://cdn.meme-economy.app/items/pepe_wink_silver_0001.png"
+  },
+  {
+    "key": "pepe_wink_standard_0002",
+    "name": "Pepe Wink #0002",
+    "rarity": "common",
+    "type": "sticker",
+    "color": "standard",
+    "cp_value": 5,
+    "base_buy_price": 5,
+    "image_url": "https://cdn.meme-economy.app/items/pepe_wink_standard_0002.png"
+  },
+  {
+    "key": "pepe_wink_silver_0002",
+    "name": "Pepe Wink Silver #0002",
+    "rarity": "common",
+    "type": "sticker",
+    "color": "silver",
+    "cp_value": 5,
+    "base_buy_price": 6,
+    "image_url": "https://cdn.meme-economy.app/items/pepe_wink_silver_0002.png"
+  },
+  {
+    "key": "pepe_wink_standard_0003",
+    "name": "Pepe Wink #0003",
+    "rarity": "common",
+    "type": "sticker",
+    "color": "standard",
+    "cp_value": 5,
+    "base_buy_price": 5,
+    "image_url": "https://cdn.meme-economy.app/items/pepe_wink_standard_0003.png"
+  },
+  {
+    "key": "pepe_wink_silver_0003",
+    "name": "Pepe Wink Silver #0003",
+    "rarity": "common",
+    "type": "sticker",
+    "color": "silver",
+    "cp_value": 5,
+    "base_buy_price": 6,
+    "image_url": "https://cdn.meme-economy.app/items/pepe_wink_silver_0003.png"
+  },
+  {
+    "key": "pepe_coffee_standard_0001",
+    "name": "Pepe Coffee #0001",
+    "rarity": "common",
+    "type": "sticker",
+    "color": "standard",
+    "cp_value": 5,
+    "base_buy_price": 5,
+    "image_url": "https://cdn.meme-economy.app/items/pepe_coffee_standard_0001.png"
+  },
+  {
+    "key": "pepe_coffee_silver_0001",
+    "name": "Pepe Coffee Silver #0001",
+    "rarity": "common",
+    "type": "sticker",
+    "color": "silver",
+    "cp_value": 5,
+    "base_buy_price": 6,
+    "image_url": "https://cdn.meme-economy.app/items/pepe_coffee_silver_0001.png"
+  },
+  {
+    "key": "pepe_coffee_standard_0002",
+    "name": "Pepe Coffee #0002",
+    "rarity": "common",
+    "type": "sticker",
+    "color": "standard",
+    "cp_value": 5,
+    "base_buy_price": 5,
+    "image_url": "https://cdn.meme-economy.app/items/pepe_coffee_standard_0002.png"
+  },
+  {
+    "key": "pepe_coffee_silver_0002",
+    "name": "Pepe Coffee Silver #0002",
+    "rarity": "common",
+    "type": "sticker",
+    "color": "silver",
+    "cp_value": 5,
+    "base_buy_price": 6,
+    "image_url": "https://cdn.meme-economy.app/items/pepe_coffee_silver_0002.png"
+  },
+  {
+    "key": "pepe_coffee_standard_0003",
+    "name": "Pepe Coffee #0003",
+    "rarity": "common",
+    "type": "sticker",
+    "color": "standard",
+    "cp_value": 5,
+    "base_buy_price": 5,
+    "image_url": "https://cdn.meme-economy.app/items/pepe_coffee_standard_0003.png"
+  },
+  {
+    "key": "pepe_coffee_silver_0003",
+    "name": "Pepe Coffee Silver #0003",
+    "rarity": "common",
+    "type": "sticker",
+    "color": "silver",
+    "cp_value": 5,
+    "base_buy_price": 6,
+    "image_url": "https://cdn.meme-economy.app/items/pepe_coffee_silver_0003.png"
+  },
+  {
+    "key": "pepe_skate_standard_0001",
+    "name": "Pepe Skate #0001",
+    "rarity": "common",
+    "type": "sticker",
+    "color": "standard",
+    "cp_value": 5,
+    "base_buy_price": 5,
+    "image_url": "https://cdn.meme-economy.app/items/pepe_skate_standard_0001.png"
+  },
+  {
+    "key": "pepe_skate_silver_0001",
+    "name": "Pepe Skate Silver #0001",
+    "rarity": "common",
+    "type": "sticker",
+    "color": "silver",
+    "cp_value": 5,
+    "base_buy_price": 6,
+    "image_url": "https://cdn.meme-economy.app/items/pepe_skate_silver_0001.png"
+  },
+  {
+    "key": "pepe_skate_standard_0002",
+    "name": "Pepe Skate #0002",
+    "rarity": "common",
+    "type": "sticker",
+    "color": "standard",
+    "cp_value": 5,
+    "base_buy_price": 5,
+    "image_url": "https://cdn.meme-economy.app/items/pepe_skate_standard_0002.png"
+  },
+  {
+    "key": "pepe_skate_silver_0002",
+    "name": "Pepe Skate Silver #0002",
+    "rarity": "common",
+    "type": "sticker",
+    "color": "silver",
+    "cp_value": 5,
+    "base_buy_price": 6,
+    "image_url": "https://cdn.meme-economy.app/items/pepe_skate_silver_0002.png"
+  },
+  {
+    "key": "pepe_skate_standard_0003",
+    "name": "Pepe Skate #0003",
+    "rarity": "common",
+    "type": "sticker",
+    "color": "standard",
+    "cp_value": 5,
+    "base_buy_price": 5,
+    "image_url": "https://cdn.meme-economy.app/items/pepe_skate_standard_0003.png"
+  },
+  {
+    "key": "pepe_skate_silver_0003",
+    "name": "Pepe Skate Silver #0003",
+    "rarity": "common",
+    "type": "sticker",
+    "color": "silver",
+    "cp_value": 5,
+    "base_buy_price": 6,
+    "image_url": "https://cdn.meme-economy.app/items/pepe_skate_silver_0003.png"
+  },
+  {
+    "key": "pepe_pixel_standard_0001",
+    "name": "Pepe Pixel #0001",
+    "rarity": "common",
+    "type": "sticker",
+    "color": "standard",
+    "cp_value": 5,
+    "base_buy_price": 5,
+    "image_url": "https://cdn.meme-economy.app/items/pepe_pixel_standard_0001.png"
+  },
+  {
+    "key": "pepe_pixel_silver_0001",
+    "name": "Pepe Pixel Silver #0001",
+    "rarity": "common",
+    "type": "sticker",
+    "color": "silver",
+    "cp_value": 5,
+    "base_buy_price": 6,
+    "image_url": "https://cdn.meme-economy.app/items/pepe_pixel_silver_0001.png"
+  },
+  {
+    "key": "pepe_pixel_standard_0002",
+    "name": "Pepe Pixel #0002",
+    "rarity": "common",
+    "type": "sticker",
+    "color": "standard",
+    "cp_value": 5,
+    "base_buy_price": 5,
+    "image_url": "https://cdn.meme-economy.app/items/pepe_pixel_standard_0002.png"
+  },
+  {
+    "key": "pepe_pixel_silver_0002",
+    "name": "Pepe Pixel Silver #0002",
+    "rarity": "common",
+    "type": "sticker",
+    "color": "silver",
+    "cp_value": 5,
+    "base_buy_price": 6,
+    "image_url": "https://cdn.meme-economy.app/items/pepe_pixel_silver_0002.png"
+  },
+  {
+    "key": "pepe_pixel_standard_0003",
+    "name": "Pepe Pixel #0003",
+    "rarity": "common",
+    "type": "sticker",
+    "color": "standard",
+    "cp_value": 5,
+    "base_buy_price": 5,
+    "image_url": "https://cdn.meme-economy.app/items/pepe_pixel_standard_0003.png"
+  },
+  {
+    "key": "pepe_pixel_silver_0003",
+    "name": "Pepe Pixel Silver #0003",
+    "rarity": "common",
+    "type": "sticker",
+    "color": "silver",
+    "cp_value": 5,
+    "base_buy_price": 6,
+    "image_url": "https://cdn.meme-economy.app/items/pepe_pixel_silver_0003.png"
+  },
+  {
+    "key": "doge_classic_standard_0001",
+    "name": "Doge Classic #0001",
+    "rarity": "common",
+    "type": "sticker",
+    "color": "standard",
+    "cp_value": 5,
+    "base_buy_price": 5,
+    "image_url": "https://cdn.meme-economy.app/items/doge_classic_standard_0001.png"
+  },
+  {
+    "key": "doge_classic_silver_0001",
+    "name": "Doge Classic Silver #0001",
+    "rarity": "common",
+    "type": "sticker",
+    "color": "silver",
+    "cp_value": 5,
+    "base_buy_price": 6,
+    "image_url": "https://cdn.meme-economy.app/items/doge_classic_silver_0001.png"
+  },
+  {
+    "key": "doge_classic_standard_0002",
+    "name": "Doge Classic #0002",
+    "rarity": "common",
+    "type": "sticker",
+    "color": "standard",
+    "cp_value": 5,
+    "base_buy_price": 5,
+    "image_url": "https://cdn.meme-economy.app/items/doge_classic_standard_0002.png"
+  },
+  {
+    "key": "doge_classic_silver_0002",
+    "name": "Doge Classic Silver #0002",
+    "rarity": "common",
+    "type": "sticker",
+    "color": "silver",
+    "cp_value": 5,
+    "base_buy_price": 6,
+    "image_url": "https://cdn.meme-economy.app/items/doge_classic_silver_0002.png"
+  },
+  {
+    "key": "doge_classic_standard_0003",
+    "name": "Doge Classic #0003",
+    "rarity": "common",
+    "type": "sticker",
+    "color": "standard",
+    "cp_value": 5,
+    "base_buy_price": 5,
+    "image_url": "https://cdn.meme-economy.app/items/doge_classic_standard_0003.png"
+  },
+  {
+    "key": "doge_classic_silver_0003",
+    "name": "Doge Classic Silver #0003",
+    "rarity": "common",
+    "type": "sticker",
+    "color": "silver",
+    "cp_value": 5,
+    "base_buy_price": 6,
+    "image_url": "https://cdn.meme-economy.app/items/doge_classic_silver_0003.png"
+  },
+  {
+    "key": "doge_smile_standard_0001",
+    "name": "Doge Smile #0001",
+    "rarity": "common",
+    "type": "sticker",
+    "color": "standard",
+    "cp_value": 5,
+    "base_buy_price": 5,
+    "image_url": "https://cdn.meme-economy.app/items/doge_smile_standard_0001.png"
+  },
+  {
+    "key": "doge_smile_silver_0001",
+    "name": "Doge Smile Silver #0001",
+    "rarity": "common",
+    "type": "sticker",
+    "color": "silver",
+    "cp_value": 5,
+    "base_buy_price": 6,
+    "image_url": "https://cdn.meme-economy.app/items/doge_smile_silver_0001.png"
+  },
+  {
+    "key": "doge_smile_standard_0002",
+    "name": "Doge Smile #0002",
+    "rarity": "common",
+    "type": "sticker",
+    "color": "standard",
+    "cp_value": 5,
+    "base_buy_price": 5,
+    "image_url": "https://cdn.meme-economy.app/items/doge_smile_standard_0002.png"
+  },
+  {
+    "key": "doge_smile_silver_0002",
+    "name": "Doge Smile Silver #0002",
+    "rarity": "common",
+    "type": "sticker",
+    "color": "silver",
+    "cp_value": 5,
+    "base_buy_price": 6,
+    "image_url": "https://cdn.meme-economy.app/items/doge_smile_silver_0002.png"
+  },
+  {
+    "key": "doge_smile_standard_0003",
+    "name": "Doge Smile #0003",
+    "rarity": "common",
+    "type": "sticker",
+    "color": "standard",
+    "cp_value": 5,
+    "base_buy_price": 5,
+    "image_url": "https://cdn.meme-economy.app/items/doge_smile_standard_0003.png"
+  },
+  {
+    "key": "doge_smile_silver_0003",
+    "name": "Doge Smile Silver #0003",
+    "rarity": "common",
+    "type": "sticker",
+    "color": "silver",
+    "cp_value": 5,
+    "base_buy_price": 6,
+    "image_url": "https://cdn.meme-economy.app/items/doge_smile_silver_0003.png"
+  },
+  {
+    "key": "doge_burger_standard_0001",
+    "name": "Doge Burger #0001",
+    "rarity": "common",
+    "type": "sticker",
+    "color": "standard",
+    "cp_value": 5,
+    "base_buy_price": 5,
+    "image_url": "https://cdn.meme-economy.app/items/doge_burger_standard_0001.png"
+  },
+  {
+    "key": "doge_burger_silver_0001",
+    "name": "Doge Burger Silver #0001",
+    "rarity": "common",
+    "type": "sticker",
+    "color": "silver",
+    "cp_value": 5,
+    "base_buy_price": 6,
+    "image_url": "https://cdn.meme-economy.app/items/doge_burger_silver_0001.png"
+  },
+  {
+    "key": "doge_burger_standard_0002",
+    "name": "Doge Burger #0002",
+    "rarity": "common",
+    "type": "sticker",
+    "color": "standard",
+    "cp_value": 5,
+    "base_buy_price": 5,
+    "image_url": "https://cdn.meme-economy.app/items/doge_burger_standard_0002.png"
+  },
+  {
+    "key": "doge_burger_silver_0002",
+    "name": "Doge Burger Silver #0002",
+    "rarity": "common",
+    "type": "sticker",
+    "color": "silver",
+    "cp_value": 5,
+    "base_buy_price": 6,
+    "image_url": "https://cdn.meme-economy.app/items/doge_burger_silver_0002.png"
+  },
+  {
+    "key": "doge_burger_standard_0003",
+    "name": "Doge Burger #0003",
+    "rarity": "common",
+    "type": "sticker",
+    "color": "standard",
+    "cp_value": 5,
+    "base_buy_price": 5,
+    "image_url": "https://cdn.meme-economy.app/items/doge_burger_standard_0003.png"
+  },
+  {
+    "key": "doge_burger_silver_0003",
+    "name": "Doge Burger Silver #0003",
+    "rarity": "common",
+    "type": "sticker",
+    "color": "silver",
+    "cp_value": 5,
+    "base_buy_price": 6,
+    "image_url": "https://cdn.meme-economy.app/items/doge_burger_silver_0003.png"
+  },
+  {
+    "key": "doge_pizza_standard_0001",
+    "name": "Doge Pizza #0001",
+    "rarity": "common",
+    "type": "sticker",
+    "color": "standard",
+    "cp_value": 5,
+    "base_buy_price": 5,
+    "image_url": "https://cdn.meme-economy.app/items/doge_pizza_standard_0001.png"
+  },
+  {
+    "key": "doge_pizza_silver_0001",
+    "name": "Doge Pizza Silver #0001",
+    "rarity": "common",
+    "type": "sticker",
+    "color": "silver",
+    "cp_value": 5,
+    "base_buy_price": 6,
+    "image_url": "https://cdn.meme-economy.app/items/doge_pizza_silver_0001.png"
+  },
+  {
+    "key": "doge_pizza_standard_0002",
+    "name": "Doge Pizza #0002",
+    "rarity": "common",
+    "type": "sticker",
+    "color": "standard",
+    "cp_value": 5,
+    "base_buy_price": 5,
+    "image_url": "https://cdn.meme-economy.app/items/doge_pizza_standard_0002.png"
+  },
+  {
+    "key": "doge_pizza_silver_0002",
+    "name": "Doge Pizza Silver #0002",
+    "rarity": "common",
+    "type": "sticker",
+    "color": "silver",
+    "cp_value": 5,
+    "base_buy_price": 6,
+    "image_url": "https://cdn.meme-economy.app/items/doge_pizza_silver_0002.png"
+  },
+  {
+    "key": "doge_pizza_standard_0003",
+    "name": "Doge Pizza #0003",
+    "rarity": "common",
+    "type": "sticker",
+    "color": "standard",
+    "cp_value": 5,
+    "base_buy_price": 5,
+    "image_url": "https://cdn.meme-economy.app/items/doge_pizza_standard_0003.png"
+  },
+  {
+    "key": "doge_pizza_silver_0003",
+    "name": "Doge Pizza Silver #0003",
+    "rarity": "common",
+    "type": "sticker",
+    "color": "silver",
+    "cp_value": 5,
+    "base_buy_price": 6,
+    "image_url": "https://cdn.meme-economy.app/items/doge_pizza_silver_0003.png"
+  },
+  {
+    "key": "doge_sunglasses_standard_0001",
+    "name": "Doge Sunglasses #0001",
+    "rarity": "common",
+    "type": "sticker",
+    "color": "standard",
+    "cp_value": 5,
+    "base_buy_price": 5,
+    "image_url": "https://cdn.meme-economy.app/items/doge_sunglasses_standard_0001.png"
+  },
+  {
+    "key": "doge_sunglasses_silver_0001",
+    "name": "Doge Sunglasses Silver #0001",
+    "rarity": "common",
+    "type": "sticker",
+    "color": "silver",
+    "cp_value": 5,
+    "base_buy_price": 6,
+    "image_url": "https://cdn.meme-economy.app/items/doge_sunglasses_silver_0001.png"
+  },
+  {
+    "key": "doge_sunglasses_standard_0002",
+    "name": "Doge Sunglasses #0002",
+    "rarity": "common",
+    "type": "sticker",
+    "color": "standard",
+    "cp_value": 5,
+    "base_buy_price": 5,
+    "image_url": "https://cdn.meme-economy.app/items/doge_sunglasses_standard_0002.png"
+  },
+  {
+    "key": "doge_sunglasses_silver_0002",
+    "name": "Doge Sunglasses Silver #0002",
+    "rarity": "common",
+    "type": "sticker",
+    "color": "silver",
+    "cp_value": 5,
+    "base_buy_price": 6,
+    "image_url": "https://cdn.meme-economy.app/items/doge_sunglasses_silver_0002.png"
+  },
+  {
+    "key": "doge_sunglasses_standard_0003",
+    "name": "Doge Sunglasses #0003",
+    "rarity": "common",
+    "type": "sticker",
+    "color": "standard",
+    "cp_value": 5,
+    "base_buy_price": 5,
+    "image_url": "https://cdn.meme-economy.app/items/doge_sunglasses_standard_0003.png"
+  },
+  {
+    "key": "doge_sunglasses_silver_0003",
+    "name": "Doge Sunglasses Silver #0003",
+    "rarity": "common",
+    "type": "sticker",
+    "color": "silver",
+    "cp_value": 5,
+    "base_buy_price": 6,
+    "image_url": "https://cdn.meme-economy.app/items/doge_sunglasses_silver_0003.png"
+  },
+  {
+    "key": "doge_heart_standard_0001",
+    "name": "Doge Heart #0001",
+    "rarity": "common",
+    "type": "sticker",
+    "color": "standard",
+    "cp_value": 5,
+    "base_buy_price": 5,
+    "image_url": "https://cdn.meme-economy.app/items/doge_heart_standard_0001.png"
+  },
+  {
+    "key": "doge_heart_silver_0001",
+    "name": "Doge Heart Silver #0001",
+    "rarity": "common",
+    "type": "sticker",
+    "color": "silver",
+    "cp_value": 5,
+    "base_buy_price": 6,
+    "image_url": "https://cdn.meme-economy.app/items/doge_heart_silver_0001.png"
+  },
+  {
+    "key": "doge_heart_standard_0002",
+    "name": "Doge Heart #0002",
+    "rarity": "common",
+    "type": "sticker",
+    "color": "standard",
+    "cp_value": 5,
+    "base_buy_price": 5,
+    "image_url": "https://cdn.meme-economy.app/items/doge_heart_standard_0002.png"
+  },
+  {
+    "key": "doge_heart_silver_0002",
+    "name": "Doge Heart Silver #0002",
+    "rarity": "common",
+    "type": "sticker",
+    "color": "silver",
+    "cp_value": 5,
+    "base_buy_price": 6,
+    "image_url": "https://cdn.meme-economy.app/items/doge_heart_silver_0002.png"
+  },
+  {
+    "key": "doge_heart_standard_0003",
+    "name": "Doge Heart #0003",
+    "rarity": "common",
+    "type": "sticker",
+    "color": "standard",
+    "cp_value": 5,
+    "base_buy_price": 5,
+    "image_url": "https://cdn.meme-economy.app/items/doge_heart_standard_0003.png"
+  },
+  {
+    "key": "doge_heart_silver_0003",
+    "name": "Doge Heart Silver #0003",
+    "rarity": "common",
+    "type": "sticker",
+    "color": "silver",
+    "cp_value": 5,
+    "base_buy_price": 6,
+    "image_url": "https://cdn.meme-economy.app/items/doge_heart_silver_0003.png"
+  },
+  {
+    "key": "wojak_chill_standard_0001",
+    "name": "Wojak Chill #0001",
+    "rarity": "common",
+    "type": "sticker",
+    "color": "standard",
+    "cp_value": 5,
+    "base_buy_price": 5,
+    "image_url": "https://cdn.meme-economy.app/items/wojak_chill_standard_0001.png"
+  },
+  {
+    "key": "wojak_chill_silver_0001",
+    "name": "Wojak Chill Silver #0001",
+    "rarity": "common",
+    "type": "sticker",
+    "color": "silver",
+    "cp_value": 5,
+    "base_buy_price": 6,
+    "image_url": "https://cdn.meme-economy.app/items/wojak_chill_silver_0001.png"
+  },
+  {
+    "key": "wojak_chill_standard_0002",
+    "name": "Wojak Chill #0002",
+    "rarity": "common",
+    "type": "sticker",
+    "color": "standard",
+    "cp_value": 5,
+    "base_buy_price": 5,
+    "image_url": "https://cdn.meme-economy.app/items/wojak_chill_standard_0002.png"
+  },
+  {
+    "key": "wojak_chill_silver_0002",
+    "name": "Wojak Chill Silver #0002",
+    "rarity": "common",
+    "type": "sticker",
+    "color": "silver",
+    "cp_value": 5,
+    "base_buy_price": 6,
+    "image_url": "https://cdn.meme-economy.app/items/wojak_chill_silver_0002.png"
+  },
+  {
+    "key": "wojak_chill_standard_0003",
+    "name": "Wojak Chill #0003",
+    "rarity": "common",
+    "type": "sticker",
+    "color": "standard",
+    "cp_value": 5,
+    "base_buy_price": 5,
+    "image_url": "https://cdn.meme-economy.app/items/wojak_chill_standard_0003.png"
+  },
+  {
+    "key": "wojak_chill_silver_0003",
+    "name": "Wojak Chill Silver #0003",
+    "rarity": "common",
+    "type": "sticker",
+    "color": "silver",
+    "cp_value": 5,
+    "base_buy_price": 6,
+    "image_url": "https://cdn.meme-economy.app/items/wojak_chill_silver_0003.png"
+  },
+  {
+    "key": "wojak_coffee_standard_0001",
+    "name": "Wojak Coffee #0001",
+    "rarity": "common",
+    "type": "sticker",
+    "color": "standard",
+    "cp_value": 5,
+    "base_buy_price": 5,
+    "image_url": "https://cdn.meme-economy.app/items/wojak_coffee_standard_0001.png"
+  },
+  {
+    "key": "wojak_coffee_silver_0001",
+    "name": "Wojak Coffee Silver #0001",
+    "rarity": "common",
+    "type": "sticker",
+    "color": "silver",
+    "cp_value": 5,
+    "base_buy_price": 6,
+    "image_url": "https://cdn.meme-economy.app/items/wojak_coffee_silver_0001.png"
+  },
+  {
+    "key": "wojak_coffee_standard_0002",
+    "name": "Wojak Coffee #0002",
+    "rarity": "common",
+    "type": "sticker",
+    "color": "standard",
+    "cp_value": 5,
+    "base_buy_price": 5,
+    "image_url": "https://cdn.meme-economy.app/items/wojak_coffee_standard_0002.png"
+  },
+  {
+    "key": "wojak_coffee_silver_0002",
+    "name": "Wojak Coffee Silver #0002",
+    "rarity": "common",
+    "type": "sticker",
+    "color": "silver",
+    "cp_value": 5,
+    "base_buy_price": 6,
+    "image_url": "https://cdn.meme-economy.app/items/wojak_coffee_silver_0002.png"
+  },
+  {
+    "key": "wojak_coffee_standard_0003",
+    "name": "Wojak Coffee #0003",
+    "rarity": "common",
+    "type": "sticker",
+    "color": "standard",
+    "cp_value": 5,
+    "base_buy_price": 5,
+    "image_url": "https://cdn.meme-economy.app/items/wojak_coffee_standard_0003.png"
+  },
+  {
+    "key": "wojak_coffee_silver_0003",
+    "name": "Wojak Coffee Silver #0003",
+    "rarity": "common",
+    "type": "sticker",
+    "color": "silver",
+    "cp_value": 5,
+    "base_buy_price": 6,
+    "image_url": "https://cdn.meme-economy.app/items/wojak_coffee_silver_0003.png"
+  },
+  {
+    "key": "wojak_think_standard_0001",
+    "name": "Wojak Think #0001",
+    "rarity": "common",
+    "type": "sticker",
+    "color": "standard",
+    "cp_value": 5,
+    "base_buy_price": 5,
+    "image_url": "https://cdn.meme-economy.app/items/wojak_think_standard_0001.png"
+  },
+  {
+    "key": "wojak_think_silver_0001",
+    "name": "Wojak Think Silver #0001",
+    "rarity": "common",
+    "type": "sticker",
+    "color": "silver",
+    "cp_value": 5,
+    "base_buy_price": 6,
+    "image_url": "https://cdn.meme-economy.app/items/wojak_think_silver_0001.png"
+  },
+  {
+    "key": "wojak_think_standard_0002",
+    "name": "Wojak Think #0002",
+    "rarity": "common",
+    "type": "sticker",
+    "color": "standard",
+    "cp_value": 5,
+    "base_buy_price": 5,
+    "image_url": "https://cdn.meme-economy.app/items/wojak_think_standard_0002.png"
+  },
+  {
+    "key": "wojak_think_silver_0002",
+    "name": "Wojak Think Silver #0002",
+    "rarity": "common",
+    "type": "sticker",
+    "color": "silver",
+    "cp_value": 5,
+    "base_buy_price": 6,
+    "image_url": "https://cdn.meme-economy.app/items/wojak_think_silver_0002.png"
+  },
+  {
+    "key": "wojak_think_standard_0003",
+    "name": "Wojak Think #0003",
+    "rarity": "common",
+    "type": "sticker",
+    "color": "standard",
+    "cp_value": 5,
+    "base_buy_price": 5,
+    "image_url": "https://cdn.meme-economy.app/items/wojak_think_standard_0003.png"
+  },
+  {
+    "key": "wojak_think_silver_0003",
+    "name": "Wojak Think Silver #0003",
+    "rarity": "common",
+    "type": "sticker",
+    "color": "silver",
+    "cp_value": 5,
+    "base_buy_price": 6,
+    "image_url": "https://cdn.meme-economy.app/items/wojak_think_silver_0003.png"
+  },
+  {
+    "key": "wojak_meme_standard_0001",
+    "name": "Wojak Meme #0001",
+    "rarity": "common",
+    "type": "sticker",
+    "color": "standard",
+    "cp_value": 5,
+    "base_buy_price": 5,
+    "image_url": "https://cdn.meme-economy.app/items/wojak_meme_standard_0001.png"
+  },
+  {
+    "key": "wojak_meme_silver_0001",
+    "name": "Wojak Meme Silver #0001",
+    "rarity": "common",
+    "type": "sticker",
+    "color": "silver",
+    "cp_value": 5,
+    "base_buy_price": 6,
+    "image_url": "https://cdn.meme-economy.app/items/wojak_meme_silver_0001.png"
+  },
+  {
+    "key": "wojak_meme_standard_0002",
+    "name": "Wojak Meme #0002",
+    "rarity": "common",
+    "type": "sticker",
+    "color": "standard",
+    "cp_value": 5,
+    "base_buy_price": 5,
+    "image_url": "https://cdn.meme-economy.app/items/wojak_meme_standard_0002.png"
+  },
+  {
+    "key": "wojak_meme_silver_0002",
+    "name": "Wojak Meme Silver #0002",
+    "rarity": "common",
+    "type": "sticker",
+    "color": "silver",
+    "cp_value": 5,
+    "base_buy_price": 6,
+    "image_url": "https://cdn.meme-economy.app/items/wojak_meme_silver_0002.png"
+  },
+  {
+    "key": "wojak_meme_standard_0003",
+    "name": "Wojak Meme #0003",
+    "rarity": "common",
+    "type": "sticker",
+    "color": "standard",
+    "cp_value": 5,
+    "base_buy_price": 5,
+    "image_url": "https://cdn.meme-economy.app/items/wojak_meme_standard_0003.png"
+  },
+  {
+    "key": "wojak_meme_silver_0003",
+    "name": "Wojak Meme Silver #0003",
+    "rarity": "common",
+    "type": "sticker",
+    "color": "silver",
+    "cp_value": 5,
+    "base_buy_price": 6,
+    "image_url": "https://cdn.meme-economy.app/items/wojak_meme_silver_0003.png"
+  },
+  {
+    "key": "skibidi_dance_standard_0001",
+    "name": "Skibidi Dance #0001",
+    "rarity": "common",
+    "type": "sticker",
+    "color": "standard",
+    "cp_value": 5,
+    "base_buy_price": 5,
+    "image_url": "https://cdn.meme-economy.app/items/skibidi_dance_standard_0001.png"
+  },
+  {
+    "key": "skibidi_dance_silver_0001",
+    "name": "Skibidi Dance Silver #0001",
+    "rarity": "common",
+    "type": "sticker",
+    "color": "silver",
+    "cp_value": 5,
+    "base_buy_price": 6,
+    "image_url": "https://cdn.meme-economy.app/items/skibidi_dance_silver_0001.png"
+  },
+  {
+    "key": "skibidi_dance_standard_0002",
+    "name": "Skibidi Dance #0002",
+    "rarity": "common",
+    "type": "sticker",
+    "color": "standard",
+    "cp_value": 5,
+    "base_buy_price": 5,
+    "image_url": "https://cdn.meme-economy.app/items/skibidi_dance_standard_0002.png"
+  },
+  {
+    "key": "skibidi_dance_silver_0002",
+    "name": "Skibidi Dance Silver #0002",
+    "rarity": "common",
+    "type": "sticker",
+    "color": "silver",
+    "cp_value": 5,
+    "base_buy_price": 6,
+    "image_url": "https://cdn.meme-economy.app/items/skibidi_dance_silver_0002.png"
+  },
+  {
+    "key": "skibidi_dance_standard_0003",
+    "name": "Skibidi Dance #0003",
+    "rarity": "common",
+    "type": "sticker",
+    "color": "standard",
+    "cp_value": 5,
+    "base_buy_price": 5,
+    "image_url": "https://cdn.meme-economy.app/items/skibidi_dance_standard_0003.png"
+  },
+  {
+    "key": "skibidi_dance_silver_0003",
+    "name": "Skibidi Dance Silver #0003",
+    "rarity": "common",
+    "type": "sticker",
+    "color": "silver",
+    "cp_value": 5,
+    "base_buy_price": 6,
+    "image_url": "https://cdn.meme-economy.app/items/skibidi_dance_silver_0003.png"
+  },
+  {
+    "key": "fanum_tax_standard_0001",
+    "name": "Fanum Tax #0001",
+    "rarity": "common",
+    "type": "sticker",
+    "color": "standard",
+    "cp_value": 5,
+    "base_buy_price": 5,
+    "image_url": "https://cdn.meme-economy.app/items/fanum_tax_standard_0001.png"
+  },
+  {
+    "key": "fanum_tax_silver_0001",
+    "name": "Fanum Tax Silver #0001",
+    "rarity": "common",
+    "type": "sticker",
+    "color": "silver",
+    "cp_value": 5,
+    "base_buy_price": 6,
+    "image_url": "https://cdn.meme-economy.app/items/fanum_tax_silver_0001.png"
+  },
+  {
+    "key": "fanum_tax_standard_0002",
+    "name": "Fanum Tax #0002",
+    "rarity": "common",
+    "type": "sticker",
+    "color": "standard",
+    "cp_value": 5,
+    "base_buy_price": 5,
+    "image_url": "https://cdn.meme-economy.app/items/fanum_tax_standard_0002.png"
+  },
+  {
+    "key": "fanum_tax_silver_0002",
+    "name": "Fanum Tax Silver #0002",
+    "rarity": "common",
+    "type": "sticker",
+    "color": "silver",
+    "cp_value": 5,
+    "base_buy_price": 6,
+    "image_url": "https://cdn.meme-economy.app/items/fanum_tax_silver_0002.png"
+  },
+  {
+    "key": "fanum_tax_standard_0003",
+    "name": "Fanum Tax #0003",
+    "rarity": "common",
+    "type": "sticker",
+    "color": "standard",
+    "cp_value": 5,
+    "base_buy_price": 5,
+    "image_url": "https://cdn.meme-economy.app/items/fanum_tax_standard_0003.png"
+  },
+  {
+    "key": "fanum_tax_silver_0003",
+    "name": "Fanum Tax Silver #0003",
+    "rarity": "common",
+    "type": "sticker",
+    "color": "silver",
+    "cp_value": 5,
+    "base_buy_price": 6,
+    "image_url": "https://cdn.meme-economy.app/items/fanum_tax_silver_0003.png"
+  },
+  {
+    "key": "sigma_wave_standard_0001",
+    "name": "Sigma Wave #0001",
+    "rarity": "common",
+    "type": "sticker",
+    "color": "standard",
+    "cp_value": 5,
+    "base_buy_price": 5,
+    "image_url": "https://cdn.meme-economy.app/items/sigma_wave_standard_0001.png"
+  },
+  {
+    "key": "sigma_wave_silver_0001",
+    "name": "Sigma Wave Silver #0001",
+    "rarity": "common",
+    "type": "sticker",
+    "color": "silver",
+    "cp_value": 5,
+    "base_buy_price": 6,
+    "image_url": "https://cdn.meme-economy.app/items/sigma_wave_silver_0001.png"
+  },
+  {
+    "key": "sigma_wave_standard_0002",
+    "name": "Sigma Wave #0002",
+    "rarity": "common",
+    "type": "sticker",
+    "color": "standard",
+    "cp_value": 5,
+    "base_buy_price": 5,
+    "image_url": "https://cdn.meme-economy.app/items/sigma_wave_standard_0002.png"
+  },
+  {
+    "key": "sigma_wave_silver_0002",
+    "name": "Sigma Wave Silver #0002",
+    "rarity": "common",
+    "type": "sticker",
+    "color": "silver",
+    "cp_value": 5,
+    "base_buy_price": 6,
+    "image_url": "https://cdn.meme-economy.app/items/sigma_wave_silver_0002.png"
+  },
+  {
+    "key": "sigma_wave_standard_0003",
+    "name": "Sigma Wave #0003",
+    "rarity": "common",
+    "type": "sticker",
+    "color": "standard",
+    "cp_value": 5,
+    "base_buy_price": 5,
+    "image_url": "https://cdn.meme-economy.app/items/sigma_wave_standard_0003.png"
+  },
+  {
+    "key": "sigma_wave_silver_0003",
+    "name": "Sigma Wave Silver #0003",
+    "rarity": "common",
+    "type": "sticker",
+    "color": "silver",
+    "cp_value": 5,
+    "base_buy_price": 6,
+    "image_url": "https://cdn.meme-economy.app/items/sigma_wave_silver_0003.png"
+  },
+  {
+    "key": "meme_frog_standard_0001",
+    "name": "Meme Frog #0001",
+    "rarity": "common",
+    "type": "sticker",
+    "color": "standard",
+    "cp_value": 5,
+    "base_buy_price": 5,
+    "image_url": "https://cdn.meme-economy.app/items/meme_frog_standard_0001.png"
+  },
+  {
+    "key": "meme_frog_silver_0001",
+    "name": "Meme Frog Silver #0001",
+    "rarity": "common",
+    "type": "sticker",
+    "color": "silver",
+    "cp_value": 5,
+    "base_buy_price": 6,
+    "image_url": "https://cdn.meme-economy.app/items/meme_frog_silver_0001.png"
+  },
+  {
+    "key": "meme_frog_standard_0002",
+    "name": "Meme Frog #0002",
+    "rarity": "common",
+    "type": "sticker",
+    "color": "standard",
+    "cp_value": 5,
+    "base_buy_price": 5,
+    "image_url": "https://cdn.meme-economy.app/items/meme_frog_standard_0002.png"
+  },
+  {
+    "key": "meme_frog_silver_0002",
+    "name": "Meme Frog Silver #0002",
+    "rarity": "common",
+    "type": "sticker",
+    "color": "silver",
+    "cp_value": 5,
+    "base_buy_price": 6,
+    "image_url": "https://cdn.meme-economy.app/items/meme_frog_silver_0002.png"
+  },
+  {
+    "key": "meme_frog_standard_0003",
+    "name": "Meme Frog #0003",
+    "rarity": "common",
+    "type": "sticker",
+    "color": "standard",
+    "cp_value": 5,
+    "base_buy_price": 5,
+    "image_url": "https://cdn.meme-economy.app/items/meme_frog_standard_0003.png"
+  },
+  {
+    "key": "meme_frog_silver_0003",
+    "name": "Meme Frog Silver #0003",
+    "rarity": "common",
+    "type": "sticker",
+    "color": "silver",
+    "cp_value": 5,
+    "base_buy_price": 6,
+    "image_url": "https://cdn.meme-economy.app/items/meme_frog_silver_0003.png"
+  },
+  {
+    "key": "cat_vibing_standard_0001",
+    "name": "Cat Vibing #0001",
+    "rarity": "common",
+    "type": "sticker",
+    "color": "standard",
+    "cp_value": 5,
+    "base_buy_price": 5,
+    "image_url": "https://cdn.meme-economy.app/items/cat_vibing_standard_0001.png"
+  },
+  {
+    "key": "cat_vibing_silver_0001",
+    "name": "Cat Vibing Silver #0001",
+    "rarity": "common",
+    "type": "sticker",
+    "color": "silver",
+    "cp_value": 5,
+    "base_buy_price": 6,
+    "image_url": "https://cdn.meme-economy.app/items/cat_vibing_silver_0001.png"
+  },
+  {
+    "key": "cat_vibing_standard_0002",
+    "name": "Cat Vibing #0002",
+    "rarity": "common",
+    "type": "sticker",
+    "color": "standard",
+    "cp_value": 5,
+    "base_buy_price": 5,
+    "image_url": "https://cdn.meme-economy.app/items/cat_vibing_standard_0002.png"
+  },
+  {
+    "key": "cat_vibing_silver_0002",
+    "name": "Cat Vibing Silver #0002",
+    "rarity": "common",
+    "type": "sticker",
+    "color": "silver",
+    "cp_value": 5,
+    "base_buy_price": 6,
+    "image_url": "https://cdn.meme-economy.app/items/cat_vibing_silver_0002.png"
+  },
+  {
+    "key": "cat_vibing_standard_0003",
+    "name": "Cat Vibing #0003",
+    "rarity": "common",
+    "type": "sticker",
+    "color": "standard",
+    "cp_value": 5,
+    "base_buy_price": 5,
+    "image_url": "https://cdn.meme-economy.app/items/cat_vibing_standard_0003.png"
+  },
+  {
+    "key": "cat_vibing_silver_0003",
+    "name": "Cat Vibing Silver #0003",
+    "rarity": "common",
+    "type": "sticker",
+    "color": "silver",
+    "cp_value": 5,
+    "base_buy_price": 6,
+    "image_url": "https://cdn.meme-economy.app/items/cat_vibing_silver_0003.png"
+  },
+  {
+    "key": "npc_blink_standard_0001",
+    "name": "NPC Blink #0001",
+    "rarity": "common",
+    "type": "sticker",
+    "color": "standard",
+    "cp_value": 5,
+    "base_buy_price": 5,
+    "image_url": "https://cdn.meme-economy.app/items/npc_blink_standard_0001.png"
+  },
+  {
+    "key": "npc_blink_silver_0001",
+    "name": "NPC Blink Silver #0001",
+    "rarity": "common",
+    "type": "sticker",
+    "color": "silver",
+    "cp_value": 5,
+    "base_buy_price": 6,
+    "image_url": "https://cdn.meme-economy.app/items/npc_blink_silver_0001.png"
+  },
+  {
+    "key": "npc_blink_standard_0002",
+    "name": "NPC Blink #0002",
+    "rarity": "common",
+    "type": "sticker",
+    "color": "standard",
+    "cp_value": 5,
+    "base_buy_price": 5,
+    "image_url": "https://cdn.meme-economy.app/items/npc_blink_standard_0002.png"
+  },
+  {
+    "key": "npc_blink_silver_0002",
+    "name": "NPC Blink Silver #0002",
+    "rarity": "common",
+    "type": "sticker",
+    "color": "silver",
+    "cp_value": 5,
+    "base_buy_price": 6,
+    "image_url": "https://cdn.meme-economy.app/items/npc_blink_silver_0002.png"
+  },
+  {
+    "key": "npc_blink_standard_0003",
+    "name": "NPC Blink #0003",
+    "rarity": "common",
+    "type": "sticker",
+    "color": "standard",
+    "cp_value": 5,
+    "base_buy_price": 5,
+    "image_url": "https://cdn.meme-economy.app/items/npc_blink_standard_0003.png"
+  },
+  {
+    "key": "npc_blink_silver_0003",
+    "name": "NPC Blink Silver #0003",
+    "rarity": "common",
+    "type": "sticker",
+    "color": "silver",
+    "cp_value": 5,
+    "base_buy_price": 6,
+    "image_url": "https://cdn.meme-economy.app/items/npc_blink_silver_0003.png"
+  },
+  {
+    "key": "trollface_og_standard_0001",
+    "name": "Trollface OG #0001",
+    "rarity": "common",
+    "type": "sticker",
+    "color": "standard",
+    "cp_value": 5,
+    "base_buy_price": 5,
+    "image_url": "https://cdn.meme-economy.app/items/trollface_og_standard_0001.png"
+  },
+  {
+    "key": "trollface_og_silver_0001",
+    "name": "Trollface OG Silver #0001",
+    "rarity": "common",
+    "type": "sticker",
+    "color": "silver",
+    "cp_value": 5,
+    "base_buy_price": 6,
+    "image_url": "https://cdn.meme-economy.app/items/trollface_og_silver_0001.png"
+  },
+  {
+    "key": "trollface_og_standard_0002",
+    "name": "Trollface OG #0002",
+    "rarity": "common",
+    "type": "sticker",
+    "color": "standard",
+    "cp_value": 5,
+    "base_buy_price": 5,
+    "image_url": "https://cdn.meme-economy.app/items/trollface_og_standard_0002.png"
+  },
+  {
+    "key": "trollface_og_silver_0002",
+    "name": "Trollface OG Silver #0002",
+    "rarity": "common",
+    "type": "sticker",
+    "color": "silver",
+    "cp_value": 5,
+    "base_buy_price": 6,
+    "image_url": "https://cdn.meme-economy.app/items/trollface_og_silver_0002.png"
+  },
+  {
+    "key": "trollface_og_standard_0003",
+    "name": "Trollface OG #0003",
+    "rarity": "common",
+    "type": "sticker",
+    "color": "standard",
+    "cp_value": 5,
+    "base_buy_price": 5,
+    "image_url": "https://cdn.meme-economy.app/items/trollface_og_standard_0003.png"
+  },
+  {
+    "key": "trollface_og_silver_0003",
+    "name": "Trollface OG Silver #0003",
+    "rarity": "common",
+    "type": "sticker",
+    "color": "silver",
+    "cp_value": 5,
+    "base_buy_price": 6,
+    "image_url": "https://cdn.meme-economy.app/items/trollface_og_silver_0003.png"
+  },
+  {
+    "key": "rage_guy_snap_standard_0001",
+    "name": "Rage Guy Snap #0001",
+    "rarity": "common",
+    "type": "sticker",
+    "color": "standard",
+    "cp_value": 5,
+    "base_buy_price": 5,
+    "image_url": "https://cdn.meme-economy.app/items/rage_guy_snap_standard_0001.png"
+  },
+  {
+    "key": "rage_guy_snap_silver_0001",
+    "name": "Rage Guy Snap Silver #0001",
+    "rarity": "common",
+    "type": "sticker",
+    "color": "silver",
+    "cp_value": 5,
+    "base_buy_price": 6,
+    "image_url": "https://cdn.meme-economy.app/items/rage_guy_snap_silver_0001.png"
+  },
+  {
+    "key": "rage_guy_snap_standard_0002",
+    "name": "Rage Guy Snap #0002",
+    "rarity": "common",
+    "type": "sticker",
+    "color": "standard",
+    "cp_value": 5,
+    "base_buy_price": 5,
+    "image_url": "https://cdn.meme-economy.app/items/rage_guy_snap_standard_0002.png"
+  },
+  {
+    "key": "rage_guy_snap_silver_0002",
+    "name": "Rage Guy Snap Silver #0002",
+    "rarity": "common",
+    "type": "sticker",
+    "color": "silver",
+    "cp_value": 5,
+    "base_buy_price": 6,
+    "image_url": "https://cdn.meme-economy.app/items/rage_guy_snap_silver_0002.png"
+  },
+  {
+    "key": "rage_guy_snap_standard_0003",
+    "name": "Rage Guy Snap #0003",
+    "rarity": "common",
+    "type": "sticker",
+    "color": "standard",
+    "cp_value": 5,
+    "base_buy_price": 5,
+    "image_url": "https://cdn.meme-economy.app/items/rage_guy_snap_standard_0003.png"
+  },
+  {
+    "key": "rage_guy_snap_silver_0003",
+    "name": "Rage Guy Snap Silver #0003",
+    "rarity": "common",
+    "type": "sticker",
+    "color": "silver",
+    "cp_value": 5,
+    "base_buy_price": 6,
+    "image_url": "https://cdn.meme-economy.app/items/rage_guy_snap_silver_0003.png"
+  },
+  {
+    "key": "forever_alone_standard_0001",
+    "name": "Forever Alone #0001",
+    "rarity": "common",
+    "type": "sticker",
+    "color": "standard",
+    "cp_value": 5,
+    "base_buy_price": 5,
+    "image_url": "https://cdn.meme-economy.app/items/forever_alone_standard_0001.png"
+  },
+  {
+    "key": "forever_alone_silver_0001",
+    "name": "Forever Alone Silver #0001",
+    "rarity": "common",
+    "type": "sticker",
+    "color": "silver",
+    "cp_value": 5,
+    "base_buy_price": 6,
+    "image_url": "https://cdn.meme-economy.app/items/forever_alone_silver_0001.png"
+  },
+  {
+    "key": "forever_alone_standard_0002",
+    "name": "Forever Alone #0002",
+    "rarity": "common",
+    "type": "sticker",
+    "color": "standard",
+    "cp_value": 5,
+    "base_buy_price": 5,
+    "image_url": "https://cdn.meme-economy.app/items/forever_alone_standard_0002.png"
+  },
+  {
+    "key": "forever_alone_silver_0002",
+    "name": "Forever Alone Silver #0002",
+    "rarity": "common",
+    "type": "sticker",
+    "color": "silver",
+    "cp_value": 5,
+    "base_buy_price": 6,
+    "image_url": "https://cdn.meme-economy.app/items/forever_alone_silver_0002.png"
+  },
+  {
+    "key": "forever_alone_standard_0003",
+    "name": "Forever Alone #0003",
+    "rarity": "common",
+    "type": "sticker",
+    "color": "standard",
+    "cp_value": 5,
+    "base_buy_price": 5,
+    "image_url": "https://cdn.meme-economy.app/items/forever_alone_standard_0003.png"
+  },
+  {
+    "key": "forever_alone_silver_0003",
+    "name": "Forever Alone Silver #0003",
+    "rarity": "common",
+    "type": "sticker",
+    "color": "silver",
+    "cp_value": 5,
+    "base_buy_price": 6,
+    "image_url": "https://cdn.meme-economy.app/items/forever_alone_silver_0003.png"
+  },
+  {
+    "key": "gigachad_wink_standard_0001",
+    "name": "Gigachad Wink #0001",
+    "rarity": "common",
+    "type": "sticker",
+    "color": "standard",
+    "cp_value": 5,
+    "base_buy_price": 5,
+    "image_url": "https://cdn.meme-economy.app/items/gigachad_wink_standard_0001.png"
+  },
+  {
+    "key": "gigachad_wink_silver_0001",
+    "name": "Gigachad Wink Silver #0001",
+    "rarity": "common",
+    "type": "sticker",
+    "color": "silver",
+    "cp_value": 5,
+    "base_buy_price": 6,
+    "image_url": "https://cdn.meme-economy.app/items/gigachad_wink_silver_0001.png"
+  },
+  {
+    "key": "gigachad_wink_standard_0002",
+    "name": "Gigachad Wink #0002",
+    "rarity": "common",
+    "type": "sticker",
+    "color": "standard",
+    "cp_value": 5,
+    "base_buy_price": 5,
+    "image_url": "https://cdn.meme-economy.app/items/gigachad_wink_standard_0002.png"
+  },
+  {
+    "key": "gigachad_wink_silver_0002",
+    "name": "Gigachad Wink Silver #0002",
+    "rarity": "common",
+    "type": "sticker",
+    "color": "silver",
+    "cp_value": 5,
+    "base_buy_price": 6,
+    "image_url": "https://cdn.meme-economy.app/items/gigachad_wink_silver_0002.png"
+  },
+  {
+    "key": "gigachad_wink_standard_0003",
+    "name": "Gigachad Wink #0003",
+    "rarity": "common",
+    "type": "sticker",
+    "color": "standard",
+    "cp_value": 5,
+    "base_buy_price": 5,
+    "image_url": "https://cdn.meme-economy.app/items/gigachad_wink_standard_0003.png"
+  },
+  {
+    "key": "gigachad_wink_silver_0003",
+    "name": "Gigachad Wink Silver #0003",
+    "rarity": "common",
+    "type": "sticker",
+    "color": "silver",
+    "cp_value": 5,
+    "base_buy_price": 6,
+    "image_url": "https://cdn.meme-economy.app/items/gigachad_wink_silver_0003.png"
+  },
+  {
+    "key": "pepe_balloon_standard_0001",
+    "name": "Pepe Balloon #0001",
+    "rarity": "common",
+    "type": "sticker",
+    "color": "standard",
+    "cp_value": 5,
+    "base_buy_price": 5,
+    "image_url": "https://cdn.meme-economy.app/items/pepe_balloon_standard_0001.png"
+  },
+  {
+    "key": "pepe_balloon_silver_0001",
+    "name": "Pepe Balloon Silver #0001",
+    "rarity": "common",
+    "type": "sticker",
+    "color": "silver",
+    "cp_value": 5,
+    "base_buy_price": 6,
+    "image_url": "https://cdn.meme-economy.app/items/pepe_balloon_silver_0001.png"
+  },
+  {
+    "key": "pepe_balloon_standard_0002",
+    "name": "Pepe Balloon #0002",
+    "rarity": "common",
+    "type": "sticker",
+    "color": "standard",
+    "cp_value": 5,
+    "base_buy_price": 5,
+    "image_url": "https://cdn.meme-economy.app/items/pepe_balloon_standard_0002.png"
+  },
+  {
+    "key": "pepe_balloon_silver_0002",
+    "name": "Pepe Balloon Silver #0002",
+    "rarity": "common",
+    "type": "sticker",
+    "color": "silver",
+    "cp_value": 5,
+    "base_buy_price": 6,
+    "image_url": "https://cdn.meme-economy.app/items/pepe_balloon_silver_0002.png"
+  },
+  {
+    "key": "pepe_balloon_standard_0003",
+    "name": "Pepe Balloon #0003",
+    "rarity": "common",
+    "type": "sticker",
+    "color": "standard",
+    "cp_value": 5,
+    "base_buy_price": 5,
+    "image_url": "https://cdn.meme-economy.app/items/pepe_balloon_standard_0003.png"
+  },
+  {
+    "key": "pepe_balloon_silver_0003",
+    "name": "Pepe Balloon Silver #0003",
+    "rarity": "common",
+    "type": "sticker",
+    "color": "silver",
+    "cp_value": 5,
+    "base_buy_price": 6,
+    "image_url": "https://cdn.meme-economy.app/items/pepe_balloon_silver_0003.png"
+  },
+  {
+    "key": "doge_popcorn_standard_0001",
+    "name": "Doge Popcorn #0001",
+    "rarity": "common",
+    "type": "sticker",
+    "color": "standard",
+    "cp_value": 5,
+    "base_buy_price": 5,
+    "image_url": "https://cdn.meme-economy.app/items/doge_popcorn_standard_0001.png"
+  },
+  {
+    "key": "doge_popcorn_silver_0001",
+    "name": "Doge Popcorn Silver #0001",
+    "rarity": "common",
+    "type": "sticker",
+    "color": "silver",
+    "cp_value": 5,
+    "base_buy_price": 6,
+    "image_url": "https://cdn.meme-economy.app/items/doge_popcorn_silver_0001.png"
+  },
+  {
+    "key": "doge_popcorn_standard_0002",
+    "name": "Doge Popcorn #0002",
+    "rarity": "common",
+    "type": "sticker",
+    "color": "standard",
+    "cp_value": 5,
+    "base_buy_price": 5,
+    "image_url": "https://cdn.meme-economy.app/items/doge_popcorn_standard_0002.png"
+  },
+  {
+    "key": "doge_popcorn_silver_0002",
+    "name": "Doge Popcorn Silver #0002",
+    "rarity": "common",
+    "type": "sticker",
+    "color": "silver",
+    "cp_value": 5,
+    "base_buy_price": 6,
+    "image_url": "https://cdn.meme-economy.app/items/doge_popcorn_silver_0002.png"
+  },
+  {
+    "key": "doge_popcorn_standard_0003",
+    "name": "Doge Popcorn #0003",
+    "rarity": "common",
+    "type": "sticker",
+    "color": "standard",
+    "cp_value": 5,
+    "base_buy_price": 5,
+    "image_url": "https://cdn.meme-economy.app/items/doge_popcorn_standard_0003.png"
+  },
+  {
+    "key": "doge_popcorn_silver_0003",
+    "name": "Doge Popcorn Silver #0003",
+    "rarity": "common",
+    "type": "sticker",
+    "color": "silver",
+    "cp_value": 5,
+    "base_buy_price": 6,
+    "image_url": "https://cdn.meme-economy.app/items/doge_popcorn_silver_0003.png"
+  },
+  {
+    "key": "pepe_neon_standard_0001",
+    "name": "Pepe Neon #0001",
+    "rarity": "uncommon",
+    "type": "sticker",
+    "color": "standard",
+    "cp_value": 15,
+    "base_buy_price": 12,
+    "image_url": "https://cdn.meme-economy.app/items/pepe_neon_standard_0001.png"
+  },
+  {
+    "key": "pepe_neon_gold_0001",
+    "name": "Pepe Neon Gold #0001",
+    "rarity": "uncommon",
+    "type": "sticker",
+    "color": "gold",
+    "cp_value": 15,
+    "base_buy_price": 18,
+    "image_url": "https://cdn.meme-economy.app/items/pepe_neon_gold_0001.png"
+  },
+  {
+    "key": "pepe_neon_standard_0002",
+    "name": "Pepe Neon #0002",
+    "rarity": "uncommon",
+    "type": "sticker",
+    "color": "standard",
+    "cp_value": 15,
+    "base_buy_price": 12,
+    "image_url": "https://cdn.meme-economy.app/items/pepe_neon_standard_0002.png"
+  },
+  {
+    "key": "pepe_neon_gold_0002",
+    "name": "Pepe Neon Gold #0002",
+    "rarity": "uncommon",
+    "type": "sticker",
+    "color": "gold",
+    "cp_value": 15,
+    "base_buy_price": 18,
+    "image_url": "https://cdn.meme-economy.app/items/pepe_neon_gold_0002.png"
+  },
+  {
+    "key": "pepe_neon_standard_0003",
+    "name": "Pepe Neon #0003",
+    "rarity": "uncommon",
+    "type": "sticker",
+    "color": "standard",
+    "cp_value": 15,
+    "base_buy_price": 12,
+    "image_url": "https://cdn.meme-economy.app/items/pepe_neon_standard_0003.png"
+  },
+  {
+    "key": "pepe_neon_gold_0003",
+    "name": "Pepe Neon Gold #0003",
+    "rarity": "uncommon",
+    "type": "sticker",
+    "color": "gold",
+    "cp_value": 15,
+    "base_buy_price": 18,
+    "image_url": "https://cdn.meme-economy.app/items/pepe_neon_gold_0003.png"
+  },
+  {
+    "key": "pepe_dj_standard_0001",
+    "name": "Pepe DJ #0001",
+    "rarity": "uncommon",
+    "type": "sticker",
+    "color": "standard",
+    "cp_value": 15,
+    "base_buy_price": 12,
+    "image_url": "https://cdn.meme-economy.app/items/pepe_dj_standard_0001.png"
+  },
+  {
+    "key": "pepe_dj_gold_0001",
+    "name": "Pepe DJ Gold #0001",
+    "rarity": "uncommon",
+    "type": "sticker",
+    "color": "gold",
+    "cp_value": 15,
+    "base_buy_price": 18,
+    "image_url": "https://cdn.meme-economy.app/items/pepe_dj_gold_0001.png"
+  },
+  {
+    "key": "pepe_dj_standard_0002",
+    "name": "Pepe DJ #0002",
+    "rarity": "uncommon",
+    "type": "sticker",
+    "color": "standard",
+    "cp_value": 15,
+    "base_buy_price": 12,
+    "image_url": "https://cdn.meme-economy.app/items/pepe_dj_standard_0002.png"
+  },
+  {
+    "key": "pepe_dj_gold_0002",
+    "name": "Pepe DJ Gold #0002",
+    "rarity": "uncommon",
+    "type": "sticker",
+    "color": "gold",
+    "cp_value": 15,
+    "base_buy_price": 18,
+    "image_url": "https://cdn.meme-economy.app/items/pepe_dj_gold_0002.png"
+  },
+  {
+    "key": "pepe_dj_standard_0003",
+    "name": "Pepe DJ #0003",
+    "rarity": "uncommon",
+    "type": "sticker",
+    "color": "standard",
+    "cp_value": 15,
+    "base_buy_price": 12,
+    "image_url": "https://cdn.meme-economy.app/items/pepe_dj_standard_0003.png"
+  },
+  {
+    "key": "pepe_dj_gold_0003",
+    "name": "Pepe DJ Gold #0003",
+    "rarity": "uncommon",
+    "type": "sticker",
+    "color": "gold",
+    "cp_value": 15,
+    "base_buy_price": 18,
+    "image_url": "https://cdn.meme-economy.app/items/pepe_dj_gold_0003.png"
+  },
+  {
+    "key": "doge_neon_standard_0001",
+    "name": "Doge Neon #0001",
+    "rarity": "uncommon",
+    "type": "sticker",
+    "color": "standard",
+    "cp_value": 15,
+    "base_buy_price": 12,
+    "image_url": "https://cdn.meme-economy.app/items/doge_neon_standard_0001.png"
+  },
+  {
+    "key": "doge_neon_gold_0001",
+    "name": "Doge Neon Gold #0001",
+    "rarity": "uncommon",
+    "type": "sticker",
+    "color": "gold",
+    "cp_value": 15,
+    "base_buy_price": 18,
+    "image_url": "https://cdn.meme-economy.app/items/doge_neon_gold_0001.png"
+  },
+  {
+    "key": "doge_neon_standard_0002",
+    "name": "Doge Neon #0002",
+    "rarity": "uncommon",
+    "type": "sticker",
+    "color": "standard",
+    "cp_value": 15,
+    "base_buy_price": 12,
+    "image_url": "https://cdn.meme-economy.app/items/doge_neon_standard_0002.png"
+  },
+  {
+    "key": "doge_neon_gold_0002",
+    "name": "Doge Neon Gold #0002",
+    "rarity": "uncommon",
+    "type": "sticker",
+    "color": "gold",
+    "cp_value": 15,
+    "base_buy_price": 18,
+    "image_url": "https://cdn.meme-economy.app/items/doge_neon_gold_0002.png"
+  },
+  {
+    "key": "doge_neon_standard_0003",
+    "name": "Doge Neon #0003",
+    "rarity": "uncommon",
+    "type": "sticker",
+    "color": "standard",
+    "cp_value": 15,
+    "base_buy_price": 12,
+    "image_url": "https://cdn.meme-economy.app/items/doge_neon_standard_0003.png"
+  },
+  {
+    "key": "doge_neon_gold_0003",
+    "name": "Doge Neon Gold #0003",
+    "rarity": "uncommon",
+    "type": "sticker",
+    "color": "gold",
+    "cp_value": 15,
+    "base_buy_price": 18,
+    "image_url": "https://cdn.meme-economy.app/items/doge_neon_gold_0003.png"
+  },
+  {
+    "key": "doge_gamer_standard_0001",
+    "name": "Doge Gamer #0001",
+    "rarity": "uncommon",
+    "type": "sticker",
+    "color": "standard",
+    "cp_value": 15,
+    "base_buy_price": 12,
+    "image_url": "https://cdn.meme-economy.app/items/doge_gamer_standard_0001.png"
+  },
+  {
+    "key": "doge_gamer_gold_0001",
+    "name": "Doge Gamer Gold #0001",
+    "rarity": "uncommon",
+    "type": "sticker",
+    "color": "gold",
+    "cp_value": 15,
+    "base_buy_price": 18,
+    "image_url": "https://cdn.meme-economy.app/items/doge_gamer_gold_0001.png"
+  },
+  {
+    "key": "doge_gamer_standard_0002",
+    "name": "Doge Gamer #0002",
+    "rarity": "uncommon",
+    "type": "sticker",
+    "color": "standard",
+    "cp_value": 15,
+    "base_buy_price": 12,
+    "image_url": "https://cdn.meme-economy.app/items/doge_gamer_standard_0002.png"
+  },
+  {
+    "key": "doge_gamer_gold_0002",
+    "name": "Doge Gamer Gold #0002",
+    "rarity": "uncommon",
+    "type": "sticker",
+    "color": "gold",
+    "cp_value": 15,
+    "base_buy_price": 18,
+    "image_url": "https://cdn.meme-economy.app/items/doge_gamer_gold_0002.png"
+  },
+  {
+    "key": "doge_gamer_standard_0003",
+    "name": "Doge Gamer #0003",
+    "rarity": "uncommon",
+    "type": "sticker",
+    "color": "standard",
+    "cp_value": 15,
+    "base_buy_price": 12,
+    "image_url": "https://cdn.meme-economy.app/items/doge_gamer_standard_0003.png"
+  },
+  {
+    "key": "doge_gamer_gold_0003",
+    "name": "Doge Gamer Gold #0003",
+    "rarity": "uncommon",
+    "type": "sticker",
+    "color": "gold",
+    "cp_value": 15,
+    "base_buy_price": 18,
+    "image_url": "https://cdn.meme-economy.app/items/doge_gamer_gold_0003.png"
+  },
+  {
+    "key": "wojak_neon_standard_0001",
+    "name": "Wojak Neon #0001",
+    "rarity": "uncommon",
+    "type": "sticker",
+    "color": "standard",
+    "cp_value": 15,
+    "base_buy_price": 12,
+    "image_url": "https://cdn.meme-economy.app/items/wojak_neon_standard_0001.png"
+  },
+  {
+    "key": "wojak_neon_gold_0001",
+    "name": "Wojak Neon Gold #0001",
+    "rarity": "uncommon",
+    "type": "sticker",
+    "color": "gold",
+    "cp_value": 15,
+    "base_buy_price": 18,
+    "image_url": "https://cdn.meme-economy.app/items/wojak_neon_gold_0001.png"
+  },
+  {
+    "key": "wojak_neon_standard_0002",
+    "name": "Wojak Neon #0002",
+    "rarity": "uncommon",
+    "type": "sticker",
+    "color": "standard",
+    "cp_value": 15,
+    "base_buy_price": 12,
+    "image_url": "https://cdn.meme-economy.app/items/wojak_neon_standard_0002.png"
+  },
+  {
+    "key": "wojak_neon_gold_0002",
+    "name": "Wojak Neon Gold #0002",
+    "rarity": "uncommon",
+    "type": "sticker",
+    "color": "gold",
+    "cp_value": 15,
+    "base_buy_price": 18,
+    "image_url": "https://cdn.meme-economy.app/items/wojak_neon_gold_0002.png"
+  },
+  {
+    "key": "wojak_neon_standard_0003",
+    "name": "Wojak Neon #0003",
+    "rarity": "uncommon",
+    "type": "sticker",
+    "color": "standard",
+    "cp_value": 15,
+    "base_buy_price": 12,
+    "image_url": "https://cdn.meme-economy.app/items/wojak_neon_standard_0003.png"
+  },
+  {
+    "key": "wojak_neon_gold_0003",
+    "name": "Wojak Neon Gold #0003",
+    "rarity": "uncommon",
+    "type": "sticker",
+    "color": "gold",
+    "cp_value": 15,
+    "base_buy_price": 18,
+    "image_url": "https://cdn.meme-economy.app/items/wojak_neon_gold_0003.png"
+  },
+  {
+    "key": "wojak_sunset_standard_0001",
+    "name": "Wojak Sunset #0001",
+    "rarity": "uncommon",
+    "type": "sticker",
+    "color": "standard",
+    "cp_value": 15,
+    "base_buy_price": 12,
+    "image_url": "https://cdn.meme-economy.app/items/wojak_sunset_standard_0001.png"
+  },
+  {
+    "key": "wojak_sunset_gold_0001",
+    "name": "Wojak Sunset Gold #0001",
+    "rarity": "uncommon",
+    "type": "sticker",
+    "color": "gold",
+    "cp_value": 15,
+    "base_buy_price": 18,
+    "image_url": "https://cdn.meme-economy.app/items/wojak_sunset_gold_0001.png"
+  },
+  {
+    "key": "wojak_sunset_standard_0002",
+    "name": "Wojak Sunset #0002",
+    "rarity": "uncommon",
+    "type": "sticker",
+    "color": "standard",
+    "cp_value": 15,
+    "base_buy_price": 12,
+    "image_url": "https://cdn.meme-economy.app/items/wojak_sunset_standard_0002.png"
+  },
+  {
+    "key": "wojak_sunset_gold_0002",
+    "name": "Wojak Sunset Gold #0002",
+    "rarity": "uncommon",
+    "type": "sticker",
+    "color": "gold",
+    "cp_value": 15,
+    "base_buy_price": 18,
+    "image_url": "https://cdn.meme-economy.app/items/wojak_sunset_gold_0002.png"
+  },
+  {
+    "key": "wojak_sunset_standard_0003",
+    "name": "Wojak Sunset #0003",
+    "rarity": "uncommon",
+    "type": "sticker",
+    "color": "standard",
+    "cp_value": 15,
+    "base_buy_price": 12,
+    "image_url": "https://cdn.meme-economy.app/items/wojak_sunset_standard_0003.png"
+  },
+  {
+    "key": "wojak_sunset_gold_0003",
+    "name": "Wojak Sunset Gold #0003",
+    "rarity": "uncommon",
+    "type": "sticker",
+    "color": "gold",
+    "cp_value": 15,
+    "base_buy_price": 18,
+    "image_url": "https://cdn.meme-economy.app/items/wojak_sunset_gold_0003.png"
+  },
+  {
+    "key": "skibidi_remix_standard_0001",
+    "name": "Skibidi Remix #0001",
+    "rarity": "uncommon",
+    "type": "sticker",
+    "color": "standard",
+    "cp_value": 15,
+    "base_buy_price": 12,
+    "image_url": "https://cdn.meme-economy.app/items/skibidi_remix_standard_0001.png"
+  },
+  {
+    "key": "skibidi_remix_gold_0001",
+    "name": "Skibidi Remix Gold #0001",
+    "rarity": "uncommon",
+    "type": "sticker",
+    "color": "gold",
+    "cp_value": 15,
+    "base_buy_price": 18,
+    "image_url": "https://cdn.meme-economy.app/items/skibidi_remix_gold_0001.png"
+  },
+  {
+    "key": "skibidi_remix_standard_0002",
+    "name": "Skibidi Remix #0002",
+    "rarity": "uncommon",
+    "type": "sticker",
+    "color": "standard",
+    "cp_value": 15,
+    "base_buy_price": 12,
+    "image_url": "https://cdn.meme-economy.app/items/skibidi_remix_standard_0002.png"
+  },
+  {
+    "key": "skibidi_remix_gold_0002",
+    "name": "Skibidi Remix Gold #0002",
+    "rarity": "uncommon",
+    "type": "sticker",
+    "color": "gold",
+    "cp_value": 15,
+    "base_buy_price": 18,
+    "image_url": "https://cdn.meme-economy.app/items/skibidi_remix_gold_0002.png"
+  },
+  {
+    "key": "skibidi_remix_standard_0003",
+    "name": "Skibidi Remix #0003",
+    "rarity": "uncommon",
+    "type": "sticker",
+    "color": "standard",
+    "cp_value": 15,
+    "base_buy_price": 12,
+    "image_url": "https://cdn.meme-economy.app/items/skibidi_remix_standard_0003.png"
+  },
+  {
+    "key": "skibidi_remix_gold_0003",
+    "name": "Skibidi Remix Gold #0003",
+    "rarity": "uncommon",
+    "type": "sticker",
+    "color": "gold",
+    "cp_value": 15,
+    "base_buy_price": 18,
+    "image_url": "https://cdn.meme-economy.app/items/skibidi_remix_gold_0003.png"
+  },
+  {
+    "key": "sigma_neon_standard_0001",
+    "name": "Sigma Neon #0001",
+    "rarity": "uncommon",
+    "type": "sticker",
+    "color": "standard",
+    "cp_value": 15,
+    "base_buy_price": 12,
+    "image_url": "https://cdn.meme-economy.app/items/sigma_neon_standard_0001.png"
+  },
+  {
+    "key": "sigma_neon_gold_0001",
+    "name": "Sigma Neon Gold #0001",
+    "rarity": "uncommon",
+    "type": "sticker",
+    "color": "gold",
+    "cp_value": 15,
+    "base_buy_price": 18,
+    "image_url": "https://cdn.meme-economy.app/items/sigma_neon_gold_0001.png"
+  },
+  {
+    "key": "sigma_neon_standard_0002",
+    "name": "Sigma Neon #0002",
+    "rarity": "uncommon",
+    "type": "sticker",
+    "color": "standard",
+    "cp_value": 15,
+    "base_buy_price": 12,
+    "image_url": "https://cdn.meme-economy.app/items/sigma_neon_standard_0002.png"
+  },
+  {
+    "key": "sigma_neon_gold_0002",
+    "name": "Sigma Neon Gold #0002",
+    "rarity": "uncommon",
+    "type": "sticker",
+    "color": "gold",
+    "cp_value": 15,
+    "base_buy_price": 18,
+    "image_url": "https://cdn.meme-economy.app/items/sigma_neon_gold_0002.png"
+  },
+  {
+    "key": "sigma_neon_standard_0003",
+    "name": "Sigma Neon #0003",
+    "rarity": "uncommon",
+    "type": "sticker",
+    "color": "standard",
+    "cp_value": 15,
+    "base_buy_price": 12,
+    "image_url": "https://cdn.meme-economy.app/items/sigma_neon_standard_0003.png"
+  },
+  {
+    "key": "sigma_neon_gold_0003",
+    "name": "Sigma Neon Gold #0003",
+    "rarity": "uncommon",
+    "type": "sticker",
+    "color": "gold",
+    "cp_value": 15,
+    "base_buy_price": 18,
+    "image_url": "https://cdn.meme-economy.app/items/sigma_neon_gold_0003.png"
+  },
+  {
+    "key": "trollface_chrome_standard_0001",
+    "name": "Trollface Chrome #0001",
+    "rarity": "uncommon",
+    "type": "sticker",
+    "color": "standard",
+    "cp_value": 15,
+    "base_buy_price": 12,
+    "image_url": "https://cdn.meme-economy.app/items/trollface_chrome_standard_0001.png"
+  },
+  {
+    "key": "trollface_chrome_gold_0001",
+    "name": "Trollface Chrome Gold #0001",
+    "rarity": "uncommon",
+    "type": "sticker",
+    "color": "gold",
+    "cp_value": 15,
+    "base_buy_price": 18,
+    "image_url": "https://cdn.meme-economy.app/items/trollface_chrome_gold_0001.png"
+  },
+  {
+    "key": "trollface_chrome_standard_0002",
+    "name": "Trollface Chrome #0002",
+    "rarity": "uncommon",
+    "type": "sticker",
+    "color": "standard",
+    "cp_value": 15,
+    "base_buy_price": 12,
+    "image_url": "https://cdn.meme-economy.app/items/trollface_chrome_standard_0002.png"
+  },
+  {
+    "key": "trollface_chrome_gold_0002",
+    "name": "Trollface Chrome Gold #0002",
+    "rarity": "uncommon",
+    "type": "sticker",
+    "color": "gold",
+    "cp_value": 15,
+    "base_buy_price": 18,
+    "image_url": "https://cdn.meme-economy.app/items/trollface_chrome_gold_0002.png"
+  },
+  {
+    "key": "trollface_chrome_standard_0003",
+    "name": "Trollface Chrome #0003",
+    "rarity": "uncommon",
+    "type": "sticker",
+    "color": "standard",
+    "cp_value": 15,
+    "base_buy_price": 12,
+    "image_url": "https://cdn.meme-economy.app/items/trollface_chrome_standard_0003.png"
+  },
+  {
+    "key": "trollface_chrome_gold_0003",
+    "name": "Trollface Chrome Gold #0003",
+    "rarity": "uncommon",
+    "type": "sticker",
+    "color": "gold",
+    "cp_value": 15,
+    "base_buy_price": 18,
+    "image_url": "https://cdn.meme-economy.app/items/trollface_chrome_gold_0003.png"
+  },
+  {
+    "key": "rage_guy_chrome_standard_0001",
+    "name": "Rage Guy Chrome #0001",
+    "rarity": "uncommon",
+    "type": "sticker",
+    "color": "standard",
+    "cp_value": 15,
+    "base_buy_price": 12,
+    "image_url": "https://cdn.meme-economy.app/items/rage_guy_chrome_standard_0001.png"
+  },
+  {
+    "key": "rage_guy_chrome_gold_0001",
+    "name": "Rage Guy Chrome Gold #0001",
+    "rarity": "uncommon",
+    "type": "sticker",
+    "color": "gold",
+    "cp_value": 15,
+    "base_buy_price": 18,
+    "image_url": "https://cdn.meme-economy.app/items/rage_guy_chrome_gold_0001.png"
+  },
+  {
+    "key": "rage_guy_chrome_standard_0002",
+    "name": "Rage Guy Chrome #0002",
+    "rarity": "uncommon",
+    "type": "sticker",
+    "color": "standard",
+    "cp_value": 15,
+    "base_buy_price": 12,
+    "image_url": "https://cdn.meme-economy.app/items/rage_guy_chrome_standard_0002.png"
+  },
+  {
+    "key": "rage_guy_chrome_gold_0002",
+    "name": "Rage Guy Chrome Gold #0002",
+    "rarity": "uncommon",
+    "type": "sticker",
+    "color": "gold",
+    "cp_value": 15,
+    "base_buy_price": 18,
+    "image_url": "https://cdn.meme-economy.app/items/rage_guy_chrome_gold_0002.png"
+  },
+  {
+    "key": "rage_guy_chrome_standard_0003",
+    "name": "Rage Guy Chrome #0003",
+    "rarity": "uncommon",
+    "type": "sticker",
+    "color": "standard",
+    "cp_value": 15,
+    "base_buy_price": 12,
+    "image_url": "https://cdn.meme-economy.app/items/rage_guy_chrome_standard_0003.png"
+  },
+  {
+    "key": "rage_guy_chrome_gold_0003",
+    "name": "Rage Guy Chrome Gold #0003",
+    "rarity": "uncommon",
+    "type": "sticker",
+    "color": "gold",
+    "cp_value": 15,
+    "base_buy_price": 18,
+    "image_url": "https://cdn.meme-economy.app/items/rage_guy_chrome_gold_0003.png"
+  },
+  {
+    "key": "npc_streamer_standard_0001",
+    "name": "NPC Streamer #0001",
+    "rarity": "uncommon",
+    "type": "sticker",
+    "color": "standard",
+    "cp_value": 15,
+    "base_buy_price": 12,
+    "image_url": "https://cdn.meme-economy.app/items/npc_streamer_standard_0001.png"
+  },
+  {
+    "key": "npc_streamer_gold_0001",
+    "name": "NPC Streamer Gold #0001",
+    "rarity": "uncommon",
+    "type": "sticker",
+    "color": "gold",
+    "cp_value": 15,
+    "base_buy_price": 18,
+    "image_url": "https://cdn.meme-economy.app/items/npc_streamer_gold_0001.png"
+  },
+  {
+    "key": "npc_streamer_standard_0002",
+    "name": "NPC Streamer #0002",
+    "rarity": "uncommon",
+    "type": "sticker",
+    "color": "standard",
+    "cp_value": 15,
+    "base_buy_price": 12,
+    "image_url": "https://cdn.meme-economy.app/items/npc_streamer_standard_0002.png"
+  },
+  {
+    "key": "npc_streamer_gold_0002",
+    "name": "NPC Streamer Gold #0002",
+    "rarity": "uncommon",
+    "type": "sticker",
+    "color": "gold",
+    "cp_value": 15,
+    "base_buy_price": 18,
+    "image_url": "https://cdn.meme-economy.app/items/npc_streamer_gold_0002.png"
+  },
+  {
+    "key": "npc_streamer_standard_0003",
+    "name": "NPC Streamer #0003",
+    "rarity": "uncommon",
+    "type": "sticker",
+    "color": "standard",
+    "cp_value": 15,
+    "base_buy_price": 12,
+    "image_url": "https://cdn.meme-economy.app/items/npc_streamer_standard_0003.png"
+  },
+  {
+    "key": "npc_streamer_gold_0003",
+    "name": "NPC Streamer Gold #0003",
+    "rarity": "uncommon",
+    "type": "sticker",
+    "color": "gold",
+    "cp_value": 15,
+    "base_buy_price": 18,
+    "image_url": "https://cdn.meme-economy.app/items/npc_streamer_gold_0003.png"
+  },
+  {
+    "key": "meme_astronaut_standard_0001",
+    "name": "Meme Astronaut #0001",
+    "rarity": "uncommon",
+    "type": "sticker",
+    "color": "standard",
+    "cp_value": 15,
+    "base_buy_price": 12,
+    "image_url": "https://cdn.meme-economy.app/items/meme_astronaut_standard_0001.png"
+  },
+  {
+    "key": "meme_astronaut_gold_0001",
+    "name": "Meme Astronaut Gold #0001",
+    "rarity": "uncommon",
+    "type": "sticker",
+    "color": "gold",
+    "cp_value": 15,
+    "base_buy_price": 18,
+    "image_url": "https://cdn.meme-economy.app/items/meme_astronaut_gold_0001.png"
+  },
+  {
+    "key": "meme_astronaut_standard_0002",
+    "name": "Meme Astronaut #0002",
+    "rarity": "uncommon",
+    "type": "sticker",
+    "color": "standard",
+    "cp_value": 15,
+    "base_buy_price": 12,
+    "image_url": "https://cdn.meme-economy.app/items/meme_astronaut_standard_0002.png"
+  },
+  {
+    "key": "meme_astronaut_gold_0002",
+    "name": "Meme Astronaut Gold #0002",
+    "rarity": "uncommon",
+    "type": "sticker",
+    "color": "gold",
+    "cp_value": 15,
+    "base_buy_price": 18,
+    "image_url": "https://cdn.meme-economy.app/items/meme_astronaut_gold_0002.png"
+  },
+  {
+    "key": "meme_astronaut_standard_0003",
+    "name": "Meme Astronaut #0003",
+    "rarity": "uncommon",
+    "type": "sticker",
+    "color": "standard",
+    "cp_value": 15,
+    "base_buy_price": 12,
+    "image_url": "https://cdn.meme-economy.app/items/meme_astronaut_standard_0003.png"
+  },
+  {
+    "key": "meme_astronaut_gold_0003",
+    "name": "Meme Astronaut Gold #0003",
+    "rarity": "uncommon",
+    "type": "sticker",
+    "color": "gold",
+    "cp_value": 15,
+    "base_buy_price": 18,
+    "image_url": "https://cdn.meme-economy.app/items/meme_astronaut_gold_0003.png"
+  },
+  {
+    "key": "cat_dj_standard_0001",
+    "name": "Cat DJ #0001",
+    "rarity": "uncommon",
+    "type": "sticker",
+    "color": "standard",
+    "cp_value": 15,
+    "base_buy_price": 12,
+    "image_url": "https://cdn.meme-economy.app/items/cat_dj_standard_0001.png"
+  },
+  {
+    "key": "cat_dj_gold_0001",
+    "name": "Cat DJ Gold #0001",
+    "rarity": "uncommon",
+    "type": "sticker",
+    "color": "gold",
+    "cp_value": 15,
+    "base_buy_price": 18,
+    "image_url": "https://cdn.meme-economy.app/items/cat_dj_gold_0001.png"
+  },
+  {
+    "key": "cat_dj_standard_0002",
+    "name": "Cat DJ #0002",
+    "rarity": "uncommon",
+    "type": "sticker",
+    "color": "standard",
+    "cp_value": 15,
+    "base_buy_price": 12,
+    "image_url": "https://cdn.meme-economy.app/items/cat_dj_standard_0002.png"
+  },
+  {
+    "key": "cat_dj_gold_0002",
+    "name": "Cat DJ Gold #0002",
+    "rarity": "uncommon",
+    "type": "sticker",
+    "color": "gold",
+    "cp_value": 15,
+    "base_buy_price": 18,
+    "image_url": "https://cdn.meme-economy.app/items/cat_dj_gold_0002.png"
+  },
+  {
+    "key": "cat_dj_standard_0003",
+    "name": "Cat DJ #0003",
+    "rarity": "uncommon",
+    "type": "sticker",
+    "color": "standard",
+    "cp_value": 15,
+    "base_buy_price": 12,
+    "image_url": "https://cdn.meme-economy.app/items/cat_dj_standard_0003.png"
+  },
+  {
+    "key": "cat_dj_gold_0003",
+    "name": "Cat DJ Gold #0003",
+    "rarity": "uncommon",
+    "type": "sticker",
+    "color": "gold",
+    "cp_value": 15,
+    "base_buy_price": 18,
+    "image_url": "https://cdn.meme-economy.app/items/cat_dj_gold_0003.png"
+  },
+  {
+    "key": "doge_laser_standard_0001",
+    "name": "Doge Laser #0001",
+    "rarity": "uncommon",
+    "type": "sticker",
+    "color": "standard",
+    "cp_value": 15,
+    "base_buy_price": 12,
+    "image_url": "https://cdn.meme-economy.app/items/doge_laser_standard_0001.png"
+  },
+  {
+    "key": "doge_laser_gold_0001",
+    "name": "Doge Laser Gold #0001",
+    "rarity": "uncommon",
+    "type": "sticker",
+    "color": "gold",
+    "cp_value": 15,
+    "base_buy_price": 18,
+    "image_url": "https://cdn.meme-economy.app/items/doge_laser_gold_0001.png"
+  },
+  {
+    "key": "doge_laser_standard_0002",
+    "name": "Doge Laser #0002",
+    "rarity": "uncommon",
+    "type": "sticker",
+    "color": "standard",
+    "cp_value": 15,
+    "base_buy_price": 12,
+    "image_url": "https://cdn.meme-economy.app/items/doge_laser_standard_0002.png"
+  },
+  {
+    "key": "doge_laser_gold_0002",
+    "name": "Doge Laser Gold #0002",
+    "rarity": "uncommon",
+    "type": "sticker",
+    "color": "gold",
+    "cp_value": 15,
+    "base_buy_price": 18,
+    "image_url": "https://cdn.meme-economy.app/items/doge_laser_gold_0002.png"
+  },
+  {
+    "key": "doge_laser_standard_0003",
+    "name": "Doge Laser #0003",
+    "rarity": "uncommon",
+    "type": "sticker",
+    "color": "standard",
+    "cp_value": 15,
+    "base_buy_price": 12,
+    "image_url": "https://cdn.meme-economy.app/items/doge_laser_standard_0003.png"
+  },
+  {
+    "key": "doge_laser_gold_0003",
+    "name": "Doge Laser Gold #0003",
+    "rarity": "uncommon",
+    "type": "sticker",
+    "color": "gold",
+    "cp_value": 15,
+    "base_buy_price": 18,
+    "image_url": "https://cdn.meme-economy.app/items/doge_laser_gold_0003.png"
+  },
+  {
+    "key": "pepe_hoodie_standard_0001",
+    "name": "Pepe Hoodie #0001",
+    "rarity": "uncommon",
+    "type": "sticker",
+    "color": "standard",
+    "cp_value": 15,
+    "base_buy_price": 12,
+    "image_url": "https://cdn.meme-economy.app/items/pepe_hoodie_standard_0001.png"
+  },
+  {
+    "key": "pepe_hoodie_gold_0001",
+    "name": "Pepe Hoodie Gold #0001",
+    "rarity": "uncommon",
+    "type": "sticker",
+    "color": "gold",
+    "cp_value": 15,
+    "base_buy_price": 18,
+    "image_url": "https://cdn.meme-economy.app/items/pepe_hoodie_gold_0001.png"
+  },
+  {
+    "key": "pepe_hoodie_standard_0002",
+    "name": "Pepe Hoodie #0002",
+    "rarity": "uncommon",
+    "type": "sticker",
+    "color": "standard",
+    "cp_value": 15,
+    "base_buy_price": 12,
+    "image_url": "https://cdn.meme-economy.app/items/pepe_hoodie_standard_0002.png"
+  },
+  {
+    "key": "pepe_hoodie_gold_0002",
+    "name": "Pepe Hoodie Gold #0002",
+    "rarity": "uncommon",
+    "type": "sticker",
+    "color": "gold",
+    "cp_value": 15,
+    "base_buy_price": 18,
+    "image_url": "https://cdn.meme-economy.app/items/pepe_hoodie_gold_0002.png"
+  },
+  {
+    "key": "pepe_hoodie_standard_0003",
+    "name": "Pepe Hoodie #0003",
+    "rarity": "uncommon",
+    "type": "sticker",
+    "color": "standard",
+    "cp_value": 15,
+    "base_buy_price": 12,
+    "image_url": "https://cdn.meme-economy.app/items/pepe_hoodie_standard_0003.png"
+  },
+  {
+    "key": "pepe_hoodie_gold_0003",
+    "name": "Pepe Hoodie Gold #0003",
+    "rarity": "uncommon",
+    "type": "sticker",
+    "color": "gold",
+    "cp_value": 15,
+    "base_buy_price": 18,
+    "image_url": "https://cdn.meme-economy.app/items/pepe_hoodie_gold_0003.png"
+  },
+  {
+    "key": "wojak_hoodie_standard_0001",
+    "name": "Wojak Hoodie #0001",
+    "rarity": "uncommon",
+    "type": "sticker",
+    "color": "standard",
+    "cp_value": 15,
+    "base_buy_price": 12,
+    "image_url": "https://cdn.meme-economy.app/items/wojak_hoodie_standard_0001.png"
+  },
+  {
+    "key": "wojak_hoodie_gold_0001",
+    "name": "Wojak Hoodie Gold #0001",
+    "rarity": "uncommon",
+    "type": "sticker",
+    "color": "gold",
+    "cp_value": 15,
+    "base_buy_price": 18,
+    "image_url": "https://cdn.meme-economy.app/items/wojak_hoodie_gold_0001.png"
+  },
+  {
+    "key": "wojak_hoodie_standard_0002",
+    "name": "Wojak Hoodie #0002",
+    "rarity": "uncommon",
+    "type": "sticker",
+    "color": "standard",
+    "cp_value": 15,
+    "base_buy_price": 12,
+    "image_url": "https://cdn.meme-economy.app/items/wojak_hoodie_standard_0002.png"
+  },
+  {
+    "key": "wojak_hoodie_gold_0002",
+    "name": "Wojak Hoodie Gold #0002",
+    "rarity": "uncommon",
+    "type": "sticker",
+    "color": "gold",
+    "cp_value": 15,
+    "base_buy_price": 18,
+    "image_url": "https://cdn.meme-economy.app/items/wojak_hoodie_gold_0002.png"
+  },
+  {
+    "key": "wojak_hoodie_standard_0003",
+    "name": "Wojak Hoodie #0003",
+    "rarity": "uncommon",
+    "type": "sticker",
+    "color": "standard",
+    "cp_value": 15,
+    "base_buy_price": 12,
+    "image_url": "https://cdn.meme-economy.app/items/wojak_hoodie_standard_0003.png"
+  },
+  {
+    "key": "wojak_hoodie_gold_0003",
+    "name": "Wojak Hoodie Gold #0003",
+    "rarity": "uncommon",
+    "type": "sticker",
+    "color": "gold",
+    "cp_value": 15,
+    "base_buy_price": 18,
+    "image_url": "https://cdn.meme-economy.app/items/wojak_hoodie_gold_0003.png"
+  },
+  {
+    "key": "frog_pixel_standard_0001",
+    "name": "Frog Pixel #0001",
+    "rarity": "uncommon",
+    "type": "sticker",
+    "color": "standard",
+    "cp_value": 15,
+    "base_buy_price": 12,
+    "image_url": "https://cdn.meme-economy.app/items/frog_pixel_standard_0001.png"
+  },
+  {
+    "key": "frog_pixel_gold_0001",
+    "name": "Frog Pixel Gold #0001",
+    "rarity": "uncommon",
+    "type": "sticker",
+    "color": "gold",
+    "cp_value": 15,
+    "base_buy_price": 18,
+    "image_url": "https://cdn.meme-economy.app/items/frog_pixel_gold_0001.png"
+  },
+  {
+    "key": "frog_pixel_standard_0002",
+    "name": "Frog Pixel #0002",
+    "rarity": "uncommon",
+    "type": "sticker",
+    "color": "standard",
+    "cp_value": 15,
+    "base_buy_price": 12,
+    "image_url": "https://cdn.meme-economy.app/items/frog_pixel_standard_0002.png"
+  },
+  {
+    "key": "frog_pixel_gold_0002",
+    "name": "Frog Pixel Gold #0002",
+    "rarity": "uncommon",
+    "type": "sticker",
+    "color": "gold",
+    "cp_value": 15,
+    "base_buy_price": 18,
+    "image_url": "https://cdn.meme-economy.app/items/frog_pixel_gold_0002.png"
+  },
+  {
+    "key": "frog_pixel_standard_0003",
+    "name": "Frog Pixel #0003",
+    "rarity": "uncommon",
+    "type": "sticker",
+    "color": "standard",
+    "cp_value": 15,
+    "base_buy_price": 12,
+    "image_url": "https://cdn.meme-economy.app/items/frog_pixel_standard_0003.png"
+  },
+  {
+    "key": "frog_pixel_gold_0003",
+    "name": "Frog Pixel Gold #0003",
+    "rarity": "uncommon",
+    "type": "sticker",
+    "color": "gold",
+    "cp_value": 15,
+    "base_buy_price": 18,
+    "image_url": "https://cdn.meme-economy.app/items/frog_pixel_gold_0003.png"
+  },
+  {
+    "key": "meme_chef_standard_0001",
+    "name": "Meme Chef #0001",
+    "rarity": "uncommon",
+    "type": "sticker",
+    "color": "standard",
+    "cp_value": 15,
+    "base_buy_price": 12,
+    "image_url": "https://cdn.meme-economy.app/items/meme_chef_standard_0001.png"
+  },
+  {
+    "key": "meme_chef_gold_0001",
+    "name": "Meme Chef Gold #0001",
+    "rarity": "uncommon",
+    "type": "sticker",
+    "color": "gold",
+    "cp_value": 15,
+    "base_buy_price": 18,
+    "image_url": "https://cdn.meme-economy.app/items/meme_chef_gold_0001.png"
+  },
+  {
+    "key": "meme_chef_standard_0002",
+    "name": "Meme Chef #0002",
+    "rarity": "uncommon",
+    "type": "sticker",
+    "color": "standard",
+    "cp_value": 15,
+    "base_buy_price": 12,
+    "image_url": "https://cdn.meme-economy.app/items/meme_chef_standard_0002.png"
+  },
+  {
+    "key": "meme_chef_gold_0002",
+    "name": "Meme Chef Gold #0002",
+    "rarity": "uncommon",
+    "type": "sticker",
+    "color": "gold",
+    "cp_value": 15,
+    "base_buy_price": 18,
+    "image_url": "https://cdn.meme-economy.app/items/meme_chef_gold_0002.png"
+  },
+  {
+    "key": "meme_chef_standard_0003",
+    "name": "Meme Chef #0003",
+    "rarity": "uncommon",
+    "type": "sticker",
+    "color": "standard",
+    "cp_value": 15,
+    "base_buy_price": 12,
+    "image_url": "https://cdn.meme-economy.app/items/meme_chef_standard_0003.png"
+  },
+  {
+    "key": "meme_chef_gold_0003",
+    "name": "Meme Chef Gold #0003",
+    "rarity": "uncommon",
+    "type": "sticker",
+    "color": "gold",
+    "cp_value": 15,
+    "base_buy_price": 18,
+    "image_url": "https://cdn.meme-economy.app/items/meme_chef_gold_0003.png"
+  },
+  {
+    "key": "doge_sushi_standard_0001",
+    "name": "Doge Sushi #0001",
+    "rarity": "uncommon",
+    "type": "sticker",
+    "color": "standard",
+    "cp_value": 15,
+    "base_buy_price": 12,
+    "image_url": "https://cdn.meme-economy.app/items/doge_sushi_standard_0001.png"
+  },
+  {
+    "key": "doge_sushi_gold_0001",
+    "name": "Doge Sushi Gold #0001",
+    "rarity": "uncommon",
+    "type": "sticker",
+    "color": "gold",
+    "cp_value": 15,
+    "base_buy_price": 18,
+    "image_url": "https://cdn.meme-economy.app/items/doge_sushi_gold_0001.png"
+  },
+  {
+    "key": "doge_sushi_standard_0002",
+    "name": "Doge Sushi #0002",
+    "rarity": "uncommon",
+    "type": "sticker",
+    "color": "standard",
+    "cp_value": 15,
+    "base_buy_price": 12,
+    "image_url": "https://cdn.meme-economy.app/items/doge_sushi_standard_0002.png"
+  },
+  {
+    "key": "doge_sushi_gold_0002",
+    "name": "Doge Sushi Gold #0002",
+    "rarity": "uncommon",
+    "type": "sticker",
+    "color": "gold",
+    "cp_value": 15,
+    "base_buy_price": 18,
+    "image_url": "https://cdn.meme-economy.app/items/doge_sushi_gold_0002.png"
+  },
+  {
+    "key": "doge_sushi_standard_0003",
+    "name": "Doge Sushi #0003",
+    "rarity": "uncommon",
+    "type": "sticker",
+    "color": "standard",
+    "cp_value": 15,
+    "base_buy_price": 12,
+    "image_url": "https://cdn.meme-economy.app/items/doge_sushi_standard_0003.png"
+  },
+  {
+    "key": "doge_sushi_gold_0003",
+    "name": "Doge Sushi Gold #0003",
+    "rarity": "uncommon",
+    "type": "sticker",
+    "color": "gold",
+    "cp_value": 15,
+    "base_buy_price": 18,
+    "image_url": "https://cdn.meme-economy.app/items/doge_sushi_gold_0003.png"
+  },
+  {
+    "key": "pepe_street_standard_0001",
+    "name": "Pepe Street #0001",
+    "rarity": "uncommon",
+    "type": "sticker",
+    "color": "standard",
+    "cp_value": 15,
+    "base_buy_price": 12,
+    "image_url": "https://cdn.meme-economy.app/items/pepe_street_standard_0001.png"
+  },
+  {
+    "key": "pepe_street_gold_0001",
+    "name": "Pepe Street Gold #0001",
+    "rarity": "uncommon",
+    "type": "sticker",
+    "color": "gold",
+    "cp_value": 15,
+    "base_buy_price": 18,
+    "image_url": "https://cdn.meme-economy.app/items/pepe_street_gold_0001.png"
+  },
+  {
+    "key": "pepe_street_standard_0002",
+    "name": "Pepe Street #0002",
+    "rarity": "uncommon",
+    "type": "sticker",
+    "color": "standard",
+    "cp_value": 15,
+    "base_buy_price": 12,
+    "image_url": "https://cdn.meme-economy.app/items/pepe_street_standard_0002.png"
+  },
+  {
+    "key": "pepe_street_gold_0002",
+    "name": "Pepe Street Gold #0002",
+    "rarity": "uncommon",
+    "type": "sticker",
+    "color": "gold",
+    "cp_value": 15,
+    "base_buy_price": 18,
+    "image_url": "https://cdn.meme-economy.app/items/pepe_street_gold_0002.png"
+  },
+  {
+    "key": "pepe_street_standard_0003",
+    "name": "Pepe Street #0003",
+    "rarity": "uncommon",
+    "type": "sticker",
+    "color": "standard",
+    "cp_value": 15,
+    "base_buy_price": 12,
+    "image_url": "https://cdn.meme-economy.app/items/pepe_street_standard_0003.png"
+  },
+  {
+    "key": "pepe_street_gold_0003",
+    "name": "Pepe Street Gold #0003",
+    "rarity": "uncommon",
+    "type": "sticker",
+    "color": "gold",
+    "cp_value": 15,
+    "base_buy_price": 18,
+    "image_url": "https://cdn.meme-economy.app/items/pepe_street_gold_0003.png"
+  },
+  {
+    "key": "pepe_samurai_standard_0001",
+    "name": "Pepe Samurai #0001",
+    "rarity": "rare",
+    "type": "gif",
+    "color": "standard",
+    "cp_value": 40,
+    "base_buy_price": 45,
+    "image_url": "https://cdn.meme-economy.app/items/pepe_samurai_standard_0001.png"
+  },
+  {
+    "key": "pepe_samurai_gold_0001",
+    "name": "Pepe Samurai Gold #0001",
+    "rarity": "rare",
+    "type": "gif",
+    "color": "gold",
+    "cp_value": 40,
+    "base_buy_price": 67,
+    "image_url": "https://cdn.meme-economy.app/items/pepe_samurai_gold_0001.png"
+  },
+  {
+    "key": "pepe_samurai_standard_0002",
+    "name": "Pepe Samurai #0002",
+    "rarity": "rare",
+    "type": "gif",
+    "color": "standard",
+    "cp_value": 40,
+    "base_buy_price": 45,
+    "image_url": "https://cdn.meme-economy.app/items/pepe_samurai_standard_0002.png"
+  },
+  {
+    "key": "pepe_samurai_gold_0002",
+    "name": "Pepe Samurai Gold #0002",
+    "rarity": "rare",
+    "type": "gif",
+    "color": "gold",
+    "cp_value": 40,
+    "base_buy_price": 67,
+    "image_url": "https://cdn.meme-economy.app/items/pepe_samurai_gold_0002.png"
+  },
+  {
+    "key": "pepe_samurai_standard_0003",
+    "name": "Pepe Samurai #0003",
+    "rarity": "rare",
+    "type": "gif",
+    "color": "standard",
+    "cp_value": 40,
+    "base_buy_price": 45,
+    "image_url": "https://cdn.meme-economy.app/items/pepe_samurai_standard_0003.png"
+  },
+  {
+    "key": "pepe_samurai_gold_0003",
+    "name": "Pepe Samurai Gold #0003",
+    "rarity": "rare",
+    "type": "gif",
+    "color": "gold",
+    "cp_value": 40,
+    "base_buy_price": 67,
+    "image_url": "https://cdn.meme-economy.app/items/pepe_samurai_gold_0003.png"
+  },
+  {
+    "key": "pepe_cyberpunk_standard_0001",
+    "name": "Pepe Cyberpunk #0001",
+    "rarity": "rare",
+    "type": "gif",
+    "color": "standard",
+    "cp_value": 40,
+    "base_buy_price": 45,
+    "image_url": "https://cdn.meme-economy.app/items/pepe_cyberpunk_standard_0001.png"
+  },
+  {
+    "key": "pepe_cyberpunk_gold_0001",
+    "name": "Pepe Cyberpunk Gold #0001",
+    "rarity": "rare",
+    "type": "gif",
+    "color": "gold",
+    "cp_value": 40,
+    "base_buy_price": 67,
+    "image_url": "https://cdn.meme-economy.app/items/pepe_cyberpunk_gold_0001.png"
+  },
+  {
+    "key": "pepe_cyberpunk_standard_0002",
+    "name": "Pepe Cyberpunk #0002",
+    "rarity": "rare",
+    "type": "gif",
+    "color": "standard",
+    "cp_value": 40,
+    "base_buy_price": 45,
+    "image_url": "https://cdn.meme-economy.app/items/pepe_cyberpunk_standard_0002.png"
+  },
+  {
+    "key": "pepe_cyberpunk_gold_0002",
+    "name": "Pepe Cyberpunk Gold #0002",
+    "rarity": "rare",
+    "type": "gif",
+    "color": "gold",
+    "cp_value": 40,
+    "base_buy_price": 67,
+    "image_url": "https://cdn.meme-economy.app/items/pepe_cyberpunk_gold_0002.png"
+  },
+  {
+    "key": "pepe_cyberpunk_standard_0003",
+    "name": "Pepe Cyberpunk #0003",
+    "rarity": "rare",
+    "type": "gif",
+    "color": "standard",
+    "cp_value": 40,
+    "base_buy_price": 45,
+    "image_url": "https://cdn.meme-economy.app/items/pepe_cyberpunk_standard_0003.png"
+  },
+  {
+    "key": "pepe_cyberpunk_gold_0003",
+    "name": "Pepe Cyberpunk Gold #0003",
+    "rarity": "rare",
+    "type": "gif",
+    "color": "gold",
+    "cp_value": 40,
+    "base_buy_price": 67,
+    "image_url": "https://cdn.meme-economy.app/items/pepe_cyberpunk_gold_0003.png"
+  },
+  {
+    "key": "doge_cyberpunk_standard_0001",
+    "name": "Doge Cyberpunk #0001",
+    "rarity": "rare",
+    "type": "gif",
+    "color": "standard",
+    "cp_value": 40,
+    "base_buy_price": 45,
+    "image_url": "https://cdn.meme-economy.app/items/doge_cyberpunk_standard_0001.png"
+  },
+  {
+    "key": "doge_cyberpunk_gold_0001",
+    "name": "Doge Cyberpunk Gold #0001",
+    "rarity": "rare",
+    "type": "gif",
+    "color": "gold",
+    "cp_value": 40,
+    "base_buy_price": 67,
+    "image_url": "https://cdn.meme-economy.app/items/doge_cyberpunk_gold_0001.png"
+  },
+  {
+    "key": "doge_cyberpunk_standard_0002",
+    "name": "Doge Cyberpunk #0002",
+    "rarity": "rare",
+    "type": "gif",
+    "color": "standard",
+    "cp_value": 40,
+    "base_buy_price": 45,
+    "image_url": "https://cdn.meme-economy.app/items/doge_cyberpunk_standard_0002.png"
+  },
+  {
+    "key": "doge_cyberpunk_gold_0002",
+    "name": "Doge Cyberpunk Gold #0002",
+    "rarity": "rare",
+    "type": "gif",
+    "color": "gold",
+    "cp_value": 40,
+    "base_buy_price": 67,
+    "image_url": "https://cdn.meme-economy.app/items/doge_cyberpunk_gold_0002.png"
+  },
+  {
+    "key": "doge_cyberpunk_standard_0003",
+    "name": "Doge Cyberpunk #0003",
+    "rarity": "rare",
+    "type": "gif",
+    "color": "standard",
+    "cp_value": 40,
+    "base_buy_price": 45,
+    "image_url": "https://cdn.meme-economy.app/items/doge_cyberpunk_standard_0003.png"
+  },
+  {
+    "key": "doge_cyberpunk_gold_0003",
+    "name": "Doge Cyberpunk Gold #0003",
+    "rarity": "rare",
+    "type": "gif",
+    "color": "gold",
+    "cp_value": 40,
+    "base_buy_price": 67,
+    "image_url": "https://cdn.meme-economy.app/items/doge_cyberpunk_gold_0003.png"
+  },
+  {
+    "key": "wojak_broker_standard_0001",
+    "name": "Wojak Broker #0001",
+    "rarity": "rare",
+    "type": "gif",
+    "color": "standard",
+    "cp_value": 40,
+    "base_buy_price": 45,
+    "image_url": "https://cdn.meme-economy.app/items/wojak_broker_standard_0001.png"
+  },
+  {
+    "key": "wojak_broker_gold_0001",
+    "name": "Wojak Broker Gold #0001",
+    "rarity": "rare",
+    "type": "gif",
+    "color": "gold",
+    "cp_value": 40,
+    "base_buy_price": 67,
+    "image_url": "https://cdn.meme-economy.app/items/wojak_broker_gold_0001.png"
+  },
+  {
+    "key": "wojak_broker_standard_0002",
+    "name": "Wojak Broker #0002",
+    "rarity": "rare",
+    "type": "gif",
+    "color": "standard",
+    "cp_value": 40,
+    "base_buy_price": 45,
+    "image_url": "https://cdn.meme-economy.app/items/wojak_broker_standard_0002.png"
+  },
+  {
+    "key": "wojak_broker_gold_0002",
+    "name": "Wojak Broker Gold #0002",
+    "rarity": "rare",
+    "type": "gif",
+    "color": "gold",
+    "cp_value": 40,
+    "base_buy_price": 67,
+    "image_url": "https://cdn.meme-economy.app/items/wojak_broker_gold_0002.png"
+  },
+  {
+    "key": "wojak_broker_standard_0003",
+    "name": "Wojak Broker #0003",
+    "rarity": "rare",
+    "type": "gif",
+    "color": "standard",
+    "cp_value": 40,
+    "base_buy_price": 45,
+    "image_url": "https://cdn.meme-economy.app/items/wojak_broker_standard_0003.png"
+  },
+  {
+    "key": "wojak_broker_gold_0003",
+    "name": "Wojak Broker Gold #0003",
+    "rarity": "rare",
+    "type": "gif",
+    "color": "gold",
+    "cp_value": 40,
+    "base_buy_price": 67,
+    "image_url": "https://cdn.meme-economy.app/items/wojak_broker_gold_0003.png"
+  },
+  {
+    "key": "wojak_hacker_standard_0001",
+    "name": "Wojak Hacker #0001",
+    "rarity": "rare",
+    "type": "gif",
+    "color": "standard",
+    "cp_value": 40,
+    "base_buy_price": 45,
+    "image_url": "https://cdn.meme-economy.app/items/wojak_hacker_standard_0001.png"
+  },
+  {
+    "key": "wojak_hacker_gold_0001",
+    "name": "Wojak Hacker Gold #0001",
+    "rarity": "rare",
+    "type": "gif",
+    "color": "gold",
+    "cp_value": 40,
+    "base_buy_price": 67,
+    "image_url": "https://cdn.meme-economy.app/items/wojak_hacker_gold_0001.png"
+  },
+  {
+    "key": "wojak_hacker_standard_0002",
+    "name": "Wojak Hacker #0002",
+    "rarity": "rare",
+    "type": "gif",
+    "color": "standard",
+    "cp_value": 40,
+    "base_buy_price": 45,
+    "image_url": "https://cdn.meme-economy.app/items/wojak_hacker_standard_0002.png"
+  },
+  {
+    "key": "wojak_hacker_gold_0002",
+    "name": "Wojak Hacker Gold #0002",
+    "rarity": "rare",
+    "type": "gif",
+    "color": "gold",
+    "cp_value": 40,
+    "base_buy_price": 67,
+    "image_url": "https://cdn.meme-economy.app/items/wojak_hacker_gold_0002.png"
+  },
+  {
+    "key": "wojak_hacker_standard_0003",
+    "name": "Wojak Hacker #0003",
+    "rarity": "rare",
+    "type": "gif",
+    "color": "standard",
+    "cp_value": 40,
+    "base_buy_price": 45,
+    "image_url": "https://cdn.meme-economy.app/items/wojak_hacker_standard_0003.png"
+  },
+  {
+    "key": "wojak_hacker_gold_0003",
+    "name": "Wojak Hacker Gold #0003",
+    "rarity": "rare",
+    "type": "gif",
+    "color": "gold",
+    "cp_value": 40,
+    "base_buy_price": 67,
+    "image_url": "https://cdn.meme-economy.app/items/wojak_hacker_gold_0003.png"
+  },
+  {
+    "key": "skibidi_prime_standard_0001",
+    "name": "Skibidi Prime #0001",
+    "rarity": "rare",
+    "type": "gif",
+    "color": "standard",
+    "cp_value": 40,
+    "base_buy_price": 45,
+    "image_url": "https://cdn.meme-economy.app/items/skibidi_prime_standard_0001.png"
+  },
+  {
+    "key": "skibidi_prime_gold_0001",
+    "name": "Skibidi Prime Gold #0001",
+    "rarity": "rare",
+    "type": "gif",
+    "color": "gold",
+    "cp_value": 40,
+    "base_buy_price": 67,
+    "image_url": "https://cdn.meme-economy.app/items/skibidi_prime_gold_0001.png"
+  },
+  {
+    "key": "skibidi_prime_standard_0002",
+    "name": "Skibidi Prime #0002",
+    "rarity": "rare",
+    "type": "gif",
+    "color": "standard",
+    "cp_value": 40,
+    "base_buy_price": 45,
+    "image_url": "https://cdn.meme-economy.app/items/skibidi_prime_standard_0002.png"
+  },
+  {
+    "key": "skibidi_prime_gold_0002",
+    "name": "Skibidi Prime Gold #0002",
+    "rarity": "rare",
+    "type": "gif",
+    "color": "gold",
+    "cp_value": 40,
+    "base_buy_price": 67,
+    "image_url": "https://cdn.meme-economy.app/items/skibidi_prime_gold_0002.png"
+  },
+  {
+    "key": "skibidi_prime_standard_0003",
+    "name": "Skibidi Prime #0003",
+    "rarity": "rare",
+    "type": "gif",
+    "color": "standard",
+    "cp_value": 40,
+    "base_buy_price": 45,
+    "image_url": "https://cdn.meme-economy.app/items/skibidi_prime_standard_0003.png"
+  },
+  {
+    "key": "skibidi_prime_gold_0003",
+    "name": "Skibidi Prime Gold #0003",
+    "rarity": "rare",
+    "type": "gif",
+    "color": "gold",
+    "cp_value": 40,
+    "base_buy_price": 67,
+    "image_url": "https://cdn.meme-economy.app/items/skibidi_prime_gold_0003.png"
+  },
+  {
+    "key": "sigma_runner_standard_0001",
+    "name": "Sigma Runner #0001",
+    "rarity": "rare",
+    "type": "gif",
+    "color": "standard",
+    "cp_value": 40,
+    "base_buy_price": 45,
+    "image_url": "https://cdn.meme-economy.app/items/sigma_runner_standard_0001.png"
+  },
+  {
+    "key": "sigma_runner_gold_0001",
+    "name": "Sigma Runner Gold #0001",
+    "rarity": "rare",
+    "type": "gif",
+    "color": "gold",
+    "cp_value": 40,
+    "base_buy_price": 67,
+    "image_url": "https://cdn.meme-economy.app/items/sigma_runner_gold_0001.png"
+  },
+  {
+    "key": "sigma_runner_standard_0002",
+    "name": "Sigma Runner #0002",
+    "rarity": "rare",
+    "type": "gif",
+    "color": "standard",
+    "cp_value": 40,
+    "base_buy_price": 45,
+    "image_url": "https://cdn.meme-economy.app/items/sigma_runner_standard_0002.png"
+  },
+  {
+    "key": "sigma_runner_gold_0002",
+    "name": "Sigma Runner Gold #0002",
+    "rarity": "rare",
+    "type": "gif",
+    "color": "gold",
+    "cp_value": 40,
+    "base_buy_price": 67,
+    "image_url": "https://cdn.meme-economy.app/items/sigma_runner_gold_0002.png"
+  },
+  {
+    "key": "sigma_runner_standard_0003",
+    "name": "Sigma Runner #0003",
+    "rarity": "rare",
+    "type": "gif",
+    "color": "standard",
+    "cp_value": 40,
+    "base_buy_price": 45,
+    "image_url": "https://cdn.meme-economy.app/items/sigma_runner_standard_0003.png"
+  },
+  {
+    "key": "sigma_runner_gold_0003",
+    "name": "Sigma Runner Gold #0003",
+    "rarity": "rare",
+    "type": "gif",
+    "color": "gold",
+    "cp_value": 40,
+    "base_buy_price": 67,
+    "image_url": "https://cdn.meme-economy.app/items/sigma_runner_gold_0003.png"
+  },
+  {
+    "key": "trollface_vintage_standard_0001",
+    "name": "Trollface Vintage #0001",
+    "rarity": "rare",
+    "type": "gif",
+    "color": "standard",
+    "cp_value": 40,
+    "base_buy_price": 45,
+    "image_url": "https://cdn.meme-economy.app/items/trollface_vintage_standard_0001.png"
+  },
+  {
+    "key": "trollface_vintage_gold_0001",
+    "name": "Trollface Vintage Gold #0001",
+    "rarity": "rare",
+    "type": "gif",
+    "color": "gold",
+    "cp_value": 40,
+    "base_buy_price": 67,
+    "image_url": "https://cdn.meme-economy.app/items/trollface_vintage_gold_0001.png"
+  },
+  {
+    "key": "trollface_vintage_standard_0002",
+    "name": "Trollface Vintage #0002",
+    "rarity": "rare",
+    "type": "gif",
+    "color": "standard",
+    "cp_value": 40,
+    "base_buy_price": 45,
+    "image_url": "https://cdn.meme-economy.app/items/trollface_vintage_standard_0002.png"
+  },
+  {
+    "key": "trollface_vintage_gold_0002",
+    "name": "Trollface Vintage Gold #0002",
+    "rarity": "rare",
+    "type": "gif",
+    "color": "gold",
+    "cp_value": 40,
+    "base_buy_price": 67,
+    "image_url": "https://cdn.meme-economy.app/items/trollface_vintage_gold_0002.png"
+  },
+  {
+    "key": "trollface_vintage_standard_0003",
+    "name": "Trollface Vintage #0003",
+    "rarity": "rare",
+    "type": "gif",
+    "color": "standard",
+    "cp_value": 40,
+    "base_buy_price": 45,
+    "image_url": "https://cdn.meme-economy.app/items/trollface_vintage_standard_0003.png"
+  },
+  {
+    "key": "trollface_vintage_gold_0003",
+    "name": "Trollface Vintage Gold #0003",
+    "rarity": "rare",
+    "type": "gif",
+    "color": "gold",
+    "cp_value": 40,
+    "base_buy_price": 67,
+    "image_url": "https://cdn.meme-economy.app/items/trollface_vintage_gold_0003.png"
+  },
+  {
+    "key": "rage_guy_vintage_standard_0001",
+    "name": "Rage Guy Vintage #0001",
+    "rarity": "rare",
+    "type": "gif",
+    "color": "standard",
+    "cp_value": 40,
+    "base_buy_price": 45,
+    "image_url": "https://cdn.meme-economy.app/items/rage_guy_vintage_standard_0001.png"
+  },
+  {
+    "key": "rage_guy_vintage_gold_0001",
+    "name": "Rage Guy Vintage Gold #0001",
+    "rarity": "rare",
+    "type": "gif",
+    "color": "gold",
+    "cp_value": 40,
+    "base_buy_price": 67,
+    "image_url": "https://cdn.meme-economy.app/items/rage_guy_vintage_gold_0001.png"
+  },
+  {
+    "key": "rage_guy_vintage_standard_0002",
+    "name": "Rage Guy Vintage #0002",
+    "rarity": "rare",
+    "type": "gif",
+    "color": "standard",
+    "cp_value": 40,
+    "base_buy_price": 45,
+    "image_url": "https://cdn.meme-economy.app/items/rage_guy_vintage_standard_0002.png"
+  },
+  {
+    "key": "rage_guy_vintage_gold_0002",
+    "name": "Rage Guy Vintage Gold #0002",
+    "rarity": "rare",
+    "type": "gif",
+    "color": "gold",
+    "cp_value": 40,
+    "base_buy_price": 67,
+    "image_url": "https://cdn.meme-economy.app/items/rage_guy_vintage_gold_0002.png"
+  },
+  {
+    "key": "rage_guy_vintage_standard_0003",
+    "name": "Rage Guy Vintage #0003",
+    "rarity": "rare",
+    "type": "gif",
+    "color": "standard",
+    "cp_value": 40,
+    "base_buy_price": 45,
+    "image_url": "https://cdn.meme-economy.app/items/rage_guy_vintage_standard_0003.png"
+  },
+  {
+    "key": "rage_guy_vintage_gold_0003",
+    "name": "Rage Guy Vintage Gold #0003",
+    "rarity": "rare",
+    "type": "gif",
+    "color": "gold",
+    "cp_value": 40,
+    "base_buy_price": 67,
+    "image_url": "https://cdn.meme-economy.app/items/rage_guy_vintage_gold_0003.png"
+  },
+  {
+    "key": "npc_gold_standard_0001",
+    "name": "NPC Gold #0001",
+    "rarity": "rare",
+    "type": "gif",
+    "color": "standard",
+    "cp_value": 40,
+    "base_buy_price": 45,
+    "image_url": "https://cdn.meme-economy.app/items/npc_gold_standard_0001.png"
+  },
+  {
+    "key": "npc_gold_gold_0001",
+    "name": "NPC Gold Gold #0001",
+    "rarity": "rare",
+    "type": "gif",
+    "color": "gold",
+    "cp_value": 40,
+    "base_buy_price": 67,
+    "image_url": "https://cdn.meme-economy.app/items/npc_gold_gold_0001.png"
+  },
+  {
+    "key": "npc_gold_standard_0002",
+    "name": "NPC Gold #0002",
+    "rarity": "rare",
+    "type": "gif",
+    "color": "standard",
+    "cp_value": 40,
+    "base_buy_price": 45,
+    "image_url": "https://cdn.meme-economy.app/items/npc_gold_standard_0002.png"
+  },
+  {
+    "key": "npc_gold_gold_0002",
+    "name": "NPC Gold Gold #0002",
+    "rarity": "rare",
+    "type": "gif",
+    "color": "gold",
+    "cp_value": 40,
+    "base_buy_price": 67,
+    "image_url": "https://cdn.meme-economy.app/items/npc_gold_gold_0002.png"
+  },
+  {
+    "key": "npc_gold_standard_0003",
+    "name": "NPC Gold #0003",
+    "rarity": "rare",
+    "type": "gif",
+    "color": "standard",
+    "cp_value": 40,
+    "base_buy_price": 45,
+    "image_url": "https://cdn.meme-economy.app/items/npc_gold_standard_0003.png"
+  },
+  {
+    "key": "npc_gold_gold_0003",
+    "name": "NPC Gold Gold #0003",
+    "rarity": "rare",
+    "type": "gif",
+    "color": "gold",
+    "cp_value": 40,
+    "base_buy_price": 67,
+    "image_url": "https://cdn.meme-economy.app/items/npc_gold_gold_0003.png"
+  },
+  {
+    "key": "meme_navigator_standard_0001",
+    "name": "Meme Navigator #0001",
+    "rarity": "rare",
+    "type": "gif",
+    "color": "standard",
+    "cp_value": 40,
+    "base_buy_price": 45,
+    "image_url": "https://cdn.meme-economy.app/items/meme_navigator_standard_0001.png"
+  },
+  {
+    "key": "meme_navigator_gold_0001",
+    "name": "Meme Navigator Gold #0001",
+    "rarity": "rare",
+    "type": "gif",
+    "color": "gold",
+    "cp_value": 40,
+    "base_buy_price": 67,
+    "image_url": "https://cdn.meme-economy.app/items/meme_navigator_gold_0001.png"
+  },
+  {
+    "key": "meme_navigator_standard_0002",
+    "name": "Meme Navigator #0002",
+    "rarity": "rare",
+    "type": "gif",
+    "color": "standard",
+    "cp_value": 40,
+    "base_buy_price": 45,
+    "image_url": "https://cdn.meme-economy.app/items/meme_navigator_standard_0002.png"
+  },
+  {
+    "key": "meme_navigator_gold_0002",
+    "name": "Meme Navigator Gold #0002",
+    "rarity": "rare",
+    "type": "gif",
+    "color": "gold",
+    "cp_value": 40,
+    "base_buy_price": 67,
+    "image_url": "https://cdn.meme-economy.app/items/meme_navigator_gold_0002.png"
+  },
+  {
+    "key": "meme_navigator_standard_0003",
+    "name": "Meme Navigator #0003",
+    "rarity": "rare",
+    "type": "gif",
+    "color": "standard",
+    "cp_value": 40,
+    "base_buy_price": 45,
+    "image_url": "https://cdn.meme-economy.app/items/meme_navigator_standard_0003.png"
+  },
+  {
+    "key": "meme_navigator_gold_0003",
+    "name": "Meme Navigator Gold #0003",
+    "rarity": "rare",
+    "type": "gif",
+    "color": "gold",
+    "cp_value": 40,
+    "base_buy_price": 67,
+    "image_url": "https://cdn.meme-economy.app/items/meme_navigator_gold_0003.png"
+  },
+  {
+    "key": "doge_pilot_standard_0001",
+    "name": "Doge Pilot #0001",
+    "rarity": "rare",
+    "type": "gif",
+    "color": "standard",
+    "cp_value": 40,
+    "base_buy_price": 45,
+    "image_url": "https://cdn.meme-economy.app/items/doge_pilot_standard_0001.png"
+  },
+  {
+    "key": "doge_pilot_gold_0001",
+    "name": "Doge Pilot Gold #0001",
+    "rarity": "rare",
+    "type": "gif",
+    "color": "gold",
+    "cp_value": 40,
+    "base_buy_price": 67,
+    "image_url": "https://cdn.meme-economy.app/items/doge_pilot_gold_0001.png"
+  },
+  {
+    "key": "doge_pilot_standard_0002",
+    "name": "Doge Pilot #0002",
+    "rarity": "rare",
+    "type": "gif",
+    "color": "standard",
+    "cp_value": 40,
+    "base_buy_price": 45,
+    "image_url": "https://cdn.meme-economy.app/items/doge_pilot_standard_0002.png"
+  },
+  {
+    "key": "doge_pilot_gold_0002",
+    "name": "Doge Pilot Gold #0002",
+    "rarity": "rare",
+    "type": "gif",
+    "color": "gold",
+    "cp_value": 40,
+    "base_buy_price": 67,
+    "image_url": "https://cdn.meme-economy.app/items/doge_pilot_gold_0002.png"
+  },
+  {
+    "key": "doge_pilot_standard_0003",
+    "name": "Doge Pilot #0003",
+    "rarity": "rare",
+    "type": "gif",
+    "color": "standard",
+    "cp_value": 40,
+    "base_buy_price": 45,
+    "image_url": "https://cdn.meme-economy.app/items/doge_pilot_standard_0003.png"
+  },
+  {
+    "key": "doge_pilot_gold_0003",
+    "name": "Doge Pilot Gold #0003",
+    "rarity": "rare",
+    "type": "gif",
+    "color": "gold",
+    "cp_value": 40,
+    "base_buy_price": 67,
+    "image_url": "https://cdn.meme-economy.app/items/doge_pilot_gold_0003.png"
+  },
+  {
+    "key": "pepe_racer_standard_0001",
+    "name": "Pepe Racer #0001",
+    "rarity": "rare",
+    "type": "gif",
+    "color": "standard",
+    "cp_value": 40,
+    "base_buy_price": 45,
+    "image_url": "https://cdn.meme-economy.app/items/pepe_racer_standard_0001.png"
+  },
+  {
+    "key": "pepe_racer_gold_0001",
+    "name": "Pepe Racer Gold #0001",
+    "rarity": "rare",
+    "type": "gif",
+    "color": "gold",
+    "cp_value": 40,
+    "base_buy_price": 67,
+    "image_url": "https://cdn.meme-economy.app/items/pepe_racer_gold_0001.png"
+  },
+  {
+    "key": "pepe_racer_standard_0002",
+    "name": "Pepe Racer #0002",
+    "rarity": "rare",
+    "type": "gif",
+    "color": "standard",
+    "cp_value": 40,
+    "base_buy_price": 45,
+    "image_url": "https://cdn.meme-economy.app/items/pepe_racer_standard_0002.png"
+  },
+  {
+    "key": "pepe_racer_gold_0002",
+    "name": "Pepe Racer Gold #0002",
+    "rarity": "rare",
+    "type": "gif",
+    "color": "gold",
+    "cp_value": 40,
+    "base_buy_price": 67,
+    "image_url": "https://cdn.meme-economy.app/items/pepe_racer_gold_0002.png"
+  },
+  {
+    "key": "pepe_racer_standard_0003",
+    "name": "Pepe Racer #0003",
+    "rarity": "rare",
+    "type": "gif",
+    "color": "standard",
+    "cp_value": 40,
+    "base_buy_price": 45,
+    "image_url": "https://cdn.meme-economy.app/items/pepe_racer_standard_0003.png"
+  },
+  {
+    "key": "pepe_racer_gold_0003",
+    "name": "Pepe Racer Gold #0003",
+    "rarity": "rare",
+    "type": "gif",
+    "color": "gold",
+    "cp_value": 40,
+    "base_buy_price": 67,
+    "image_url": "https://cdn.meme-economy.app/items/pepe_racer_gold_0003.png"
+  },
+  {
+    "key": "wojak_captain_standard_0001",
+    "name": "Wojak Captain #0001",
+    "rarity": "rare",
+    "type": "gif",
+    "color": "standard",
+    "cp_value": 40,
+    "base_buy_price": 45,
+    "image_url": "https://cdn.meme-economy.app/items/wojak_captain_standard_0001.png"
+  },
+  {
+    "key": "wojak_captain_gold_0001",
+    "name": "Wojak Captain Gold #0001",
+    "rarity": "rare",
+    "type": "gif",
+    "color": "gold",
+    "cp_value": 40,
+    "base_buy_price": 67,
+    "image_url": "https://cdn.meme-economy.app/items/wojak_captain_gold_0001.png"
+  },
+  {
+    "key": "wojak_captain_standard_0002",
+    "name": "Wojak Captain #0002",
+    "rarity": "rare",
+    "type": "gif",
+    "color": "standard",
+    "cp_value": 40,
+    "base_buy_price": 45,
+    "image_url": "https://cdn.meme-economy.app/items/wojak_captain_standard_0002.png"
+  },
+  {
+    "key": "wojak_captain_gold_0002",
+    "name": "Wojak Captain Gold #0002",
+    "rarity": "rare",
+    "type": "gif",
+    "color": "gold",
+    "cp_value": 40,
+    "base_buy_price": 67,
+    "image_url": "https://cdn.meme-economy.app/items/wojak_captain_gold_0002.png"
+  },
+  {
+    "key": "wojak_captain_standard_0003",
+    "name": "Wojak Captain #0003",
+    "rarity": "rare",
+    "type": "gif",
+    "color": "standard",
+    "cp_value": 40,
+    "base_buy_price": 45,
+    "image_url": "https://cdn.meme-economy.app/items/wojak_captain_standard_0003.png"
+  },
+  {
+    "key": "wojak_captain_gold_0003",
+    "name": "Wojak Captain Gold #0003",
+    "rarity": "rare",
+    "type": "gif",
+    "color": "gold",
+    "cp_value": 40,
+    "base_buy_price": 67,
+    "image_url": "https://cdn.meme-economy.app/items/wojak_captain_gold_0003.png"
+  },
+  {
+    "key": "cat_space_standard_0001",
+    "name": "Cat Space #0001",
+    "rarity": "rare",
+    "type": "gif",
+    "color": "standard",
+    "cp_value": 40,
+    "base_buy_price": 45,
+    "image_url": "https://cdn.meme-economy.app/items/cat_space_standard_0001.png"
+  },
+  {
+    "key": "cat_space_gold_0001",
+    "name": "Cat Space Gold #0001",
+    "rarity": "rare",
+    "type": "gif",
+    "color": "gold",
+    "cp_value": 40,
+    "base_buy_price": 67,
+    "image_url": "https://cdn.meme-economy.app/items/cat_space_gold_0001.png"
+  },
+  {
+    "key": "cat_space_standard_0002",
+    "name": "Cat Space #0002",
+    "rarity": "rare",
+    "type": "gif",
+    "color": "standard",
+    "cp_value": 40,
+    "base_buy_price": 45,
+    "image_url": "https://cdn.meme-economy.app/items/cat_space_standard_0002.png"
+  },
+  {
+    "key": "cat_space_gold_0002",
+    "name": "Cat Space Gold #0002",
+    "rarity": "rare",
+    "type": "gif",
+    "color": "gold",
+    "cp_value": 40,
+    "base_buy_price": 67,
+    "image_url": "https://cdn.meme-economy.app/items/cat_space_gold_0002.png"
+  },
+  {
+    "key": "cat_space_standard_0003",
+    "name": "Cat Space #0003",
+    "rarity": "rare",
+    "type": "gif",
+    "color": "standard",
+    "cp_value": 40,
+    "base_buy_price": 45,
+    "image_url": "https://cdn.meme-economy.app/items/cat_space_standard_0003.png"
+  },
+  {
+    "key": "cat_space_gold_0003",
+    "name": "Cat Space Gold #0003",
+    "rarity": "rare",
+    "type": "gif",
+    "color": "gold",
+    "cp_value": 40,
+    "base_buy_price": 67,
+    "image_url": "https://cdn.meme-economy.app/items/cat_space_gold_0003.png"
+  },
+  {
+    "key": "pepe_hyperloop_standard_0001",
+    "name": "Pepe Hyperloop #0001",
+    "rarity": "epic",
+    "type": "gif",
+    "color": "standard",
+    "cp_value": 120,
+    "base_buy_price": 144,
+    "image_url": "https://cdn.meme-economy.app/items/pepe_hyperloop_standard_0001.png"
+  },
+  {
+    "key": "pepe_hyperloop_gold_0001",
+    "name": "Pepe Hyperloop Gold #0001",
+    "rarity": "epic",
+    "type": "gif",
+    "color": "gold",
+    "cp_value": 120,
+    "base_buy_price": 216,
+    "image_url": "https://cdn.meme-economy.app/items/pepe_hyperloop_gold_0001.png"
+  },
+  {
+    "key": "pepe_hyperloop_rainbow_0001",
+    "name": "Pepe Hyperloop Rainbow #0001",
+    "rarity": "epic",
+    "type": "gif",
+    "color": "rainbow",
+    "cp_value": 120,
+    "base_buy_price": 288,
+    "image_url": "https://cdn.meme-economy.app/items/pepe_hyperloop_rainbow_0001.png"
+  },
+  {
+    "key": "pepe_hyperloop_standard_0002",
+    "name": "Pepe Hyperloop #0002",
+    "rarity": "epic",
+    "type": "gif",
+    "color": "standard",
+    "cp_value": 120,
+    "base_buy_price": 144,
+    "image_url": "https://cdn.meme-economy.app/items/pepe_hyperloop_standard_0002.png"
+  },
+  {
+    "key": "pepe_hyperloop_gold_0002",
+    "name": "Pepe Hyperloop Gold #0002",
+    "rarity": "epic",
+    "type": "gif",
+    "color": "gold",
+    "cp_value": 120,
+    "base_buy_price": 216,
+    "image_url": "https://cdn.meme-economy.app/items/pepe_hyperloop_gold_0002.png"
+  },
+  {
+    "key": "pepe_hyperloop_rainbow_0002",
+    "name": "Pepe Hyperloop Rainbow #0002",
+    "rarity": "epic",
+    "type": "gif",
+    "color": "rainbow",
+    "cp_value": 120,
+    "base_buy_price": 288,
+    "image_url": "https://cdn.meme-economy.app/items/pepe_hyperloop_rainbow_0002.png"
+  },
+  {
+    "key": "doge_hyperdrive_standard_0001",
+    "name": "Doge Hyperdrive #0001",
+    "rarity": "epic",
+    "type": "gif",
+    "color": "standard",
+    "cp_value": 120,
+    "base_buy_price": 144,
+    "image_url": "https://cdn.meme-economy.app/items/doge_hyperdrive_standard_0001.png"
+  },
+  {
+    "key": "doge_hyperdrive_gold_0001",
+    "name": "Doge Hyperdrive Gold #0001",
+    "rarity": "epic",
+    "type": "gif",
+    "color": "gold",
+    "cp_value": 120,
+    "base_buy_price": 216,
+    "image_url": "https://cdn.meme-economy.app/items/doge_hyperdrive_gold_0001.png"
+  },
+  {
+    "key": "doge_hyperdrive_rainbow_0001",
+    "name": "Doge Hyperdrive Rainbow #0001",
+    "rarity": "epic",
+    "type": "gif",
+    "color": "rainbow",
+    "cp_value": 120,
+    "base_buy_price": 288,
+    "image_url": "https://cdn.meme-economy.app/items/doge_hyperdrive_rainbow_0001.png"
+  },
+  {
+    "key": "doge_hyperdrive_standard_0002",
+    "name": "Doge Hyperdrive #0002",
+    "rarity": "epic",
+    "type": "gif",
+    "color": "standard",
+    "cp_value": 120,
+    "base_buy_price": 144,
+    "image_url": "https://cdn.meme-economy.app/items/doge_hyperdrive_standard_0002.png"
+  },
+  {
+    "key": "doge_hyperdrive_gold_0002",
+    "name": "Doge Hyperdrive Gold #0002",
+    "rarity": "epic",
+    "type": "gif",
+    "color": "gold",
+    "cp_value": 120,
+    "base_buy_price": 216,
+    "image_url": "https://cdn.meme-economy.app/items/doge_hyperdrive_gold_0002.png"
+  },
+  {
+    "key": "doge_hyperdrive_rainbow_0002",
+    "name": "Doge Hyperdrive Rainbow #0002",
+    "rarity": "epic",
+    "type": "gif",
+    "color": "rainbow",
+    "cp_value": 120,
+    "base_buy_price": 288,
+    "image_url": "https://cdn.meme-economy.app/items/doge_hyperdrive_rainbow_0002.png"
+  },
+  {
+    "key": "wojak_stonks_standard_0001",
+    "name": "Wojak Stonks #0001",
+    "rarity": "epic",
+    "type": "gif",
+    "color": "standard",
+    "cp_value": 120,
+    "base_buy_price": 144,
+    "image_url": "https://cdn.meme-economy.app/items/wojak_stonks_standard_0001.png"
+  },
+  {
+    "key": "wojak_stonks_gold_0001",
+    "name": "Wojak Stonks Gold #0001",
+    "rarity": "epic",
+    "type": "gif",
+    "color": "gold",
+    "cp_value": 120,
+    "base_buy_price": 216,
+    "image_url": "https://cdn.meme-economy.app/items/wojak_stonks_gold_0001.png"
+  },
+  {
+    "key": "wojak_stonks_rainbow_0001",
+    "name": "Wojak Stonks Rainbow #0001",
+    "rarity": "epic",
+    "type": "gif",
+    "color": "rainbow",
+    "cp_value": 120,
+    "base_buy_price": 288,
+    "image_url": "https://cdn.meme-economy.app/items/wojak_stonks_rainbow_0001.png"
+  },
+  {
+    "key": "wojak_stonks_standard_0002",
+    "name": "Wojak Stonks #0002",
+    "rarity": "epic",
+    "type": "gif",
+    "color": "standard",
+    "cp_value": 120,
+    "base_buy_price": 144,
+    "image_url": "https://cdn.meme-economy.app/items/wojak_stonks_standard_0002.png"
+  },
+  {
+    "key": "wojak_stonks_gold_0002",
+    "name": "Wojak Stonks Gold #0002",
+    "rarity": "epic",
+    "type": "gif",
+    "color": "gold",
+    "cp_value": 120,
+    "base_buy_price": 216,
+    "image_url": "https://cdn.meme-economy.app/items/wojak_stonks_gold_0002.png"
+  },
+  {
+    "key": "wojak_stonks_rainbow_0002",
+    "name": "Wojak Stonks Rainbow #0002",
+    "rarity": "epic",
+    "type": "gif",
+    "color": "rainbow",
+    "cp_value": 120,
+    "base_buy_price": 288,
+    "image_url": "https://cdn.meme-economy.app/items/wojak_stonks_rainbow_0002.png"
+  },
+  {
+    "key": "skibidi_supreme_standard_0001",
+    "name": "Skibidi Supreme #0001",
+    "rarity": "epic",
+    "type": "gif",
+    "color": "standard",
+    "cp_value": 120,
+    "base_buy_price": 144,
+    "image_url": "https://cdn.meme-economy.app/items/skibidi_supreme_standard_0001.png"
+  },
+  {
+    "key": "skibidi_supreme_gold_0001",
+    "name": "Skibidi Supreme Gold #0001",
+    "rarity": "epic",
+    "type": "gif",
+    "color": "gold",
+    "cp_value": 120,
+    "base_buy_price": 216,
+    "image_url": "https://cdn.meme-economy.app/items/skibidi_supreme_gold_0001.png"
+  },
+  {
+    "key": "skibidi_supreme_rainbow_0001",
+    "name": "Skibidi Supreme Rainbow #0001",
+    "rarity": "epic",
+    "type": "gif",
+    "color": "rainbow",
+    "cp_value": 120,
+    "base_buy_price": 288,
+    "image_url": "https://cdn.meme-economy.app/items/skibidi_supreme_rainbow_0001.png"
+  },
+  {
+    "key": "skibidi_supreme_standard_0002",
+    "name": "Skibidi Supreme #0002",
+    "rarity": "epic",
+    "type": "gif",
+    "color": "standard",
+    "cp_value": 120,
+    "base_buy_price": 144,
+    "image_url": "https://cdn.meme-economy.app/items/skibidi_supreme_standard_0002.png"
+  },
+  {
+    "key": "skibidi_supreme_gold_0002",
+    "name": "Skibidi Supreme Gold #0002",
+    "rarity": "epic",
+    "type": "gif",
+    "color": "gold",
+    "cp_value": 120,
+    "base_buy_price": 216,
+    "image_url": "https://cdn.meme-economy.app/items/skibidi_supreme_gold_0002.png"
+  },
+  {
+    "key": "skibidi_supreme_rainbow_0002",
+    "name": "Skibidi Supreme Rainbow #0002",
+    "rarity": "epic",
+    "type": "gif",
+    "color": "rainbow",
+    "cp_value": 120,
+    "base_buy_price": 288,
+    "image_url": "https://cdn.meme-economy.app/items/skibidi_supreme_rainbow_0002.png"
+  },
+  {
+    "key": "sigma_burst_standard_0001",
+    "name": "Sigma Burst #0001",
+    "rarity": "epic",
+    "type": "gif",
+    "color": "standard",
+    "cp_value": 120,
+    "base_buy_price": 144,
+    "image_url": "https://cdn.meme-economy.app/items/sigma_burst_standard_0001.png"
+  },
+  {
+    "key": "sigma_burst_gold_0001",
+    "name": "Sigma Burst Gold #0001",
+    "rarity": "epic",
+    "type": "gif",
+    "color": "gold",
+    "cp_value": 120,
+    "base_buy_price": 216,
+    "image_url": "https://cdn.meme-economy.app/items/sigma_burst_gold_0001.png"
+  },
+  {
+    "key": "sigma_burst_rainbow_0001",
+    "name": "Sigma Burst Rainbow #0001",
+    "rarity": "epic",
+    "type": "gif",
+    "color": "rainbow",
+    "cp_value": 120,
+    "base_buy_price": 288,
+    "image_url": "https://cdn.meme-economy.app/items/sigma_burst_rainbow_0001.png"
+  },
+  {
+    "key": "sigma_burst_standard_0002",
+    "name": "Sigma Burst #0002",
+    "rarity": "epic",
+    "type": "gif",
+    "color": "standard",
+    "cp_value": 120,
+    "base_buy_price": 144,
+    "image_url": "https://cdn.meme-economy.app/items/sigma_burst_standard_0002.png"
+  },
+  {
+    "key": "sigma_burst_gold_0002",
+    "name": "Sigma Burst Gold #0002",
+    "rarity": "epic",
+    "type": "gif",
+    "color": "gold",
+    "cp_value": 120,
+    "base_buy_price": 216,
+    "image_url": "https://cdn.meme-economy.app/items/sigma_burst_gold_0002.png"
+  },
+  {
+    "key": "sigma_burst_rainbow_0002",
+    "name": "Sigma Burst Rainbow #0002",
+    "rarity": "epic",
+    "type": "gif",
+    "color": "rainbow",
+    "cp_value": 120,
+    "base_buy_price": 288,
+    "image_url": "https://cdn.meme-economy.app/items/sigma_burst_rainbow_0002.png"
+  },
+  {
+    "key": "trollface_fire_standard_0001",
+    "name": "Trollface Fire #0001",
+    "rarity": "epic",
+    "type": "gif",
+    "color": "standard",
+    "cp_value": 120,
+    "base_buy_price": 144,
+    "image_url": "https://cdn.meme-economy.app/items/trollface_fire_standard_0001.png"
+  },
+  {
+    "key": "trollface_fire_gold_0001",
+    "name": "Trollface Fire Gold #0001",
+    "rarity": "epic",
+    "type": "gif",
+    "color": "gold",
+    "cp_value": 120,
+    "base_buy_price": 216,
+    "image_url": "https://cdn.meme-economy.app/items/trollface_fire_gold_0001.png"
+  },
+  {
+    "key": "trollface_fire_rainbow_0001",
+    "name": "Trollface Fire Rainbow #0001",
+    "rarity": "epic",
+    "type": "gif",
+    "color": "rainbow",
+    "cp_value": 120,
+    "base_buy_price": 288,
+    "image_url": "https://cdn.meme-economy.app/items/trollface_fire_rainbow_0001.png"
+  },
+  {
+    "key": "trollface_fire_standard_0002",
+    "name": "Trollface Fire #0002",
+    "rarity": "epic",
+    "type": "gif",
+    "color": "standard",
+    "cp_value": 120,
+    "base_buy_price": 144,
+    "image_url": "https://cdn.meme-economy.app/items/trollface_fire_standard_0002.png"
+  },
+  {
+    "key": "trollface_fire_gold_0002",
+    "name": "Trollface Fire Gold #0002",
+    "rarity": "epic",
+    "type": "gif",
+    "color": "gold",
+    "cp_value": 120,
+    "base_buy_price": 216,
+    "image_url": "https://cdn.meme-economy.app/items/trollface_fire_gold_0002.png"
+  },
+  {
+    "key": "trollface_fire_rainbow_0002",
+    "name": "Trollface Fire Rainbow #0002",
+    "rarity": "epic",
+    "type": "gif",
+    "color": "rainbow",
+    "cp_value": 120,
+    "base_buy_price": 288,
+    "image_url": "https://cdn.meme-economy.app/items/trollface_fire_rainbow_0002.png"
+  },
+  {
+    "key": "doge_volcano_standard_0001",
+    "name": "Doge Volcano #0001",
+    "rarity": "epic",
+    "type": "gif",
+    "color": "standard",
+    "cp_value": 120,
+    "base_buy_price": 144,
+    "image_url": "https://cdn.meme-economy.app/items/doge_volcano_standard_0001.png"
+  },
+  {
+    "key": "doge_volcano_gold_0001",
+    "name": "Doge Volcano Gold #0001",
+    "rarity": "epic",
+    "type": "gif",
+    "color": "gold",
+    "cp_value": 120,
+    "base_buy_price": 216,
+    "image_url": "https://cdn.meme-economy.app/items/doge_volcano_gold_0001.png"
+  },
+  {
+    "key": "doge_volcano_rainbow_0001",
+    "name": "Doge Volcano Rainbow #0001",
+    "rarity": "epic",
+    "type": "gif",
+    "color": "rainbow",
+    "cp_value": 120,
+    "base_buy_price": 288,
+    "image_url": "https://cdn.meme-economy.app/items/doge_volcano_rainbow_0001.png"
+  },
+  {
+    "key": "doge_volcano_standard_0002",
+    "name": "Doge Volcano #0002",
+    "rarity": "epic",
+    "type": "gif",
+    "color": "standard",
+    "cp_value": 120,
+    "base_buy_price": 144,
+    "image_url": "https://cdn.meme-economy.app/items/doge_volcano_standard_0002.png"
+  },
+  {
+    "key": "doge_volcano_gold_0002",
+    "name": "Doge Volcano Gold #0002",
+    "rarity": "epic",
+    "type": "gif",
+    "color": "gold",
+    "cp_value": 120,
+    "base_buy_price": 216,
+    "image_url": "https://cdn.meme-economy.app/items/doge_volcano_gold_0002.png"
+  },
+  {
+    "key": "doge_volcano_rainbow_0002",
+    "name": "Doge Volcano Rainbow #0002",
+    "rarity": "epic",
+    "type": "gif",
+    "color": "rainbow",
+    "cp_value": 120,
+    "base_buy_price": 288,
+    "image_url": "https://cdn.meme-economy.app/items/doge_volcano_rainbow_0002.png"
+  },
+  {
+    "key": "pepe_galaxy_standard_0001",
+    "name": "Pepe Galaxy #0001",
+    "rarity": "epic",
+    "type": "gif",
+    "color": "standard",
+    "cp_value": 120,
+    "base_buy_price": 144,
+    "image_url": "https://cdn.meme-economy.app/items/pepe_galaxy_standard_0001.png"
+  },
+  {
+    "key": "pepe_galaxy_gold_0001",
+    "name": "Pepe Galaxy Gold #0001",
+    "rarity": "epic",
+    "type": "gif",
+    "color": "gold",
+    "cp_value": 120,
+    "base_buy_price": 216,
+    "image_url": "https://cdn.meme-economy.app/items/pepe_galaxy_gold_0001.png"
+  },
+  {
+    "key": "pepe_galaxy_rainbow_0001",
+    "name": "Pepe Galaxy Rainbow #0001",
+    "rarity": "epic",
+    "type": "gif",
+    "color": "rainbow",
+    "cp_value": 120,
+    "base_buy_price": 288,
+    "image_url": "https://cdn.meme-economy.app/items/pepe_galaxy_rainbow_0001.png"
+  },
+  {
+    "key": "pepe_galaxy_standard_0002",
+    "name": "Pepe Galaxy #0002",
+    "rarity": "epic",
+    "type": "gif",
+    "color": "standard",
+    "cp_value": 120,
+    "base_buy_price": 144,
+    "image_url": "https://cdn.meme-economy.app/items/pepe_galaxy_standard_0002.png"
+  },
+  {
+    "key": "pepe_galaxy_gold_0002",
+    "name": "Pepe Galaxy Gold #0002",
+    "rarity": "epic",
+    "type": "gif",
+    "color": "gold",
+    "cp_value": 120,
+    "base_buy_price": 216,
+    "image_url": "https://cdn.meme-economy.app/items/pepe_galaxy_gold_0002.png"
+  },
+  {
+    "key": "pepe_galaxy_rainbow_0002",
+    "name": "Pepe Galaxy Rainbow #0002",
+    "rarity": "epic",
+    "type": "gif",
+    "color": "rainbow",
+    "cp_value": 120,
+    "base_buy_price": 288,
+    "image_url": "https://cdn.meme-economy.app/items/pepe_galaxy_rainbow_0002.png"
+  },
+  {
+    "key": "wojak_eclipse_standard_0001",
+    "name": "Wojak Eclipse #0001",
+    "rarity": "epic",
+    "type": "gif",
+    "color": "standard",
+    "cp_value": 120,
+    "base_buy_price": 144,
+    "image_url": "https://cdn.meme-economy.app/items/wojak_eclipse_standard_0001.png"
+  },
+  {
+    "key": "wojak_eclipse_gold_0001",
+    "name": "Wojak Eclipse Gold #0001",
+    "rarity": "epic",
+    "type": "gif",
+    "color": "gold",
+    "cp_value": 120,
+    "base_buy_price": 216,
+    "image_url": "https://cdn.meme-economy.app/items/wojak_eclipse_gold_0001.png"
+  },
+  {
+    "key": "wojak_eclipse_rainbow_0001",
+    "name": "Wojak Eclipse Rainbow #0001",
+    "rarity": "epic",
+    "type": "gif",
+    "color": "rainbow",
+    "cp_value": 120,
+    "base_buy_price": 288,
+    "image_url": "https://cdn.meme-economy.app/items/wojak_eclipse_rainbow_0001.png"
+  },
+  {
+    "key": "wojak_eclipse_standard_0002",
+    "name": "Wojak Eclipse #0002",
+    "rarity": "epic",
+    "type": "gif",
+    "color": "standard",
+    "cp_value": 120,
+    "base_buy_price": 144,
+    "image_url": "https://cdn.meme-economy.app/items/wojak_eclipse_standard_0002.png"
+  },
+  {
+    "key": "wojak_eclipse_gold_0002",
+    "name": "Wojak Eclipse Gold #0002",
+    "rarity": "epic",
+    "type": "gif",
+    "color": "gold",
+    "cp_value": 120,
+    "base_buy_price": 216,
+    "image_url": "https://cdn.meme-economy.app/items/wojak_eclipse_gold_0002.png"
+  },
+  {
+    "key": "wojak_eclipse_rainbow_0002",
+    "name": "Wojak Eclipse Rainbow #0002",
+    "rarity": "epic",
+    "type": "gif",
+    "color": "rainbow",
+    "cp_value": 120,
+    "base_buy_price": 288,
+    "image_url": "https://cdn.meme-economy.app/items/wojak_eclipse_rainbow_0002.png"
+  },
+  {
+    "key": "meme_storm_standard_0001",
+    "name": "Meme Storm #0001",
+    "rarity": "epic",
+    "type": "gif",
+    "color": "standard",
+    "cp_value": 120,
+    "base_buy_price": 144,
+    "image_url": "https://cdn.meme-economy.app/items/meme_storm_standard_0001.png"
+  },
+  {
+    "key": "meme_storm_gold_0001",
+    "name": "Meme Storm Gold #0001",
+    "rarity": "epic",
+    "type": "gif",
+    "color": "gold",
+    "cp_value": 120,
+    "base_buy_price": 216,
+    "image_url": "https://cdn.meme-economy.app/items/meme_storm_gold_0001.png"
+  },
+  {
+    "key": "meme_storm_rainbow_0001",
+    "name": "Meme Storm Rainbow #0001",
+    "rarity": "epic",
+    "type": "gif",
+    "color": "rainbow",
+    "cp_value": 120,
+    "base_buy_price": 288,
+    "image_url": "https://cdn.meme-economy.app/items/meme_storm_rainbow_0001.png"
+  },
+  {
+    "key": "meme_storm_standard_0002",
+    "name": "Meme Storm #0002",
+    "rarity": "epic",
+    "type": "gif",
+    "color": "standard",
+    "cp_value": 120,
+    "base_buy_price": 144,
+    "image_url": "https://cdn.meme-economy.app/items/meme_storm_standard_0002.png"
+  },
+  {
+    "key": "meme_storm_gold_0002",
+    "name": "Meme Storm Gold #0002",
+    "rarity": "epic",
+    "type": "gif",
+    "color": "gold",
+    "cp_value": 120,
+    "base_buy_price": 216,
+    "image_url": "https://cdn.meme-economy.app/items/meme_storm_gold_0002.png"
+  },
+  {
+    "key": "meme_storm_rainbow_0002",
+    "name": "Meme Storm Rainbow #0002",
+    "rarity": "epic",
+    "type": "gif",
+    "color": "rainbow",
+    "cp_value": 120,
+    "base_buy_price": 288,
+    "image_url": "https://cdn.meme-economy.app/items/meme_storm_rainbow_0002.png"
+  },
+  {
+    "key": "pepe_emperor_gold_0001",
+    "name": "Pepe Emperor Gold #0001",
+    "rarity": "legendary",
+    "type": "avatar",
+    "color": "gold",
+    "cp_value": 320,
+    "base_buy_price": 660,
+    "image_url": "https://cdn.meme-economy.app/items/pepe_emperor_gold_0001.png"
+  },
+  {
+    "key": "pepe_emperor_rainbow_0001",
+    "name": "Pepe Emperor Rainbow #0001",
+    "rarity": "legendary",
+    "type": "avatar",
+    "color": "rainbow",
+    "cp_value": 320,
+    "base_buy_price": 880,
+    "image_url": "https://cdn.meme-economy.app/items/pepe_emperor_rainbow_0001.png"
+  },
+  {
+    "key": "pepe_emperor_gold_0002",
+    "name": "Pepe Emperor Gold #0002",
+    "rarity": "legendary",
+    "type": "avatar",
+    "color": "gold",
+    "cp_value": 320,
+    "base_buy_price": 660,
+    "image_url": "https://cdn.meme-economy.app/items/pepe_emperor_gold_0002.png"
+  },
+  {
+    "key": "pepe_emperor_rainbow_0002",
+    "name": "Pepe Emperor Rainbow #0002",
+    "rarity": "legendary",
+    "type": "avatar",
+    "color": "rainbow",
+    "cp_value": 320,
+    "base_buy_price": 880,
+    "image_url": "https://cdn.meme-economy.app/items/pepe_emperor_rainbow_0002.png"
+  },
+  {
+    "key": "doge_pharaoh_gold_0001",
+    "name": "Doge Pharaoh Gold #0001",
+    "rarity": "legendary",
+    "type": "frame",
+    "color": "gold",
+    "cp_value": 320,
+    "base_buy_price": 594,
+    "image_url": "https://cdn.meme-economy.app/items/doge_pharaoh_gold_0001.png"
+  },
+  {
+    "key": "doge_pharaoh_rainbow_0001",
+    "name": "Doge Pharaoh Rainbow #0001",
+    "rarity": "legendary",
+    "type": "frame",
+    "color": "rainbow",
+    "cp_value": 320,
+    "base_buy_price": 792,
+    "image_url": "https://cdn.meme-economy.app/items/doge_pharaoh_rainbow_0001.png"
+  },
+  {
+    "key": "doge_pharaoh_gold_0002",
+    "name": "Doge Pharaoh Gold #0002",
+    "rarity": "legendary",
+    "type": "frame",
+    "color": "gold",
+    "cp_value": 320,
+    "base_buy_price": 594,
+    "image_url": "https://cdn.meme-economy.app/items/doge_pharaoh_gold_0002.png"
+  },
+  {
+    "key": "doge_pharaoh_rainbow_0002",
+    "name": "Doge Pharaoh Rainbow #0002",
+    "rarity": "legendary",
+    "type": "frame",
+    "color": "rainbow",
+    "cp_value": 320,
+    "base_buy_price": 792,
+    "image_url": "https://cdn.meme-economy.app/items/doge_pharaoh_rainbow_0002.png"
+  },
+  {
+    "key": "wojak_oracle_gold_0001",
+    "name": "Wojak Oracle Gold #0001",
+    "rarity": "legendary",
+    "type": "avatar",
+    "color": "gold",
+    "cp_value": 320,
+    "base_buy_price": 660,
+    "image_url": "https://cdn.meme-economy.app/items/wojak_oracle_gold_0001.png"
+  },
+  {
+    "key": "wojak_oracle_rainbow_0001",
+    "name": "Wojak Oracle Rainbow #0001",
+    "rarity": "legendary",
+    "type": "avatar",
+    "color": "rainbow",
+    "cp_value": 320,
+    "base_buy_price": 880,
+    "image_url": "https://cdn.meme-economy.app/items/wojak_oracle_rainbow_0001.png"
+  },
+  {
+    "key": "wojak_oracle_gold_0002",
+    "name": "Wojak Oracle Gold #0002",
+    "rarity": "legendary",
+    "type": "avatar",
+    "color": "gold",
+    "cp_value": 320,
+    "base_buy_price": 660,
+    "image_url": "https://cdn.meme-economy.app/items/wojak_oracle_gold_0002.png"
+  },
+  {
+    "key": "wojak_oracle_rainbow_0002",
+    "name": "Wojak Oracle Rainbow #0002",
+    "rarity": "legendary",
+    "type": "avatar",
+    "color": "rainbow",
+    "cp_value": 320,
+    "base_buy_price": 880,
+    "image_url": "https://cdn.meme-economy.app/items/wojak_oracle_rainbow_0002.png"
+  },
+  {
+    "key": "trollface_crown_gold_0001",
+    "name": "Trollface Crown Gold #0001",
+    "rarity": "legendary",
+    "type": "frame",
+    "color": "gold",
+    "cp_value": 320,
+    "base_buy_price": 594,
+    "image_url": "https://cdn.meme-economy.app/items/trollface_crown_gold_0001.png"
+  },
+  {
+    "key": "trollface_crown_rainbow_0001",
+    "name": "Trollface Crown Rainbow #0001",
+    "rarity": "legendary",
+    "type": "frame",
+    "color": "rainbow",
+    "cp_value": 320,
+    "base_buy_price": 792,
+    "image_url": "https://cdn.meme-economy.app/items/trollface_crown_rainbow_0001.png"
+  },
+  {
+    "key": "trollface_crown_gold_0002",
+    "name": "Trollface Crown Gold #0002",
+    "rarity": "legendary",
+    "type": "frame",
+    "color": "gold",
+    "cp_value": 320,
+    "base_buy_price": 594,
+    "image_url": "https://cdn.meme-economy.app/items/trollface_crown_gold_0002.png"
+  },
+  {
+    "key": "trollface_crown_rainbow_0002",
+    "name": "Trollface Crown Rainbow #0002",
+    "rarity": "legendary",
+    "type": "frame",
+    "color": "rainbow",
+    "cp_value": 320,
+    "base_buy_price": 792,
+    "image_url": "https://cdn.meme-economy.app/items/trollface_crown_rainbow_0002.png"
+  },
+  {
+    "key": "sigma_titan_gold_0001",
+    "name": "Sigma Titan Gold #0001",
+    "rarity": "legendary",
+    "type": "avatar",
+    "color": "gold",
+    "cp_value": 320,
+    "base_buy_price": 660,
+    "image_url": "https://cdn.meme-economy.app/items/sigma_titan_gold_0001.png"
+  },
+  {
+    "key": "sigma_titan_rainbow_0001",
+    "name": "Sigma Titan Rainbow #0001",
+    "rarity": "legendary",
+    "type": "avatar",
+    "color": "rainbow",
+    "cp_value": 320,
+    "base_buy_price": 880,
+    "image_url": "https://cdn.meme-economy.app/items/sigma_titan_rainbow_0001.png"
+  },
+  {
+    "key": "sigma_titan_gold_0002",
+    "name": "Sigma Titan Gold #0002",
+    "rarity": "legendary",
+    "type": "avatar",
+    "color": "gold",
+    "cp_value": 320,
+    "base_buy_price": 660,
+    "image_url": "https://cdn.meme-economy.app/items/sigma_titan_gold_0002.png"
+  },
+  {
+    "key": "sigma_titan_rainbow_0002",
+    "name": "Sigma Titan Rainbow #0002",
+    "rarity": "legendary",
+    "type": "avatar",
+    "color": "rainbow",
+    "cp_value": 320,
+    "base_buy_price": 880,
+    "image_url": "https://cdn.meme-economy.app/items/sigma_titan_rainbow_0002.png"
+  },
+  {
+    "key": "meme_overlord_gold_0001",
+    "name": "Meme Overlord Gold #0001",
+    "rarity": "legendary",
+    "type": "frame",
+    "color": "gold",
+    "cp_value": 320,
+    "base_buy_price": 594,
+    "image_url": "https://cdn.meme-economy.app/items/meme_overlord_gold_0001.png"
+  },
+  {
+    "key": "meme_overlord_rainbow_0001",
+    "name": "Meme Overlord Rainbow #0001",
+    "rarity": "legendary",
+    "type": "frame",
+    "color": "rainbow",
+    "cp_value": 320,
+    "base_buy_price": 792,
+    "image_url": "https://cdn.meme-economy.app/items/meme_overlord_rainbow_0001.png"
+  },
+  {
+    "key": "meme_overlord_gold_0002",
+    "name": "Meme Overlord Gold #0002",
+    "rarity": "legendary",
+    "type": "frame",
+    "color": "gold",
+    "cp_value": 320,
+    "base_buy_price": 594,
+    "image_url": "https://cdn.meme-economy.app/items/meme_overlord_gold_0002.png"
+  },
+  {
+    "key": "meme_overlord_rainbow_0002",
+    "name": "Meme Overlord Rainbow #0002",
+    "rarity": "legendary",
+    "type": "frame",
+    "color": "rainbow",
+    "cp_value": 320,
+    "base_buy_price": 792,
+    "image_url": "https://cdn.meme-economy.app/items/meme_overlord_rainbow_0002.png"
+  },
+  {
+    "key": "doge_celestial_gold_0001",
+    "name": "Doge Celestial Gold #0001",
+    "rarity": "legendary",
+    "type": "avatar",
+    "color": "gold",
+    "cp_value": 320,
+    "base_buy_price": 660,
+    "image_url": "https://cdn.meme-economy.app/items/doge_celestial_gold_0001.png"
+  },
+  {
+    "key": "doge_celestial_rainbow_0001",
+    "name": "Doge Celestial Rainbow #0001",
+    "rarity": "legendary",
+    "type": "avatar",
+    "color": "rainbow",
+    "cp_value": 320,
+    "base_buy_price": 880,
+    "image_url": "https://cdn.meme-economy.app/items/doge_celestial_rainbow_0001.png"
+  },
+  {
+    "key": "doge_celestial_gold_0002",
+    "name": "Doge Celestial Gold #0002",
+    "rarity": "legendary",
+    "type": "avatar",
+    "color": "gold",
+    "cp_value": 320,
+    "base_buy_price": 660,
+    "image_url": "https://cdn.meme-economy.app/items/doge_celestial_gold_0002.png"
+  },
+  {
+    "key": "doge_celestial_rainbow_0002",
+    "name": "Doge Celestial Rainbow #0002",
+    "rarity": "legendary",
+    "type": "avatar",
+    "color": "rainbow",
+    "cp_value": 320,
+    "base_buy_price": 880,
+    "image_url": "https://cdn.meme-economy.app/items/doge_celestial_rainbow_0002.png"
+  },
+  {
+    "key": "pepe_infinity_gold_0001",
+    "name": "Pepe Infinity Gold #0001",
+    "rarity": "legendary",
+    "type": "frame",
+    "color": "gold",
+    "cp_value": 320,
+    "base_buy_price": 594,
+    "image_url": "https://cdn.meme-economy.app/items/pepe_infinity_gold_0001.png"
+  },
+  {
+    "key": "pepe_infinity_rainbow_0001",
+    "name": "Pepe Infinity Rainbow #0001",
+    "rarity": "legendary",
+    "type": "frame",
+    "color": "rainbow",
+    "cp_value": 320,
+    "base_buy_price": 792,
+    "image_url": "https://cdn.meme-economy.app/items/pepe_infinity_rainbow_0001.png"
+  },
+  {
+    "key": "pepe_infinity_gold_0002",
+    "name": "Pepe Infinity Gold #0002",
+    "rarity": "legendary",
+    "type": "frame",
+    "color": "gold",
+    "cp_value": 320,
+    "base_buy_price": 594,
+    "image_url": "https://cdn.meme-economy.app/items/pepe_infinity_gold_0002.png"
+  },
+  {
+    "key": "pepe_infinity_rainbow_0002",
+    "name": "Pepe Infinity Rainbow #0002",
+    "rarity": "legendary",
+    "type": "frame",
+    "color": "rainbow",
+    "cp_value": 320,
+    "base_buy_price": 792,
+    "image_url": "https://cdn.meme-economy.app/items/pepe_infinity_rainbow_0002.png"
+  },
+  {
+    "key": "pepe_gold_idol_gold_0001",
+    "name": "Pepe Gold Idol Gold #0001",
+    "rarity": "unique",
+    "type": "artifact",
+    "color": "gold",
+    "cp_value": 600,
+    "base_buy_price": 2160,
+    "image_url": "https://cdn.meme-economy.app/items/pepe_gold_idol_gold_0001.png"
+  },
+  {
+    "key": "pepe_gold_idol_rainbow_0001",
+    "name": "Pepe Gold Idol Rainbow #0001",
+    "rarity": "unique",
+    "type": "artifact",
+    "color": "rainbow",
+    "cp_value": 600,
+    "base_buy_price": 2880,
+    "image_url": "https://cdn.meme-economy.app/items/pepe_gold_idol_rainbow_0001.png"
+  },
+  {
+    "key": "doge_diamond_statue_gold_0001",
+    "name": "Doge Diamond Statue Gold #0001",
+    "rarity": "unique",
+    "type": "artifact",
+    "color": "gold",
+    "cp_value": 600,
+    "base_buy_price": 2160,
+    "image_url": "https://cdn.meme-economy.app/items/doge_diamond_statue_gold_0001.png"
+  },
+  {
+    "key": "doge_diamond_statue_rainbow_0001",
+    "name": "Doge Diamond Statue Rainbow #0001",
+    "rarity": "unique",
+    "type": "artifact",
+    "color": "rainbow",
+    "cp_value": 600,
+    "base_buy_price": 2880,
+    "image_url": "https://cdn.meme-economy.app/items/doge_diamond_statue_rainbow_0001.png"
+  },
+  {
+    "key": "wojak_time_relic_gold_0001",
+    "name": "Wojak Time Relic Gold #0001",
+    "rarity": "unique",
+    "type": "artifact",
+    "color": "gold",
+    "cp_value": 600,
+    "base_buy_price": 2160,
+    "image_url": "https://cdn.meme-economy.app/items/wojak_time_relic_gold_0001.png"
+  },
+  {
+    "key": "wojak_time_relic_rainbow_0001",
+    "name": "Wojak Time Relic Rainbow #0001",
+    "rarity": "unique",
+    "type": "artifact",
+    "color": "rainbow",
+    "cp_value": 600,
+    "base_buy_price": 2880,
+    "image_url": "https://cdn.meme-economy.app/items/wojak_time_relic_rainbow_0001.png"
+  },
+  {
+    "key": "trollface_prism_gold_0001",
+    "name": "Trollface Prism Gold #0001",
+    "rarity": "unique",
+    "type": "artifact",
+    "color": "gold",
+    "cp_value": 600,
+    "base_buy_price": 2160,
+    "image_url": "https://cdn.meme-economy.app/items/trollface_prism_gold_0001.png"
+  },
+  {
+    "key": "trollface_prism_rainbow_0001",
+    "name": "Trollface Prism Rainbow #0001",
+    "rarity": "unique",
+    "type": "artifact",
+    "color": "rainbow",
+    "cp_value": 600,
+    "base_buy_price": 2880,
+    "image_url": "https://cdn.meme-economy.app/items/trollface_prism_rainbow_0001.png"
+  },
+  {
+    "key": "sigma_relic_blade_gold_0001",
+    "name": "Sigma Relic Blade Gold #0001",
+    "rarity": "unique",
+    "type": "artifact",
+    "color": "gold",
+    "cp_value": 600,
+    "base_buy_price": 2160,
+    "image_url": "https://cdn.meme-economy.app/items/sigma_relic_blade_gold_0001.png"
+  },
+  {
+    "key": "sigma_relic_blade_rainbow_0001",
+    "name": "Sigma Relic Blade Rainbow #0001",
+    "rarity": "unique",
+    "type": "artifact",
+    "color": "rainbow",
+    "cp_value": 600,
+    "base_buy_price": 2880,
+    "image_url": "https://cdn.meme-economy.app/items/sigma_relic_blade_rainbow_0001.png"
+  },
+  {
+    "key": "meme_cube_gold_0001",
+    "name": "Meme Cube Gold #0001",
+    "rarity": "unique",
+    "type": "artifact",
+    "color": "gold",
+    "cp_value": 600,
+    "base_buy_price": 2160,
+    "image_url": "https://cdn.meme-economy.app/items/meme_cube_gold_0001.png"
+  },
+  {
+    "key": "meme_cube_rainbow_0001",
+    "name": "Meme Cube Rainbow #0001",
+    "rarity": "unique",
+    "type": "artifact",
+    "color": "rainbow",
+    "cp_value": 600,
+    "base_buy_price": 2880,
+    "image_url": "https://cdn.meme-economy.app/items/meme_cube_rainbow_0001.png"
+  },
+  {
+    "key": "doge_aurora_totem_gold_0001",
+    "name": "Doge Aurora Totem Gold #0001",
+    "rarity": "unique",
+    "type": "artifact",
+    "color": "gold",
+    "cp_value": 600,
+    "base_buy_price": 2160,
+    "image_url": "https://cdn.meme-economy.app/items/doge_aurora_totem_gold_0001.png"
+  },
+  {
+    "key": "doge_aurora_totem_rainbow_0001",
+    "name": "Doge Aurora Totem Rainbow #0001",
+    "rarity": "unique",
+    "type": "artifact",
+    "color": "rainbow",
+    "cp_value": 600,
+    "base_buy_price": 2880,
+    "image_url": "https://cdn.meme-economy.app/items/doge_aurora_totem_rainbow_0001.png"
+  },
+  {
+    "key": "pepe_thunder_orb_gold_0001",
+    "name": "Pepe Thunder Orb Gold #0001",
+    "rarity": "unique",
+    "type": "artifact",
+    "color": "gold",
+    "cp_value": 600,
+    "base_buy_price": 2160,
+    "image_url": "https://cdn.meme-economy.app/items/pepe_thunder_orb_gold_0001.png"
+  },
+  {
+    "key": "pepe_thunder_orb_rainbow_0001",
+    "name": "Pepe Thunder Orb Rainbow #0001",
+    "rarity": "unique",
+    "type": "artifact",
+    "color": "rainbow",
+    "cp_value": 600,
+    "base_buy_price": 2880,
+    "image_url": "https://cdn.meme-economy.app/items/pepe_thunder_orb_rainbow_0001.png"
+  },
+  {
+    "key": "wojak_chrono_deck_gold_0001",
+    "name": "Wojak Chrono Deck Gold #0001",
+    "rarity": "unique",
+    "type": "artifact",
+    "color": "gold",
+    "cp_value": 600,
+    "base_buy_price": 2160,
+    "image_url": "https://cdn.meme-economy.app/items/wojak_chrono_deck_gold_0001.png"
+  },
+  {
+    "key": "wojak_chrono_deck_rainbow_0001",
+    "name": "Wojak Chrono Deck Rainbow #0001",
+    "rarity": "unique",
+    "type": "artifact",
+    "color": "rainbow",
+    "cp_value": 600,
+    "base_buy_price": 2880,
+    "image_url": "https://cdn.meme-economy.app/items/wojak_chrono_deck_rainbow_0001.png"
+  },
+  {
+    "key": "skibidi_masterpiece_gold_0001",
+    "name": "Skibidi Masterpiece Gold #0001",
+    "rarity": "unique",
+    "type": "artifact",
+    "color": "gold",
+    "cp_value": 600,
+    "base_buy_price": 2160,
+    "image_url": "https://cdn.meme-economy.app/items/skibidi_masterpiece_gold_0001.png"
+  },
+  {
+    "key": "skibidi_masterpiece_rainbow_0001",
+    "name": "Skibidi Masterpiece Rainbow #0001",
+    "rarity": "unique",
+    "type": "artifact",
+    "color": "rainbow",
+    "cp_value": 600,
+    "base_buy_price": 2880,
+    "image_url": "https://cdn.meme-economy.app/items/skibidi_masterpiece_rainbow_0001.png"
+  },
+  {
+    "key": "rizzler_crown_gold_0001",
+    "name": "Rizzler Crown Gold #0001",
+    "rarity": "unique",
+    "type": "artifact",
+    "color": "gold",
+    "cp_value": 600,
+    "base_buy_price": 2160,
+    "image_url": "https://cdn.meme-economy.app/items/rizzler_crown_gold_0001.png"
+  },
+  {
+    "key": "rizzler_crown_rainbow_0001",
+    "name": "Rizzler Crown Rainbow #0001",
+    "rarity": "unique",
+    "type": "artifact",
+    "color": "rainbow",
+    "cp_value": 600,
+    "base_buy_price": 2880,
+    "image_url": "https://cdn.meme-economy.app/items/rizzler_crown_rainbow_0001.png"
+  },
+  {
+    "key": "meme_universe_key_gold_0001",
+    "name": "Meme Universe Key Gold #0001",
+    "rarity": "unique",
+    "type": "artifact",
+    "color": "gold",
+    "cp_value": 600,
+    "base_buy_price": 2160,
+    "image_url": "https://cdn.meme-economy.app/items/meme_universe_key_gold_0001.png"
+  },
+  {
+    "key": "meme_universe_key_rainbow_0001",
+    "name": "Meme Universe Key Rainbow #0001",
+    "rarity": "unique",
+    "type": "artifact",
+    "color": "rainbow",
+    "cp_value": 600,
+    "base_buy_price": 2880,
+    "image_url": "https://cdn.meme-economy.app/items/meme_universe_key_rainbow_0001.png"
+  },
+  {
+    "key": "pepe_mythic_flame_rainbow_0001",
+    "name": "Pepe Mythic Flame Rainbow #0001",
+    "rarity": "mythical",
+    "type": "artifact",
+    "color": "rainbow",
+    "cp_value": 1500,
+    "base_buy_price": 9600,
+    "image_url": "https://cdn.meme-economy.app/items/pepe_mythic_flame_rainbow_0001.png"
+  },
+  {
+    "key": "doge_mythic_nova_rainbow_0001",
+    "name": "Doge Mythic Nova Rainbow #0001",
+    "rarity": "mythical",
+    "type": "artifact",
+    "color": "rainbow",
+    "cp_value": 1500,
+    "base_buy_price": 9600,
+    "image_url": "https://cdn.meme-economy.app/items/doge_mythic_nova_rainbow_0001.png"
+  },
+  {
+    "key": "wojak_mythic_void_rainbow_0001",
+    "name": "Wojak Mythic Void Rainbow #0001",
+    "rarity": "mythical",
+    "type": "artifact",
+    "color": "rainbow",
+    "cp_value": 1500,
+    "base_buy_price": 9600,
+    "image_url": "https://cdn.meme-economy.app/items/wojak_mythic_void_rainbow_0001.png"
+  },
+  {
+    "key": "trollface_mythic_rift_rainbow_0001",
+    "name": "Trollface Mythic Rift Rainbow #0001",
+    "rarity": "mythical",
+    "type": "artifact",
+    "color": "rainbow",
+    "cp_value": 1500,
+    "base_buy_price": 9600,
+    "image_url": "https://cdn.meme-economy.app/items/trollface_mythic_rift_rainbow_0001.png"
+  },
+  {
+    "key": "sigma_mythic_pulse_rainbow_0001",
+    "name": "Sigma Mythic Pulse Rainbow #0001",
+    "rarity": "mythical",
+    "type": "artifact",
+    "color": "rainbow",
+    "cp_value": 1500,
+    "base_buy_price": 9600,
+    "image_url": "https://cdn.meme-economy.app/items/sigma_mythic_pulse_rainbow_0001.png"
+  },
+  {
+    "key": "meme_mythic_halo_rainbow_0001",
+    "name": "Meme Mythic Halo Rainbow #0001",
+    "rarity": "mythical",
+    "type": "artifact",
+    "color": "rainbow",
+    "cp_value": 1500,
+    "base_buy_price": 9600,
+    "image_url": "https://cdn.meme-economy.app/items/meme_mythic_halo_rainbow_0001.png"
+  },
+  {
+    "key": "pepe_mythic_phoenix_rainbow_0001",
+    "name": "Pepe Mythic Phoenix Rainbow #0001",
+    "rarity": "mythical",
+    "type": "artifact",
+    "color": "rainbow",
+    "cp_value": 1500,
+    "base_buy_price": 9600,
+    "image_url": "https://cdn.meme-economy.app/items/pepe_mythic_phoenix_rainbow_0001.png"
+  },
+  {
+    "key": "doge_mythic_aurora_rainbow_0001",
+    "name": "Doge Mythic Aurora Rainbow #0001",
+    "rarity": "mythical",
+    "type": "artifact",
+    "color": "rainbow",
+    "cp_value": 1500,
+    "base_buy_price": 9600,
+    "image_url": "https://cdn.meme-economy.app/items/doge_mythic_aurora_rainbow_0001.png"
+  }
+]
